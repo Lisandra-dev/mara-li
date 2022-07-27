@@ -23,10 +23,7 @@ Notes :
 - Première élève
 - Curieuse
 - nocturne (essaie de s'adapter mais elle s'endort souvent en cours)
-
-
 ---
-
 
 - [[20. Compendium/22. Personnages/Autumn O'Quies.md|Autumn O'Quies]]
 
@@ -38,7 +35,7 @@ I n t r o d u c t i o n<br>
 **Nom & Prénom :** Autumn O’Quies
 
 **Âge :** 20 ans 
-**Race :** Liberi^[Nom inspiré de Arknight]
+**Race :** Liberi[^1]
 **Maison :** /
 **Parcours** : Maître
 **Spécialité** : Maître tactique[^2]
@@ -90,13 +87,13 @@ P o u v o i r s<br>
 > Les sens d’Autumn sont exarcébés, et elle est capable de situer une cible en se basant uniquement sur son odorat ou son ouïe.
 > *__Limitation__* : Les sens peuvent être submergés. 
 
-> [!power] ❖ — **Balles aquatiques** *(Actif)* — ❖
-> Autumn crée plusieurs balle composée d’eau, qu’elle propulse à très grande vitesse sur sa cible. Elle peut choisir le nombre de balle et leur forme, mais plus elles seront nombreuses et grosses, moins elles seront faciles à diriger. Généralement, elle envoie 5 balles de calibre de 9mm. 
+> [!power] ❖ — **Projectiles aquatiques** *(Actif)* — ❖
+> Autumn crée plusieurs projectiles composée d’eau, qu’elle propulse à très grande vitesse sur sa cible. Elle peut choisir le nombre de balle et leur forme, mais plus elles seront nombreuses et grosses, moins elles seront faciles à diriger. Généralement, elle envoie 2 balles de calibre de 9mm. 
 >*Bonus* : +5
 >*Cooldown* : 1x/combat
 >*Domaine* : Eau
 
-> [!power] ❖ — **Vague ** *(Actif)* — ❖
+> [!power] ❖ — **(Nom) ** *(Actif)* — ❖
 >*Bonus* : 
 >*Cooldown* :
 >*Domaine* : 
@@ -104,9 +101,9 @@ P o u v o i r s<br>
 > [!buff] ❖ — **Yeux de Rapace (Buff)** — ❖
 > Les yeux d’Autumn ont été entrainés pour pouvoir distinguer une cible sur de très grandes distances. Elle est donc capable de “zoomer” sur ses dernières afin de les viser.
 > *Bonus* :  +5
-> *Cooldown* : 5 maximum. Si elle force, elle se créera une migraine opthalmique extrêmement douloureuse.
+> *Cooldown* : Une fois tous les 2 tours, 5 par jours maximum. Au delà, peut se provoquer une migraine opthalmique (et un malus dans sa vision). 
 > *Domaine* : Instinct
-> *Effet* : Permet de distinguer une cible sur de grande distance et de viser une partie précise de son corps. +3 en jet de perception et/ou d’attaque à distance.
+> *Effet* : Permet de distinguer une cible sur de grande distance et de viser une partie précise de son corps. +3 en jet de perception et/ou d’attaque à distance **après utilisation de la compétence**.
 
-
+[^1]: Nom inspiré d’Arknight
 [^2]: Le parcours de Autumn lui est imposée par ses obligations et son héritages : elle doit pouvoir diriger l’ensemble des clans et se battre s’y nécessaire. Il est totalement possible que son parcours soit modifiée par son évolution dans le futur.
