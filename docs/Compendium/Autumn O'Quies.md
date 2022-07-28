@@ -33,7 +33,7 @@ I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
 **Nom & Prénom :** Autumn O’Quies
-
+*Surnom :* “Plume” (par sa mère) / “Mademoiselle” (son majordome) / “P’tite cheffe” (son cousin)
 **Âge :** 20 ans 
 **Race :** Liberi[^1]
 **Maison :** /
@@ -49,6 +49,7 @@ Séparés en différents clans, ils se sont fait très longtemps la guerre pour 
 
 Le clan O’Quies est un clan de rapaces nocturnes, habitués à la chasse et l’exploration de nuit. De fait, Autumn aura quelque difficulté à se conformer à une vie de jour, mais elle y est obligée (notamment car nombreux sont les Liberi diurnes). 
 <h3 style="text-align:center">──────༺ Mental ༻──────</h3>
+
 ##### __*Aime*__
 
 ##### __*Déteste*__ : 
@@ -64,13 +65,34 @@ Le clan O’Quies est un clan de rapaces nocturnes, habitués à la chasse et l�
 ##### __*Objectifs*__
 
 <h3 style="text-align:center">──────༺ Physique ༻──────</h3>
-*Taille* : 
-*Poids* : 
-*Yeux* : 
-*Cheveux* : 
-*Peau* : 
-*Traits notables* : 
-*Cicatrice* : 
+
+![[../assets/img/B8CBA4E8-34E5-4D3C-845C-724535F33256.jpeg|+side]]
+
+
+
+
+
+
+
+
+
+
+
+
+Autumn est une Liberi. De ce fait, elle possède ce qu'on pourrait appeler une cape de plume. En effet, de son dos, des excroissantes d’os forment un V, d'où partent de nombreuses plumes brun, marrons et gris. Cette cape lui arrive jusqu’à la taille (mais est légèrement plus longue en hiver). Par cela, elle se retrouve obligée de porter uniquement des dos-nus.
+
+En dehors de cela, son autre trait est la présence d’aigrette : des petites plumes partant de son crâne et qui ressemblent à des sortes oreilles. On peut facilement lire les émotions de la jeune fille par ses aigrettes. 
+
+Pour le reste… Autumn a des yeux dorés, avec des cheveux courts de la même couleurs que ses plumes : bruns et parfois roux. Un visage rond, un petit nez fin… Le plus marquant est sa petite taille, 
+
+
+*Taille* : 1m55
+*Poids* : 50kg
+*Yeux* : Verts
+*Cheveux* : Bruns - roux
+*Peau* : Claire
+*Traits notables* : Des lunettes de vue faite pour diminuer sa vision
+*Cicatrice* : /
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
@@ -93,7 +115,8 @@ P o u v o i r s<br>
 >*Cooldown* : 1x/combat
 >*Domaine* : Eau
 
-> [!power] ❖ — **(Nom) ** *(Actif)* — ❖
+> [!power] ❖ — **Vague** *(Actif)* — ❖
+> 
 >*Bonus* : 
 >*Cooldown* :
 >*Domaine* : 
