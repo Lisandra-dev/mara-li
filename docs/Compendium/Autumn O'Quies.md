@@ -1,4 +1,3 @@
-
 ---
 date: 22-07-2022
 category: Compendium
@@ -7,7 +6,8 @@ title: Autumn O'Quies
 description: Fiche de Autumn O'Quies
 type: OC
 univers: Lagendia
-tag: RP/Lagendia/OC/PJ
+tag: RP/Lagendia/OC/P
+image: Silence_Autumn.jpeg
 ---
 
 RP:: [[Lagendia|Lagendia]]
@@ -66,33 +66,24 @@ Le clan O’Quies est un clan de rapaces nocturnes, habitués à la chasse et l�
 
 <h3 style="text-align:center">──────༺ Physique ༻──────</h3>
 
-![[../assets/img/B8CBA4E8-34E5-4D3C-845C-724535F33256.jpeg|+side]]
-
-
-
-
-
-
-
-
-
-
-
+> [!infobox|left]
+> ![[../assets/img/Silence_Autumn.jpeg|cover hsmall]]
+> *Taille* : 1m55
+> *Poids* : 50kg
+> *Yeux* : Verts
+> *Cheveux* : Bruns - roux
+> *Peau* : Claire
+> *Traits notables* : Des lunettes de vue faite pour diminuer sa vision
+> *Cicatrice* : /
 
 Autumn est une Liberi. De ce fait, elle possède ce qu'on pourrait appeler une cape de plume. En effet, de son dos, des excroissantes d’os forment un V, d'où partent de nombreuses plumes brun, marrons et gris. Cette cape lui arrive jusqu’à la taille (mais est légèrement plus longue en hiver). Par cela, elle se retrouve obligée de porter uniquement des dos-nus.
 
-En dehors de cela, son autre trait est la présence d’aigrette : des petites plumes partant de son crâne et qui ressemblent à des sortes oreilles. On peut facilement lire les émotions de la jeune fille par ses aigrettes. 
+En dehors de cela, son autre trait est la présence d’aigrette : des petites plumes partant de son crâne et qui ressemblent à des sortes oreilles. On peut facilement lire les émotions de la jeune fille car elles ont tendance à remuer, et elle peut même les applatir sur sa tête lorsqu’elle est en colère ou terrifiée. 
 
-Pour le reste… Autumn a des yeux dorés, avec des cheveux courts de la même couleurs que ses plumes : bruns et parfois roux. Un visage rond, un petit nez fin… Le plus marquant est sa petite taille, 
+Pour le reste… Autumn a des yeux dorés, avec des cheveux courts de la même couleurs que ses plumes : bruns et parfois roux. Un visage rond, un petit nez fin… Le plus marquant est sa petite taille, qui est source de moquerie au sein de sa famille : en dehors d’elle et sa mère, tout le monde mesure plus d’1m80 voire 1m90.
+Cela dit, de part son rythme, sa petite taille se voit peu : elle est assez musclée et très sportive. 
 
-
-*Taille* : 1m55
-*Poids* : 50kg
-*Yeux* : Verts
-*Cheveux* : Bruns - roux
-*Peau* : Claire
-*Traits notables* : Des lunettes de vue faite pour diminuer sa vision
-*Cicatrice* : /
+Elle a une voix douce et très chantante. Par contre, elle ne paraît pas “si douce” malgré sa petite taille et peut se faire “plus grosse qu’elle ne l’est” grâce à ses plumes. 
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
