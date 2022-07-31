@@ -15,7 +15,9 @@ image: "Autumn O'Quies.png"
  <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>  
 I n t r o d u c t i o n<br>  
 ╚═══━━━─── • ───━━━═══╝</h2>  
-![[Plume_Autumn.jpg|+side]]  
+  
+![[../assets/img/Plume_Autumn.jpg|+side]]  
+  
 **Nom & Prénom :** Autumn O’Quies  
 *Surnom :* “Plume” (par sa mère) / “Mademoiselle” (son majordome) / “P’tite cheffe” (son cousin)  
 **Âge :** 20 ans  
