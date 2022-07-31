@@ -7,7 +7,7 @@ description: "Fiche de Autumn O'Quies"
 type: OC
 univers: Lagendia
 tag: RP/Lagendia/OC/
-image: "Autumn O'Quies.png"
+image: AutumOQuies_plume.png
 ---
 
 
@@ -86,7 +86,7 @@ C’est une jeune femme très compétitive et énergiques, qui a du mal à reste
 <h3 style="text-align:center">──────༺ Physique ༻──────</h3>
 
 > [!infobox|left]
-> ![[../assets/img/Autumn O'Quies.png|cover hsmall]]
+> ![[../assets/img/AutumOQuies_plume.png|cover hsmall]]
 > *Taille* : 1m55
 > *Poids* : 50kg
 > *Yeux* : Verts
