@@ -144,7 +144,7 @@ En dehors de son Hua, de part ses attributs physiques, Autumn a des sens extrêm
 
 > [!buff] ❖ — **Yeux de Rapace (Buff)** — ❖
 > Les yeux d’Autumn ont été entrainés pour pouvoir distinguer une cible sur de très grandes distances. Elle est donc capable de “zoomer” sur ces dernières afin de les viser.
-> *Bonus* : +5
+> *Bonus* : +2
 > *Cooldown* : Une fois tous les 2 tours, 5 par jours maximum. Au-delà, peut se provoquer une migraine ophtalmique (et un malus dans sa vision).
 > *Domaine* : Instinct
 > *Effet* : Permet de distinguer une cible sur de grande distance et de viser une partie précise de son corps. +2 en jet de perception et/ou d’attaque à distance **après utilisation de la compétence**.
