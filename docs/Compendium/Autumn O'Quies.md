@@ -3,11 +3,12 @@ date: 22-07-2022
 category: Compendium
 share: true
 title: "Autumn O'Quies"
-description: "Fiche de Autumn O'Quies"
+description: "Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur chef de son clan, elle maîtrise un hua d'eau et de glace, avec des sens exarcébée." 
 type: OC
 univers: Lagendia
 tag: RP/Lagendia/OC
 image: AutumOQuies_plume.png
+cover: https://d33wubrfki0l68.cloudfront.net/5397ec1df4e15cfc4603b863a1272f12b53fa06a/cc218/assets/img/plume_autumn.jpg
 ---
 
 
