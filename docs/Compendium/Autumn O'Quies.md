@@ -6,7 +6,7 @@ title: "Autumn O'Quies"
 description: "Fiche de Autumn O'Quies"
 type: OC
 univers: Lagendia
-tag: RP/Lagendia/OC/
+tag: RP/Lagendia/OC
 image: AutumOQuies_plume.png
 ---
 
@@ -63,14 +63,14 @@ D’un autre côté, Autumn est extrêmement curieuse et sensible à l’Histoir
 - Sa petite taille
 - Qu’on la prenne de haut (de fait)
 - Avoir chaud
-- Les environments trop urbains
+- Les environnements trop urbains
 - Qu’on lui arrache des plumes
 
 ##### __*Trivia*__ :
 - Fait des pompes tous les matins
 - Affectionne les bottines au cuir épais
 - S’endort régulièrement en cours
-- A du mal à s’endormir le soir et aura tendance à ignorer le couvre-feu.
+- Peine à s’endormir le soir et aura tendance à ignorer le couvre-feu.
 - Compétitive et essaiera d’être la première élève.
 - Intriguée par l’[[Écho]]
 
@@ -109,11 +109,11 @@ Niveau vêtement, elle apprécie les vêtements proches du corps, mais n’a pas
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
-Il n’y a pas grand chose à raconter sur l’histoire d’Autumn. Dix ans avant sa naissance, après une longue guerre au sein des clans Liberi, son père a réussi à les fédérer et unire les clans sous une seul et même bannière. Par cela, il a mis beaucoup d’espoir dans sa fille unique, qui doit reprendre la tête du clan O’Quies lorsque son père ne sera plus capable de diriger. 
+Il n’y a pas grand-chose à raconter sur l’histoire d’Autumn. Dix ans avant sa naissance, après une longue guerre au sein des clans Liberi, son père a réussi à les fédérer et unir les clans sous une seule et même bannière. Par cela, il a mis beaucoup d’espoir dans sa fille unique, qui doit reprendre la tête du clan O’Quies lorsque son père ne sera plus capable de diriger. 
 
-Elle a toujours été mise en compétition avec elle-même mais aussi les autres enfants des chefs de clan. De ce fait, elle a toujours eu une éducation exigente, et c’est pour cela qu’elle a des habitudes extrêmement spartiate. 
+Elle a toujours été mise en compétition avec elle-même, mais aussi les autres enfants des chefs de clan. De ce fait, elle a toujours eu une éducation exigeante, et c’est pour cela qu’elle possède des habitudes extrêmement spartiates. 
 
-Afin de parfaire son éducation, son père décide de l’envoyer à Etria afin qu’elle devienne la meilleure des Liberi. À moins qu’elle n’en décide autrement …?
+Afin de parfaire son éducation, son père décide de l’envoyer à Etria afin de devenir la meilleure des Liberi. À moins qu’elle n’en décide autrement …?
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 P o u v o i r s<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
@@ -126,12 +126,12 @@ En dehors de son Hua, de part ses attributs physiques, Autumn a des sens extrêm
  <h3 style="text-align:center">──────༺ Capacités ༻──────</h3>
 
 >[!passif] ❖ — **Perception du chasseur** *(Passif)* — ❖
-> Les sens d’Autumn sont exarcébés, et elle est capable de situer une cible en se basant uniquement sur son odorat ou son ouïe.
+> Les sens d’Autumn sont exacerbés, et elle est capable de situer une cible en se basant uniquement sur son odorat ou son ouïe.
 > *__Limitation__* : Les sens peuvent être submergés.
 > <u>*Limitation gameplay* : </u> Malus sur les dés lorsque les sens sont submergés.
 
 > [!power] ❖ — **Projectiles aquatiques** *(Actif)* — ❖
-> Autumn crée plusieurs projectiles composée d’eau, qu’elle propulse à très grande vitesse sur sa cible. Elle peut choisir le nombre de balle et leur forme, mais plus elles seront nombreuses et grosses, moins elles seront faciles à diriger. Généralement, elle envoie 2 balles de calibre de 9mm.
+> Autumn crée plusieurs projectiles composés d’eau, qu’elle propulse à très grande vitesse sur sa cible. Elle peut choisir le nombre de balles et leur forme, mais plus elles seront nombreuses et grosses, moins elles seront faciles à diriger. Généralement, elle envoie deux balles de calibre de 9mm.
 >*Bonus* : +5
 >*Cooldown* : 1x/combat
 >*Domaine* : Eau
@@ -143,11 +143,11 @@ En dehors de son Hua, de part ses attributs physiques, Autumn a des sens extrêm
 > *Domaine* : Eau
 
 > [!buff] ❖ — **Yeux de Rapace (Buff)** — ❖
-> Les yeux d’Autumn ont été entrainés pour pouvoir distinguer une cible sur de très grandes distances. Elle est donc capable de “zoomer” sur ses dernières afin de les viser.
+> Les yeux d’Autumn ont été entrainés pour pouvoir distinguer une cible sur de très grandes distances. Elle est donc capable de “zoomer” sur ces dernières afin de les viser.
 > *Bonus* : +5
-> *Cooldown* : Une fois tous les 2 tours, 5 par jours maximum. Au delà, peut se provoquer une migraine opthalmique (et un malus dans sa vision).
+> *Cooldown* : Une fois tous les 2 tours, 5 par jours maximum. Au-delà, peut se provoquer une migraine ophtalmique (et un malus dans sa vision).
 > *Domaine* : Instinct
-> *Effet* : Permet de distinguer une cible sur de grande distance et de viser une partie précise de son corps. +3 en jet de perception et/ou d’attaque à distance **après utilisation de la compétence**.
+> *Effet* : Permet de distinguer une cible sur de grande distance et de viser une partie précise de son corps. +2 en jet de perception et/ou d’attaque à distance **après utilisation de la compétence**.
 
 [^1]: Nom inspiré d’Arknight
 [^2]: Ce ne sont ni des massacres, ni des guerres en tant que tel. La majorité de leur guerre reste politique et peu sur le terrain… Ils étaient bien plus belliqueux par le passé. De plus, leur“guerre” n’implique que les clans Liberi.
