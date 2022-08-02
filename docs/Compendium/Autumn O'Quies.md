@@ -120,6 +120,7 @@ P o u v o i r s<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
 <h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
+
 ##### Hua
 La maîtrise de l’Hua d’Autumn repose principalement sur sa maîtrise de l’eau, à la seule condition qu’elle en est disponible à proximiter. Elle n’est pour le moment incapable de récupérer de la vapeur d’eau et d’en contrôler cette dernière.
 
