@@ -24,29 +24,29 @@ I n t r o d u c t i o n<br>
 **Âge :** 20 ans
 *Date d’anniversaire :* 19/06
 **Race :** Liberi[^1]
-**Maison :** 
-**Parcours** : 
-**Spécialité** : 
+**Maison :** Rat d’Azur
+**Parcours** : /
+**Spécialité** : /
  <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 D e s c r i p t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 <h3 style="text-align:center">──────༺ Race ༻──────</h3>
 
-Les Liberi sont une race présentant des attributs d’oiseaux, mais incapables de voler. Ainsi, nombreux sont les Liberi présentant des plumes, des aîles vestigiales ou encore des aigrettes. En plus de cela, ils ont notamment des sens exacerbées, au niveau de leur vue, du son, et des odeurs notamment. Très versatiles, souvent caractériels, les Liberi vivent dans toutes les forêts du monde, généralement dans des villages et des villes suspendues. Ils n’ont aucun problème à vivre avec les autres races, et quelque clan ont des non-Libéri en leur sein, voire en tant que chef.
+Les Liberi sont une race présentant des attributs d’oiseaux, mais incapables de voler. Ainsi, nombreux sont les Liberi présentant des plumes, des ailes vestigiales ou encore des aigrettes. En plus de cela, ils ont notamment des sens exacerbés, au niveau de leur vue, du son, et des odeurs notamment. Très versatiles, souvent caractériels, les Liberi vivent dans toutes les forêts du monde, généralement dans des villages et des villes suspendues. Ils n’ont aucun problème à vivre avec les autres races, et quelques clans ont des non-Libéri en leur sein, voire en tant que chef.
 
-Séparés en différents clans, ils se sont fait très longtemps la guerre pour aggrandir leur territoires[^2]. Dix ans avant la naissance de Autumn, son père a réussi à fédérer l’ensemble des clans et à en devenir leur chef. À l’heure actuel, il existe cinq clans majoritaires, qui fédèrent de nombreux autre petits clans.
+Séparés en différents clans, ils se sont fait très longtemps la guerre pour aggrandir leur territoires.[^2] Dix ans avant la naissance de Autumn, son père a réussi à fédérer l’ensemble des clans et à en devenir leur chef. À l’heure actuel, il existe cinq clans majoritaires, qui fédèrent de nombreux autre petits clans.
 
 Le clan O’Quies est un clan de rapaces nocturnes, habitués à la chasse et l’exploration de nuit. De fait, Autumn aura quelque difficulté à se conformer à une vie de jour, mais elle s’y voit obligée (notamment car nombreux sont les Liberi diurnes).
 
-TLDR : 
-- Les Liberi sont liés aux oiseaux. Toutes les espèces d’oiseaux sont possibles. 
+###### TLDR :
+- Les Liberi sont liés aux oiseaux. Toutes les espèces d’oiseaux sont possibles.
 - Il est totalement possible d’être un non-liberi dans un clan Libéri
 - Il existe au total 5 “grands clans”.
 - La composition des clans n’est pas forcément une seule et unique famille.
-- Chaque clan a sa propre politique 
-- D’autres jeune Liberi ont forcément rejoint Etria pour piquer la place d’Autumn en tant que future chef. 
+- Chaque clan a sa propre politique
+- D’autres jeune Liberi ont forcément rejoint Etria pour piquer la place d’Autumn en tant que future chef.
 - Les Liberi ont leur propre politique interne et n’hésite pas à se faire la guerre pour aggrandir leur territoire, chaque clan a donc une garde rapprochée, communément appelée“La Garde”.[^2]
-- Généralement, les clans Liberis vivent dans les forêts, en hauteur. 
+- Généralement, les clans Liberis vivent dans les forêts, en hauteur.
 
 <h3 style="text-align:center">──────༺ Mental ༻──────</h3>
 
@@ -105,14 +105,14 @@ Cela dit, de part son rythme, sa petite taille se voit peu : elle est assez musc
 
 Elle a une voix douce et très chantante. Par contre, elle ne paraît pas “si douce” malgré sa petite taille et peut se faire “plus grosse qu’elle ne l’est” grâce à ses plumes.
 
-Niveau vêtement, elle apprécie les vêtements proches du corps, mais n’a pas de goût particulier. Cependant, elle a tendance à porter un bérêt.
+**Style vestimentaire :** Elle apprécie les vêtements proches du corps, mais n’a pas de goût particulier. Cependant, elle a tendance à porter un béret.
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
-Il n’y a pas grand-chose à raconter sur l’histoire d’Autumn. Dix ans avant sa naissance, après une longue guerre au sein des clans Liberi, son père a réussi à les fédérer et unir les clans sous une seule et même bannière. Par cela, il a mis beaucoup d’espoir dans sa fille unique, qui doit reprendre la tête du clan O’Quies lorsque son père ne sera plus capable de diriger. 
+Il n’y a pas grand-chose à raconter sur l’histoire d’Autumn. Dix ans avant sa naissance, après une longue guerre au sein des clans Liberi, son père a réussi à les fédérer et unir les clans sous une seule et même bannière. Par cela, il a mis beaucoup d’espoir dans sa fille unique, qui doit reprendre la tête du clan O’Quies lorsque son père ne sera plus capable de diriger.
 
-Elle a toujours été mise en compétition avec elle-même, mais aussi les autres enfants des chefs de clan. De ce fait, elle a toujours eu une éducation exigeante, et c’est pour cela qu’elle possède des habitudes extrêmement spartiates. 
+Elle a toujours été mise en compétition avec elle-même, mais aussi les autres enfants des chefs de clan. De ce fait, elle a toujours eu une éducation exigeante, et c’est pour cela qu’elle possède des habitudes extrêmement spartiates.
 
 Afin de parfaire son éducation, son père décide de l’envoyer à Etria afin de devenir la meilleure des Liberi. À moins qu’elle n’en décide autrement …?
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -120,9 +120,14 @@ P o u v o i r s<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
 <h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
+##### Hua
 La maîtrise de l’Hua d’Autumn repose principalement sur sa maîtrise de l’eau, à la seule condition qu’elle en est disponible à proximiter. Elle n’est pour le moment incapable de récupérer de la vapeur d’eau et d’en contrôler cette dernière.
 
-En dehors de son Hua, de part ses attributs physiques, Autumn a des sens extrêmement poussés et a passé toute sa vie à s’entrainer au combat. Elle est donc agile et rapide.
+##### Traits raciaux
+En dehors de son Hua, grâce à ses attributs physiques, Autumn a des sens extrêmement poussés et a passé toute sa vie à s’entrainer au combat. Elle est donc agile et rapide.
+De plus, elle est **facilement éblouie**, car ses yeux sont habitués à la nuit… Mais, en échange, elle possède une meilleure vue de nuit, en étant **nyctalope**.
+
+
 
  <h3 style="text-align:center">──────༺ Capacités ༻──────</h3>
 
@@ -138,7 +143,7 @@ En dehors de son Hua, de part ses attributs physiques, Autumn a des sens extrêm
 >*Domaine* : Eau
 
 > [!power] ❖ — **Vague glacée** *(Actif)* — ❖
-> Autumn crée une vague d’eau et de glace qui repousse ses opposants et les blesse légèrement 
+> Autumn crée une vague d’eau et de glace qui repousse ses opposants et les blesse légèrement
 > *Bonus* : +5
 > *Cooldown* : 1x/jour
 > *Domaine* : Eau
