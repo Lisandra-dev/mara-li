@@ -17,8 +17,6 @@ state: 🟢
 ---
 %% [[index|Original]] ; [[Lagendia (N)|Carnet]] %%
 
-- [[|Fiche]]
-- [[Connaissance|Connaissance]]
 
 
 
