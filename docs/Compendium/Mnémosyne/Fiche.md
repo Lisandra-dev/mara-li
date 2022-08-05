@@ -18,8 +18,6 @@ state: 🟢
 %% [[index|Original]] ; [[Lagendia (N)|Carnet]] %%
 
 
-
-
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -270,7 +268,7 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
 > - *Cooldown* : 2x par jour
 > - *Domaine* : Lumière ; Hua
 
-> [! power] **❖  — Rayon concentré *(Actif)* — ❖**
+> [! power]  ❖  — **Rayon concentré** *(Actif)* — ❖
 > Némo concentre sa magie en un point précis, ce qui crée une sorte de rayon laser.
 > - Bonus : +10 aux dés
 > - Cooldown: 2x /jours
