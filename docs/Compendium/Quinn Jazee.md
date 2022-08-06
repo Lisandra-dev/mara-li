@@ -17,11 +17,7 @@ tag:
 - SF
 - Humaine
 ---
-```dataview
-LIST
-FROM [[#]]
-WHERE type="Fiche"
-```
+
 ---
 ![[../assets/img/Quinn Jayzee.png|+pins]]
 
