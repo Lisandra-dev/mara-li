@@ -87,7 +87,7 @@ C’est une jeune femme très compétitive et énergiques, qui a du mal à reste
 <h3 style="text-align:center">──────༺ Physique ༻──────</h3>
 
 > [!infobox|left]
-> ![[../assets/img/AutumOQuies_plume.png|cover hsmall]]
+> ![[../assets/img/AutumOQuies_plume.png|med]]
 > *Taille* : 1m55
 > *Poids* : 50kg
 > *Yeux* : Verts
