@@ -14,16 +14,12 @@ tags:
 univers: Chroniques du Grimnoir
 ---
 <b style="text-align:center;display:block;">"Mère Russie n'existe pas"</b>
-```dataview
-Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
-FROM [[#]]
-WHERE type="Fiche"
-```
+
 ![[../assets/img/Blaïka.jpg|+side]]
 **Nom** : Yermakova
 **Prénom** : Blaïka
 
-**Âge** : 28 ans
+**Âge** : 32 ans
 **Taille** : 1m80
 **Poids** : 70kg
 **Groupe sanguin** : A-
