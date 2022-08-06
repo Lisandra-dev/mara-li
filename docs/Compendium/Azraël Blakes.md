@@ -12,11 +12,7 @@ tag:
 - RP/Bibliothèque-Infinie
 cover: https://i.imgur.com/9mRMewR.png
 ---
-```dataview
-Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
-FROM [[#]]
-WHERE type="Fiche"
-```
+
 ---
 
 **Nom** : Blakes
