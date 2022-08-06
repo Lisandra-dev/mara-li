@@ -12,7 +12,7 @@ image: IMG_1314.jpg
 cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
 ---
 
-%% Parent:: [[../notes/Éden.md]] %%
+%% Parent:: [[Éden]] %%
 %% [Google docs](https://docs.google.com/document/d/1Do90LNHl8FXpdIShSMy4FPq8CQWuqflE0mES_BB8M9w/edit?usp=sharing) %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
@@ -28,7 +28,7 @@ I n t r o d u c t i o n<br>
 C a p a c i t é<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-%%  [[../notes/Zombie.md]]  %%
+%%  [[Zombie]]  %%
 
 **► Nature** : Transformation et renforcement
 
