@@ -55,6 +55,6 @@ Pareil, plutôt que de péter entièrement la mise en forme quand je rajoute une
 
 C'est plus léger et pratique, et ça me convient super bien. 
 
-Typiquement le "carnet" de [[../../Compendium/Mnémosyne/index|(i) Mnémosyne]] pour [[(Fiche) Mnémosyne (Lagendia)|Lagendia]] ressemble à ça :
+Typiquement le "carnet" de [[../../Compendium/Mnémosyne/index|(i) Mnémosyne]] pour [[../../Compendium/Mnémosyne/Fiche|Lagendia]] ressemble à ça :
 ![[../../assets/img/Pasted image 20220126174208.png]]
 (Petit bonus : Relation est un dossier, donc si je veux prendre des notes sur un perso, ça me créera un fichier automatiquement en cliquant sur le lien, et j'aurai **rien** à bouger.)
