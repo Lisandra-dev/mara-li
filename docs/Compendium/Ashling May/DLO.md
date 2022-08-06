@@ -34,7 +34,7 @@ I D  <br>
 *Rang :*
 *Magie* : 
 1. <u>Élément :</u>
-2. <u>Nom de la compétence unique :</u>
+2. <u>Nom de la compétence unique :</u> Technomage
 
 *Guilde :* /
 *Profession :*
