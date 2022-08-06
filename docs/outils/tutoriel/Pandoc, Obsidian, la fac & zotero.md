@@ -72,7 +72,7 @@ Les images sont sous forme : `![description](nom de l'image)`. Pandoc cherchera 
 ```yaml
 title: |
 	![logo-lyon1](Logo_lyon1.png)  
-	\
+<br/>
 	Nom du mémoire
 #Les deux espace après le lien vers l'image est EXTRÊMEMENT important ! Ne les oubliez pas.
 author: 
@@ -81,8 +81,8 @@ author:
 	# Je mets ici plein de truc pour la mise en forme
 date: |
 	Date de la soutenance
-	\
-	\
+<br/>
+<br/>
 	![Logo_laboratoire](logo_laboratoire){style="width=60%"}  
 # Je mets le logo du laboratoire en fin, avec un style afin de permettre à pandoc de forcer le centrage de l'image.
 subtitle: |
