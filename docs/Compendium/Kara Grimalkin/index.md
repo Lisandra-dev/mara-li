@@ -9,16 +9,13 @@ share: true
 type: OC
 univers: FFXIV
 ---
-```dataview
-table state AS Status
-FROM [[#]]
-where type = "Fiche"
-```
+
 
 >[!grid]
 > ![[../../assets/img/Kara_portrait.png]]
 > ![[../../assets/img/Kara_te_juge.png]]
 > ![[../../assets/img/Kara_Kimono.png]]
+> ![[../../assets/img/Kara_chill.jpg]]
 
 #FFXIV #Gardemald
 # ─────༺ Présentation ༻─────
@@ -41,7 +38,7 @@ where type = "Fiche"
 
 *Avantages* :
 *Inconvénients* :
- #Écho : ✅
+#Écho : ✅
 > Son écho lui permet de voir l'éther des gens (même ceux des personnes incapables de le maîtriser, comme les Gardemaldais) mais aussi et surtout ceux des morts et qui n'ont pas (ou pas encore) rejoins la rivière de la vie : des fantômes. Elle est ainsi capable (lorsque cela est possible) de communiquer avec eux.
 
 # ──────༺ Physique ༻──────
