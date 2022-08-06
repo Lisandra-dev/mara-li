@@ -1,6 +1,7 @@
 ---
 category: Scriptorium/Vélum
 share: true
+title: Organisation
 publish: false
 type: Description
 univers: Bibliothèque Infinie
