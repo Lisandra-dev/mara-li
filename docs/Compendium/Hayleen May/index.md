@@ -9,7 +9,7 @@ title: Hayleen May
 image: Hayleen_portrait.png
 cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.png
 ---
-![[Illustration (Hayleen)]]
+![[Illustration]]
 > [!note] Identité
 > ![[../../assets/img/Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
