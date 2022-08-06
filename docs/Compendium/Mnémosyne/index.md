@@ -131,7 +131,7 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 > **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
 > Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
 > 
-> → [[Illustration (Némo)|Illustration]]
+> → [[Illustration|Illustration]]
 > 
 > # Divers
 > **Habitudes** :
@@ -148,4 +148,4 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 
 %% [[Écho]]:: #Gardien %%
 
-![[Illustration (Némo)]]
+![[Illustration]]
