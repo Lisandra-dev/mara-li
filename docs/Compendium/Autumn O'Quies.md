@@ -6,7 +6,7 @@ description: "Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur 
 type: OC
 univers: Lagendia
 tag: RP/Lagendia/OC
-image: AutumOQuies_plume.png
+image: Plume_Autumn.jpg
 cover: https://d33wubrfki0l68.cloudfront.net/5397ec1df4e15cfc4603b863a1272f12b53fa06a/cc218/assets/img/plume_autumn.jpg
 ---
 
