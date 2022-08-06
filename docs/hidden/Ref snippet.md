@@ -2,7 +2,7 @@
 share: true
 category: hidden
 ---
-![[Temporaire]]
+
 # Embed Adjustments
 | Attribute  | Description                              |
 | ---------- | ---------------------------------------- |
