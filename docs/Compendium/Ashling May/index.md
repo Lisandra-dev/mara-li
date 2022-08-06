@@ -12,11 +12,7 @@ cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
 genre: PJ
 ---
 $~$
-```dataview
-Table WITHOUT ID state as Status, (link(file.path, title)) as LINK 
-FROM [[#]]
-WHERE type="Fiche"
-```
+
 
 ---
 
@@ -128,12 +124,11 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 
 # [[Pouvoir]]
 
-%% [[../../notes/Invocation d'armes.md]], [[../../notes/Sortilège.md]] %%
+%% [[Invocation d'armes]], [[Sortilège]] %%
  
 ![[Pouvoir#Technopathe]]
 
 ---
-
 ![[Illustration (Ashling)]]
 
 
