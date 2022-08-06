@@ -1,39 +1,17 @@
 ---
-date: 17-10-2021
-description: Illustration — Dessin de Némo
-category: Compendium/Mnémosyne
-alias: Illustration, Némo dessin, dessin
-type: Illustration
+category: Compendium/Hayleen May
 share: true
-title: Illustration
-tags:
-- Mnémosyne
-- Illustration
+type: Illustration
+cssclass: img-grid
+parent: [[Hayleen May]]
+description: "Illustrations d'Hayleen May, une sorcière à fort caractère !"
+image: COMMISSION_MARA_PP.png
 ---
 
-> [!grid] Medhas
-> ![[Grimm_Nemo.jpg]] ![[Mnémosyne robe - Farraige.png]]
-> ![[Némo & Grimmerald.png]] ![[Nemo_funny_medhas.jpeg]] ![[Nemo_Grimm.jpeg]]
+%% #Lagendia %%
+%%[[Hayleen May]]%%
+
+> [!GRID]
+>![[Portrait_Gabi_Hayleen.jpeg]]![[COMMISSION_MARA_PP.png]]![[COMMISSION_FB_MARA.png]]
 >
-> ![[Nemo_Medhas.png]] ![[Nemo_robe_medhas.png]]
->
-> ![[Nemo-Meme-Grimm.png]]
->
-
-> [!GRID] Phil
-> ![[Némo — Dolce 1.png]] ![[Némo guirlande Dolce.png]] ![[Némo portrait Dolce.png|]]
-> ![[Némo half dolce.png]] ![[Panneau_némo.png]]
-
-> [!GRID] Gabrioche
-> ![[Fanart Gabrioche.png]]
-
->[!GRID] Chaa
-> ![[Chaa_Nemo_Rodon.png]]
-
-
->[!GRID] Commission
->![[twitter_commission_Mnemosyne.png]] ![[Mnémosyne Fullbody.jpeg]]
->![[Rosa_Garcia_2.png]] ![[Mnemosyne.png]]
->
-> ![[Nemo by Mogeckko.jpeg]] ![[Némo_lillyth.jpg]]
-> ![[Perseith - Némo.png]]
+>![[Hayleen — Medhas.png]]![[Hayleen.png]]![[Key_illu.png]]
