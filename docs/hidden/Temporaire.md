@@ -4,4 +4,4 @@ share: true
 title: Temporaire
 ---
 
-[[../Compendium/Mnémosyne/(Lagendia) Mnémosyne|Fiche némo]]
+![](../assets/img/Ref.png%5D)
