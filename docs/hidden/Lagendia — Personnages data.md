@@ -3,6 +3,7 @@ share: true
 category: hidden
 dataview: true
 title: Lagendia — Personnages data
+links: false
 ---
 
 # Élève
@@ -12,7 +13,7 @@ title: Lagendia — Personnages data
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Echo Hoshino.md\|Echo Hoshino]]             | Cat Sith                                 | 19 ans | 1.57m      | 30/10        | MissLaoni      |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Farraige.md\|Farraige]]                     | Selkie                                   | 19 ans | 1.7m       | \-           | Medhas         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Nix Lumley.md\|Nix Lumley]]                 | Nixie / Näcken                           | 20 ans | 1.7m       | \-           | Taeien         |
-| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Penny.md\|Penny]]                           | Vampire                                  | 18 ans | 1.72m      | \-           | Hadess         |
+| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Penny.md\|Penny]]                           | Vampire                                  | 18 ans | 1.72m      | 15/04        | Hadess         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Chèvre/Seith.md\|Seith]]                           | Monstre des marais                       | 18 ans | 1.6m       | 21/03        | Persou         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Dragon/Aygül Nephthys.md\|Aygül Nephthys]]         | Demi-sorcière                            | 16 ans | 1.47m      | \-           | Alexia         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Dragon/Mezhyo Abhy.md\|Mezhyo Abhy]]               | WereShark - Megalodon                    | 20 ans | 2.2m       | \-           | JuneArt        |
@@ -22,7 +23,7 @@ title: Lagendia — Personnages data
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Belrum.md\|Belrum]]                          | Fourmi humaine                           | 17 ans | 1.45m      | \-           | Shiounsama     |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Dolce C..md\|Dolce C.]]                      | Vivares                                  | 19 ans | 1.71m      | \-           | Phil           |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Gan.md\|Gan]]                                | Oni                                      | 18 ans | 2.12m      | \-           | Taeien         |
-| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Franck Arnaud.md\|Franck Arnaud]]            | Loup-Garou                               | 20 ans | 1.76m      | \-           | Choupa         |
+| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Franck Arnaud.md\|Franck Arnaud]]            | Loup-Garou                               | 20 ans | 1.76m      | 23/06        | Choupa         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/White.md\|White]]                            | Demi-Ifrit                               | 17 ans | 1.75m      | 07/02        | Alexia         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Rats/Adrian.md\|Adrian]]                           | Loup-Garou                               | 20 ans | 1.94m      | \-           | Adrian         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Rats/Koara.md\|Koara]]                             | Koarion                                  | 20 ans | 1.65m      | \-           | Koara          |
