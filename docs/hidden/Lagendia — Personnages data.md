@@ -21,7 +21,7 @@ links: false
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Dragon/Rithel.md\|Rithel]]                         | Shapeshifter                             | 19 ans | 1.65-1.85m | 10/11        | Persou         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Dragon/Tol.md\|Tol]]                               | Demi-fée                                 | 17 ans | 1.5m       | 30/06        | Danatheles     |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Belrum.md\|Belrum]]                          | Fourmi humaine                           | 17 ans | 1.45m      | \-           | Shiounsama     |
-| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Dolce C..md\|Dolce C.]]                      | Vivares                                  | 19 ans | 1.71m      | \-           | Phil           |
+| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Dolce C..md\|Dolce C.]]                      | Vivares                                  | 19 ans | 1.71m      | 16/02        | Phil           |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Franck Arnaud.md\|Franck Arnaud]]            | Loup-Garou                               | 20 ans | 1.76m      | 23/06        | Choupa         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Gan.md\|Gan]]                                | Oni                                      | 18 ans | 2.12m      | \-           | Taeien         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/White.md\|White]]                            | Demi-Ifrit                               | 17 ans | 1.75m      | 07/02        | Alexia         |
