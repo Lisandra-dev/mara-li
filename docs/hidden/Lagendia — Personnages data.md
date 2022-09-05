@@ -22,16 +22,16 @@ links: false
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Dragon/Tol.md\|Tol]]                               | Demi-fée                                 | 17 ans | 1.5m       | 30/06        | Danatheles     |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Belrum.md\|Belrum]]                          | Fourmi humaine                           | 17 ans | 1.45m      | \-           | Shiounsama     |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Dolce C..md\|Dolce C.]]                      | Vivares                                  | 19 ans | 1.71m      | \-           | Phil           |
-| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Gan.md\|Gan]]                                | Oni                                      | 18 ans | 2.12m      | \-           | Taeien         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Franck Arnaud.md\|Franck Arnaud]]            | Loup-Garou                               | 20 ans | 1.76m      | 23/06        | Choupa         |
+| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/Gan.md\|Gan]]                                | Oni                                      | 18 ans | 2.12m      | \-           | Taeien         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Lapin/White.md\|White]]                            | Demi-Ifrit                               | 17 ans | 1.75m      | 07/02        | Alexia         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Rats/Adrian.md\|Adrian]]                           | Loup-Garou                               | 20 ans | 1.94m      | \-           | Adrian         |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Rats/Koara.md\|Koara]]                             | Koarion                                  | 20 ans | 1.65m      | \-           | Koara          |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Rats/Quirell Grandfleuve.md\|Quirell Grandfleuve]] | Medussea                                 | 19 ans | 1.5m       | \-           | Sachoue        |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Chaatan.md\|Chaatan]]                        | Caprinae                                 | 20 ans | 1.85m      | \-           | Chaa           |
+| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Isaac Bergeron.md\|Isaac Bergeron]]          | Vampire                                  | 17 ans | 1.72m      | \-           | Azuro          |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Hazel.md\|Hazel]]                            | Mi humaine Mi dynastinae (Rhode) / Dekka | 18 ans | 1.67m      | \-           | AkyZura        |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Sacha.md\|Sacha]]                            | Demonica                                 | 18 ans | 1.55m      | \-           | Sachoue        |
-| [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Isaac Bergeron.md\|Isaac Bergeron]]          | Vampire                                  | 17 ans | 1.72m      | \-           | Azuro          |
 | [[30. Scriptorium/Lagendia/Personnages/Étudiant/Tigre/Yû Kokatsune.md\|Yû Kokatsune]]              | Kitsune                                  | 21 ans | 1.7m       | \-           | Yotoru         |
 
 
@@ -39,9 +39,9 @@ links: false
 
 | Fichier                                                                               | Joueur     | Race         | Taille | Rôle                           | Âge    | Anniversaire |
 | ------------------------------------------------------------------------------------- | ---------- | ------------ | ------ | ------------------------------ | ------ | ------------ |
-| [[30. Scriptorium/Lagendia/Personnages/Professeur/Ichida.md\|Ichida]]                 | Aljiradin  | Demi-Oni     | 1.8m   | Professeur de combat rapproché | 48 ans | 14/02        |
 | [[30. Scriptorium/Lagendia/Personnages/Professeur/Fenton Cassidy.md\|Fenton Cassidy]] | Perseith   | Shapeshifter | 1.76m  | Professeur d’herboristerie     | 43 ans | 02/02        |
 | [[30. Scriptorium/Lagendia/Personnages/Professeur/Raudhr.md\|Raudhr]]                 | Raudhr     | ?            | 1.92m  | Stratégie                      | 28 ans | 31/10        |
+| [[30. Scriptorium/Lagendia/Personnages/Professeur/Ichida.md\|Ichida]]                 | Aljiradin  | Demi-Oni     | 1.8m   | Professeur de combat rapproché | 48 ans | 14/02        |
 | [[30. Scriptorium/Lagendia/Personnages/Professeur/Ruby & Esther.md\|Ruby & Esther]]   | Danatheles | ?            | 1.7m   | Survie & exploration           | ? ans  | ?            |
 
 
