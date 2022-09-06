@@ -1,11 +1,10 @@
 ---
-tag: 
- - RP/Lagendia
- - Mnémosyne
+tag:
+  - RP/Lagendia
+  - Mnémosyne
 title: (Lagendia) Mnémosyne
 alias:
-- (Lagendia) Mnémosyne
-- Mnémosyne
+  - Fiche
 share: true
 date: 15-11-2021
 description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Aveugle.
@@ -14,8 +13,14 @@ univers: Lagendia
 type: Fiche
 image: Némo_lillyth.jpg
 state: 🟢
+tags:
+  - left
+  - RP_Lagendia
+  - Mnémosyne
+  - RP/Lagendia
 ---
-%% [[index|Original]] ; [[Lagendia (N)|Carnet]] %%
+
+%% [[index]]/[[Lagendia|Lagendia]]/[[|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -25,7 +30,8 @@ I n t r o d u c t i o n<br>
 ![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne
 *Alias* : Némo
 
-**Âge :** 30 ans
+**Âge :** Entre 28 et 30 ans
+**Anniversaire** : 15/06
 **Taille :** 1m80
 **Race :** Sanktae[^1] (*déchue*)
 **Statut :** Surveillante
@@ -213,11 +219,11 @@ Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la
 
 Ils sont aussi capable de faire apparaître à volonté des ailes translucides, mais il leur est impossible de voler avec. Aujourd'hui encore, il est difficile de savoir à quoi sert (ou servait) ses ailes.
 
-Les Sanktae se mélangent naturellement à la population, et n'ont rien de particulier vis à vis des autres de race. Ils préfèrent cependant se regrouper en clan afin de faire respecter leur propres codes. Certains clans rejettent même les relations avec les autres races, mais d'autres sont beaucoup plus ouvert.
+Les Sanktae vivent surtout entre eux, dirigé par une **théocratie**, dont l'église principale se trouve dans le **Sanctuaire Sanktae**, avec toutes les instances dirigeantes de la race (notamment leurs archives et tribunaux). Cela dit, les Sanktae sont libres de pratiquer (ou non) leur religion.
 
-Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race.
+ Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race.
 
-Au cours d'un meurtre, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller.
+Au cours d'un meurtre, chez les Sanktae, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller.
 
 ### ◌ Pouvoirs Sanktae ◌
 
@@ -254,21 +260,21 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
 > En envoyant de la lumière sur les surfaces, Némo est capable de les distinguer. Elle le fait naturellement pour les êtres vivants, qu'elle voit sous forme de tâche colorée.
 
 > [!info] ❖ — Obsius (Passif) — ❖
-> Obsius prend contrôle de Mnémosyne. Toutes ses compétences s’inversent pour s’axer autour des ténèbres, et elle ne contrôle pas la créature qu’elle devient. Sa peau devient sombre, écailleuse, et ses yeux entièrement noire. Notons qu’elle reste aveugle, et très sensible à la lumière (au point d’en être blessée).  
+> Obsius prend contrôle de Mnémosyne. Toutes ses compétences s’inversent pour s’axer autour des ténèbres, et elle ne contrôle pas la créature qu’elle devient. Sa peau devient sombre, écailleuse, et ses yeux entièrement noire. Notons qu’elle reste aveugle, et très sensible à la lumière (au point d’en être blessée).
 
-> [!power]  ❖ — Lance de lumière (Actif) — ❖
+> [!power] ❖ — Lance de lumière (Actif) — ❖
 > Cinq lances de lumières apparaissent autour de Némo pour se planter dans son adversaire.
 > - *Bonus* : +10 au dé
 > - *Cooldown* : 2x par jour
-> - *Domaine* : Lumière ; Hua 
+> - *Domaine* : Lumière ; Hua
 
-> [!power] ❖  — **Double de lumière** *(Actif)* — ❖
+> [!power] ❖ — **Double de lumière** *(Actif)* — ❖
 > Création d'un double de lumière, qui va imiter la dernière action de Mnémosyne avant de disparaître. L'attaque sera cependant plus faible.
 > - *Bonus* : +10 au dé
 > - *Cooldown* : 2x par jour
 > - *Domaine* : Lumière ; Hua
 
-> [!power] ❖  — **Rayon concentré** *(Actif)* — ❖
+> [!power] ❖ — **Rayon concentré** *(Actif)* — ❖
 > Némo concentre sa magie en un point précis, ce qui crée une sorte de rayon laser.
 > - Bonus : +10 aux dés
 > - Cooldown: 2x /jours
@@ -290,7 +296,7 @@ Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mném
 > *Effet* : +5 aux dés de défenses (uniquement) pour la personne protégée par le bouclier.
 
 >[!buff] ❖ — **Forme Sanktae** *(Buff)* — ❖
-> Némo déploie toute sa magie, la renforçant. 
+> Némo déploie toute sa magie, la renforçant.
 > *Bonus* : +5 au dé
 >*Cooldown* : 1x jour — Épuise Némo à la fin de sa forme
 > *Domaine* : Hua
