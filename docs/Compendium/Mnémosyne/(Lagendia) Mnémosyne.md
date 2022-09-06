@@ -20,7 +20,7 @@ tags:
   - RP/Lagendia
 ---
 
-%% [[index]]/[[Lagendia|Lagendia]]/[[20. Compendium/22. Personnages/Mnémosyne/Lagendia — Némo/Fiche|Fiche]] %%
+%% [[index]]/[[Lagendia|Lagendia]]/[[docs/Compendium/Mnémosyne/(Lagendia) Mnémosyne.md|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
