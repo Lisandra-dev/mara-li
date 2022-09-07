@@ -1,5 +1,13 @@
 ---
-tag: Lagendia
+tags:
+  - L
+  - a
+  - g
+  - e
+  - n
+  - d
+  - i
+  - Lagendia
 type: Carnet
 univers: Lagendia
 title: Carnet Mnémosyne
@@ -11,15 +19,6 @@ short: Lagendia, Mnémosyne
 dataview: true
 links: false
 embed: false
-tags:
-  - Lagendia
-  - L
-  - a
-  - g
-  - e
-  - n
-  - d
-  - i
 ---
 
 index / Carnet
