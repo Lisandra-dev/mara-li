@@ -11,13 +11,6 @@ dataview: true
 links: false
 embed: false
 tags:
-  - L
-  - a
-  - g
-  - e
-  - n
-  - d
-  - i
   - Lagendia
 ---
 
