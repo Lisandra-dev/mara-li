@@ -22,12 +22,12 @@ tags:
   - i
 ---
 
-[[../Compendium/Mnémosyne/index]] / Carnet
-→ [[../Compendium/Mnémosyne/(Lagendia) Mnémosyne|Fiche]]
+ / Carnet
+→ Fiche
 
 # Relations
 ## PNJ
-- [[Rodon]] : Est l'ex de Némo. C'est un nymphe qui s'est transformé en plante et est resté bloqué parce que Némo l'a quitté. Elle l'a gardé parce que ça serait joli pour décorer.
+-  : Est l'ex de Némo. C'est un nymphe qui s'est transformé en plante et est resté bloqué parce que Némo l'a quitté. Elle l'a gardé parce que ça serait joli pour décorer.
 - Salem
 - Alazée
 
@@ -77,3 +77,4 @@ tags:
 
 # Illustration
 
+Illustration
