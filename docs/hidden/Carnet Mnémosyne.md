@@ -70,11 +70,10 @@ tags:
 
 
 > [!info]+ Lueurs
-![[Lueurs]]
+
 
 
 ---
 
 # Illustration
 
-![[../Compendium/Mnémosyne/Illustration|Illustration]]
