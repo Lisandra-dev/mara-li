@@ -16,8 +16,8 @@ tags:
   - Lagendia
 ---
 
-index / Carnet
-→ Fiche
+%% index / Carnet %%
+%% → Fiche %%
 
 # Relations
 ## PNJ
