@@ -19,8 +19,8 @@ index / Carnet
 # Relations
 ## PNJ
 - Rodon : Est l'ex de Némo. C'est un nymphe qui s'est transformé en plante et est resté bloqué parce que Némo l'a quitté. Elle l'a gardé parce que ça serait joli pour décorer.
-- Salem
-- Alazée
+- [[Salem]]
+- [[Alazée]]
 
 ## PJ
 | Fichier                                                                                            | statut | avis                        |
@@ -60,4 +60,4 @@ index / Carnet
 
 
 > [!info]+ Lueurs
-Lueurs
+> Lueurs
