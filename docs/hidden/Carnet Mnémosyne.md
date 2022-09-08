@@ -63,9 +63,3 @@ index / Carnet
 
 > [!info]+ Lueurs
 
-
-
----
-
-# Illustration
-
