@@ -9,7 +9,7 @@ display: Mnémosyne
 short: Lagendia, Mnémosyne
 dataview: true
 links: false
-embed: false
+removeEmbed: true
 tags:
   - Lagendia
 ---
