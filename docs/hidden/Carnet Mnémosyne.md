@@ -62,11 +62,10 @@ index / Carnet
 
 
 > [!info]+ Lueurs
-Lueurs
+
 
 
 ---
 
 # Illustration
 
-Illustration
