@@ -1,5 +1,6 @@
 ---
-tag: Lagendia
+tags:
+  - Lagendia
 type: Carnet
 univers: Lagendia
 alias:
@@ -11,15 +12,6 @@ display: Autumn O'Quies
 short: Autumn, Lagendia
 dataview: true
 links: false
-tags:
-  - Lagendia
-  - L
-  - a
-  - g
-  - e
-  - n
-  - d
-  - i
 ---
 
 
