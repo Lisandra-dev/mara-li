@@ -61,4 +61,3 @@ index / Carnet
 | Ichida                              | ✅      | \-                          |
 | Ruby & Esther                | \-     | \-                          |
 
-![[Lueurs]]
