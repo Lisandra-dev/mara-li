@@ -33,33 +33,33 @@ tags:
 | Candace                             | ✅      | 😊                                                           |
 | Ivan Borukl                     | ✅      | 😘                                                           |
 | Rachel Cornelis             | 🗯️    | \-                                                           |
-| Fenton Cassidy              | \-     | \-                                                           |
-| Ichida                              | \-     | \-                                                           |
-| Raudhr                              | \-     | \-                                                           |
-| Ruby & Esther                | \-     | \-                                                           |
 | Echo Hoshino             | \-     | \-                                                           |
-| Nix Lumley                 | \-     | \-                                                           |
 | Farraige                     | \-     | \-                                                           |
+| Nix Lumley                 | \-     | \-                                                           |
 | Penny                           | ✅      | 😐 (elle l'appelle par son nom complet et elle aime pas ça)) |
 | Seith                           | \-     | \-                                                           |
 | Aygül Nephthys         | \-     | \-                                                           |
 | Mezhyo Abhy               | \-     | \-                                                           |
 | Pom Thabe                   | ✅      | 😐                                                           |
-| Tol                               | ✅      | 🥰                                                           |
 | Rithel                         | ✅      | 😐                                                           |
+| Tol                               | ✅      | 🥰                                                           |
 | Belrum                          | \-     | \-                                                           |
 | Dolce C.                      | ✅      | 🥰                                                           |
-| Franck Arnaud            | \-     | \-                                                           |
+| Franck Arnaud            | ✅      | 😐                                                           |
 | Gan                                | \-     | \-                                                           |
 | White                            | \-     | \-                                                           |
-| Adrian                           | ✅      | 😐                                                           |
 | Eerhin Corlumett       | \-     | \-                                                           |
 | Koara                             | \-     | \-                                                           |
+| Adrian                           | ✅      | 😐                                                           |
 | Quirell Grandfleuve | \-     | \-                                                           |
 | Serkuos Ophis             | \-     | \-                                                           |
 | Chaatan                        | \-     | \-                                                           |
 | Hazel                            | ✅      | 🥰                                                           |
-| Isaac Bergeron          | \-     | \-                                                           |
 | Sacha                            | \-     | \-                                                           |
+| Isaac Bergeron          | \-     | \-                                                           |
 | Yû Kokatsune              | \-     | \-                                                           |
+| Fenton Cassidy              | \-     | \-                                                           |
+| Ichida                              | ✅      | 😐                                                           |
+| Raudhr                              | \-     | \-                                                           |
+| Ruby & Esther                | \-     | \-                                                           |
 
