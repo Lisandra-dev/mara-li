@@ -19,40 +19,40 @@ title: Relations Autumn O'Quies
 %%Autumn O'Quies/ Relations Autumn O'Quies.md%%
 ![[Symbole relations]]
 # Relations
-| Fichier                                                                                            | statut | avis              |
-| -------------------------------------------------------------------------------------------------- | ------ | ----------------- |
-| Candace                             | \-     | \-                |
-| Ivan Borukl                     | ✅      | Sympas 😊         |
-| Rachel Cornelis             | ✅      | Brrr…. Fait peur  |
-| Fenton Cassidy              | \-     | \-                |
-| Ichida                              | ✅      | Neutre 😐         |
-| Raudhr                              | \-     | \-                |
-| Ruby & Esther                | ✅      | Chill & sympa  😊 |
-| Echo Hoshino             | \-     | \-                |
-| Nix Lumley                 | \-     | \-                |
-| Farraige                     | \-     | \-                |
-| Penny                           | \-     | \-                |
-| Seith                           | \-     | \-                |
-| Aygül Nephthys         | \-     | \-                |
-| Mezhyo Abhy               | \-     | \-                |
-| Pom Thabe                   | \-     | \-                |
-| Tol                               | \-     | \-                |
-| Rithel                         | \-     | \-                |
-| Belrum                          | \-     | \-                |
-| Dolce C.                      | \-     | \-                |
-| Franck Arnaud            | \-     | \-                |
-| Gan                                | \-     | \-                |
-| White                            | \-     | \-                |
-| Adrian                           | \-     | \-                |
-| Eerhin Corlumett       | \-     | \-                |
-| Koara                             | ✅      | Poto 😊           |
-| Quirell Grandfleuve | \-     | \-                |
-| Serkuos Ophis             | \-     | \-                |
-| Chaatan                        | \-     | \-                |
-| Hazel                            | \-     | \-                |
-| Isaac Bergeron          | \-     | \-                |
-| Sacha                            | \-     | \-                |
-| Yû Kokatsune              | \-     | \-                |
+| Fichier                                                                                            | statut | avis                    |
+| -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
+| Candace                             | \-     | \-                      |
+| Ivan Borukl                     | ✅      | Sympas 😊               |
+| Rachel Cornelis             | ✅      | Brrr…. Fait peur        |
+| Echo Hoshino             | \-     | \-                      |
+| Farraige                     | \-     | \-                      |
+| Nix Lumley                 | \-     | \-                      |
+| Penny                           | \-     | \-                      |
+| Seith                           | \-     | \-                      |
+| Aygül Nephthys         | \-     | \-                      |
+| Mezhyo Abhy               | \-     | \-                      |
+| Pom Thabe                   | \-     | \-                      |
+| Rithel                         | \-     | \-                      |
+| Tol                               | \-     | \-                      |
+| Belrum                          | \-     | \-                      |
+| Dolce C.                      | \-     | \-                      |
+| Franck Arnaud            | \-     | \-                      |
+| Gan                                | \-     | \-                      |
+| White                            | \-     | \-                      |
+| Eerhin Corlumett       | \-     | \-                      |
+| Koara                             | ✅      | Poto 😊                 |
+| Adrian                           | \-     | \-                      |
+| Quirell Grandfleuve | 🗒️    | 😥 (Elle lui fait peur) |
+| Serkuos Ophis             | \-     | \-                      |
+| Chaatan                        | \-     | \-                      |
+| Hazel                            | \-     | \-                      |
+| Sacha                            | \-     | \-                      |
+| Isaac Bergeron          | \-     | \-                      |
+| Yû Kokatsune              | \-     | \-                      |
+| Fenton Cassidy              | \-     | \-                      |
+| Ichida                              | ✅      | Neutre 😐               |
+| Raudhr                              | \-     | \-                      |
+| Ruby & Esther                | ✅      | Chill & sympa  😊       |
 
 
 
