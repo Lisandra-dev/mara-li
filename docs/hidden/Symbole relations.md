@@ -18,9 +18,11 @@ tags:
 | 🥰      | PROTECT      |
 | 😘      | Crush/Drague |
 | 😕      | Bof          |
+| 😥      | Peur/Pleure  | 
 
 ## Rencontre
-| Symbole | Description                 |
-| ------- | --------------------------- |
-| ✅      | Rencontré                   |
-| 🗯️      | En a entendu parlé (rumeur) | 
+| Symbole | Description                             |
+| ------- | --------------------------------------- |
+| ✅      | Rencontré                               |
+| 🗯️      | En a entendu parlé (rumeur)             |
+| 🗒️      | Discussion par messagerie/chat/distance | 
