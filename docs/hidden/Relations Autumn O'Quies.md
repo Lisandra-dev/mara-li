@@ -21,13 +21,10 @@ title: Relations Autumn O'Quies
 # Relations
 | Fichier                                                                                            | statut | avis                    |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
-| Candace                             | \-     | \-                      |
-| Ivan Borukl                     | ✅      | Sympas 😊               |
-| Rachel Cornelis             | ✅      | Brrr…. Fait peur        |
 | Echo Hoshino             | \-     | \-                      |
 | Farraige                     | \-     | \-                      |
 | Nix Lumley                 | \-     | \-                      |
-| Penny                           | \-     | \-                      |
+| Penny                           | ✅      | 😊                      |
 | Seith                           | \-     | \-                      |
 | Aygül Nephthys         | \-     | \-                      |
 | Mezhyo Abhy               | \-     | \-                      |
@@ -39,16 +36,19 @@ title: Relations Autumn O'Quies
 | Franck Arnaud            | \-     | \-                      |
 | Gan                                | \-     | \-                      |
 | White                            | \-     | \-                      |
+| Adrian                           | \-     | \-                      |
 | Eerhin Corlumett       | \-     | \-                      |
 | Koara                             | ✅      | Poto 😊                 |
-| Adrian                           | \-     | \-                      |
 | Quirell Grandfleuve | 🗒️    | 😥 (Elle lui fait peur) |
 | Serkuos Ophis             | \-     | \-                      |
 | Chaatan                        | \-     | \-                      |
 | Hazel                            | \-     | \-                      |
-| Sacha                            | \-     | \-                      |
 | Isaac Bergeron          | \-     | \-                      |
+| Sacha                            | \-     | \-                      |
 | Yû Kokatsune              | \-     | \-                      |
+| Candace                             | \-     | \-                      |
+| Ivan Borukl                     | ✅      | Sympas 😊               |
+| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
 | Fenton Cassidy              | \-     | \-                      |
 | Ichida                              | ✅      | Neutre 😐               |
 | Raudhr                              | \-     | \-                      |
