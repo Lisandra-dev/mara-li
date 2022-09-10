@@ -18,6 +18,7 @@ tags:
 
 %% index / Carnet %%
 %% → Fiche %%
+%% →  Relations %% 
 
 
 
@@ -30,13 +31,6 @@ tags:
 ## PJ
 | Fichier                                                                                            | statut | avis                                                        |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------- |
-| Candace                             | ✅      | 😊                                                          |
-| Ivan Borukl                     | ✅      | 😘                                                          |
-| Rachel Cornelis             | 🗯️    | Askip fait peur                                             |
-| Fenton Cassidy              | \-     | \-                                                          |
-| Ichida                              | ✅      | 😐                                                          |
-| Raudhr                              | \-     | \-                                                          |
-| Ruby & Esther                | \-     | \-                                                          |
 | Echo Hoshino             | \-     | \-                                                          |
 | Farraige                     | \-     | \-                                                          |
 | Nix Lumley                 | \-     | \-                                                          |
@@ -51,15 +45,23 @@ tags:
 | Dolce C.                      | ✅      | 🥰                                                          |
 | Franck Arnaud            | ✅      | 😐                                                          |
 | Gan                                | \-     | \-                                                          |
+| Stydja Eyreya            | \-     | \-                                                          |
 | White                            | \-     | \-                                                          |
 | Adrian                           | ✅      | 😐                                                          |
 | Eerhin Corlumett       | \-     | \-                                                          |
-| Quirell Grandfleuve | \-     | \-                                                          |
 | Koara                             | \-     | \-                                                          |
+| Quirell Grandfleuve | \-     | \-                                                          |
 | Serkuos Ophis             | \-     | \-                                                          |
 | Chaatan                        | \-     | \-                                                          |
 | Hazel                            | ✅      | 🥰                                                          |
 | Isaac Bergeron          | \-     | \-                                                          |
 | Sacha                            | \-     | \-                                                          |
 | Yû Kokatsune              | \-     | \-                                                          |
+| Candace                             | ✅      | 😊                                                          |
+| Ivan Borukl                     | ✅      | 😘                                                          |
+| Rachel Cornelis             | 🗯️    | Askip fait peur                                             |
+| Fenton Cassidy              | \-     | \-                                                          |
+| Ichida                              | ✅      | 😐                                                          |
+| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi         |
+| Ruby & Esther                | \-     | \-                                                          |
 
