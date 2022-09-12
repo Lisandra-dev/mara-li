@@ -21,10 +21,17 @@ title: Relations Autumn O'Quies
 # Relations
 | Fichier                                                                                            | statut | avis                    |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
+| Candace                             | \-     | \-                      |
+| Ivan Borukl                     | ✅      | Sympas 😊               |
+| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
+| Fenton Cassidy              | \-     | \-                      |
+| Ichida                              | ✅      | Neutre 😐               |
+| Raudhr                              | \-     | \-                      |
+| Ruby & Esther                | ✅      | Chill & sympa  😊       |
 | Echo Hoshino             | \-     | \-                      |
 | Farraige                     | \-     | \-                      |
 | Nix Lumley                 | \-     | \-                      |
-| Penny                           | ✅      | 😊                      |
+| Penny                           | ✅      | 😊 PROTECT              |
 | Seith                           | \-     | \-                      |
 | Aygül Nephthys         | \-     | \-                      |
 | Mezhyo Abhy               | \-     | \-                      |
@@ -32,9 +39,10 @@ title: Relations Autumn O'Quies
 | Rithel                         | \-     | \-                      |
 | Tol                               | \-     | \-                      |
 | Belrum                          | \-     | \-                      |
-| Dolce C.                      | \-     | \-                      |
 | Franck Arnaud            | \-     | \-                      |
+| Dolce C.                      | \-     | \-                      |
 | Gan                                | \-     | \-                      |
+| Stydja Eyreya            | \-     | \-                      |
 | White                            | \-     | \-                      |
 | Adrian                           | \-     | \-                      |
 | Eerhin Corlumett       | \-     | \-                      |
@@ -43,16 +51,9 @@ title: Relations Autumn O'Quies
 | Serkuos Ophis             | \-     | \-                      |
 | Chaatan                        | \-     | \-                      |
 | Hazel                            | \-     | \-                      |
-| Isaac Bergeron          | \-     | \-                      |
-| Sacha                            | \-     | \-                      |
+| Isaac Bergeron          | ✅      | 😊 Plutôt cool          |
 | Yû Kokatsune              | \-     | \-                      |
-| Candace                             | \-     | \-                      |
-| Ivan Borukl                     | ✅      | Sympas 😊               |
-| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
-| Fenton Cassidy              | \-     | \-                      |
-| Ichida                              | ✅      | Neutre 😐               |
-| Raudhr                              | \-     | \-                      |
-| Ruby & Esther                | ✅      | Chill & sympa  😊       |
+| Sacha                            | \-     | \-                      |
 
 
 
