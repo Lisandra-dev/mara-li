@@ -11,21 +11,21 @@ Cependant, un peu partout dans le monde, des Portes s’ouvrent, laissant passer
 
 # Esper & Méta-humain
 
-![[Races]]
+![[./Races]]
 
 ## Les clans
 
-![[Groupes]]
+![[./Groupes]]
 
 ## Pouvoirs 
-![[Pouvoirs]]
+![[./Pouvoirs]]
 
 ## Âme et mortalité
-![[Âmes et immortalités]]
+![[./Âmes et immortalités]]
 
 # Armes légendaire
-![[Armes légendaires]]
+![[./Armes légendaires]]
 
 # Lieux
-![[Lieux]]
+![[./Lieux]]
 
