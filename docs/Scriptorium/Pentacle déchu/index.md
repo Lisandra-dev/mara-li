@@ -18,7 +18,7 @@ Cependant, un peu partout dans le monde, des Portes s’ouvrent, laissant passer
 ![[./Groupes]]
 
 ## Pouvoirs 
-![[./Pouvoirs]]
+![[./Capacité et transformation]]
 
 ## Âme et mortalité
 ![[./Âmes et immortalités]]
