@@ -10,6 +10,7 @@ La plupart des espers sont respectés par les normaux (très peu nombreux. Sur 1
 
 Il existe des familles d’Esper dont les pouvoirs se transmettent en héritages. De plus, la plupart du temps, un enfant hérite des pouvoirs “inné” de leur parent. Cependant, il peut exister des familles de Mages qui développent leur propres magies et les garde jalousement secrète.
 
+En plus de ses familles d'Esper, il a été découverts des [[Les classes|classes d'Esper]].
 # Méta-humain
 Le terme « Meta-humain » permet de qualifier l’ensemble des personnes qui ne sont pas tout à fait humaine : ange, démon, néphilim, demi-démon, mais aussi les Sorcières qui ne sont pas considérée comme totalement humaines… 
 De plus, le terme « créature biblique » ne sert qu’à définir les démons et anges pures. 
