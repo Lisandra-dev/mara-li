@@ -36,8 +36,8 @@ tags:
 | Rachel Cornelis             | 🗯️    | Askip fait peur                                             |
 | Fenton Cassidy              | \-     | \-                                                          |
 | Ichida                              | ✅      | 😐                                                          |
-| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi         |
 | Ruby & Esther                | \-     | \-                                                          |
+| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi         |
 | Echo Hoshino             | \-     | \-                                                          |
 | Farraige                     | \-     | \-                                                          |
 | Nix Lumley                 | \-     | \-                                                          |
@@ -49,8 +49,8 @@ tags:
 | Rithel                         | ✅      | 😐                                                          |
 | Tol                               | ✅      | 🥰                                                          |
 | Belrum                          | ✅      | Un insecte géant mais en fait ça va                         |
-| Franck Arnaud            | ✅      | 😐                                                          |
 | Dolce C.                      | ✅      | 🥰                                                          |
+| Franck Arnaud            | ✅      | 😐                                                          |
 | Gan                                | \-     | \-                                                          |
 | Stydja Eyreya            | \-     | \-                                                          |
 | White                            | \-     | \-                                                          |
@@ -62,6 +62,6 @@ tags:
 | Chaatan                        | \-     | \-                                                          |
 | Hazel                            | ✅      | 🥰                                                          |
 | Isaac Bergeron          | \-     | \-                                                          |
-| Yû Kokatsune              | \-     | \-                                                          |
 | Sacha                            | \-     | \-                                                          |
+| Yû Kokatsune              | \-     | \-                                                          |
 
