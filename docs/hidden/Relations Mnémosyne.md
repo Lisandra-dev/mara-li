@@ -33,11 +33,11 @@ tags:
 | -------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------- |
 | Candace                             | ✅      | 😊                                                  |
 | Ivan Borukl                     | ✅      | 😘                                                  |
-| Rachel Cornelis             | 🗯️    | Askip fait peur                                     |
-| Fenton Cassidy              | \-     | \-                                                  |
+| Rachel Cornelis             | ✅      | Je confirme, fait peur                              |
+| Fenton Cassidy              | ✅      | \-                                                  |
 | Ichida                              | ✅      | 😐                                                  |
-| Ruby & Esther                | \-     | \-                                                  |
 | Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi |
+| Ruby & Esther                | \-     | \-                                                  |
 | Echo Hoshino             | \-     | \-                                                  |
 | Farraige                     | \-     | \-                                                  |
 | Nix Lumley                 | \-     | \-                                                  |
