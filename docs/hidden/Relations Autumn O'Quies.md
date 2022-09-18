@@ -23,8 +23,8 @@ title: Relations Autumn O'Quies
 | Fichier                                                                                            | statut | avis                    |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
 | Candace                             | \-     | \-                      |
-| Ivan Borukl                     | ✅      | Sympas 😊               |
 | Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
+| Ivan Borukl                     | ✅      | Sympas 😊               |
 | Fenton Cassidy              | \-     | \-                      |
 | Ichida                              | ✅      | Neutre 😐               |
 | Raudhr                              | \-     | \-                      |
