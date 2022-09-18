@@ -16,8 +16,9 @@ title: Relations Autumn O'Quies
 ---
 
 
-%%Autumn O'Quies/ Relations Autumn O'Quies.md%%
-![[Symbole relations]]
+%%Autumn O'Quies/ .%%
+%% ← Relations %%
+![[./Symbole relations]]
 # Relations
 | Fichier                                                                                            | statut | avis                    |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
@@ -39,8 +40,8 @@ title: Relations Autumn O'Quies
 | Rithel                         | \-     | \-                      |
 | Tol                               | \-     | \-                      |
 | Belrum                          | \-     | \-                      |
-| Franck Arnaud            | \-     | \-                      |
 | Dolce C.                      | \-     | \-                      |
+| Franck Arnaud            | \-     | \-                      |
 | Gan                                | \-     | \-                      |
 | Stydja Eyreya            | \-     | \-                      |
 | White                            | \-     | \-                      |
@@ -52,8 +53,8 @@ title: Relations Autumn O'Quies
 | Chaatan                        | \-     | \-                      |
 | Hazel                            | \-     | \-                      |
 | Isaac Bergeron          | ✅      | 😊 Plutôt cool          |
-| Yû Kokatsune              | \-     | \-                      |
 | Sacha                            | \-     | \-                      |
+| Yû Kokatsune              | \-     | \-                      |
 
 
 
