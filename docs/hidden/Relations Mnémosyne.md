@@ -29,39 +29,39 @@ tags:
 - Alazée
 
 ## PJ
-| Fichier                                                                                            | statut | avis                                                |
-| -------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------- |
-| Candace                             | ✅      | 😊                                                  |
-| Ivan Borukl                     | ✅      | 😘                                                  |
-| Rachel Cornelis             | ✅      | Je confirme, fait peur                              |
-| Fenton Cassidy              | ✅      | \-                                                  |
-| Ichida                              | ✅      | 😐                                                  |
-| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi |
-| Ruby & Esther                | \-     | \-                                                  |
-| Echo Hoshino             | \-     | \-                                                  |
-| Farraige                     | \-     | \-                                                  |
-| Nix Lumley                 | \-     | \-                                                  |
-| Penny                           | \-     | 😐 M'appelle par mon nom complet, et j'aime pas ça  |
-| Seith                           | \-     | \-                                                  |
-| Aygül Nephthys         | \-     | \-                                                  |
-| Mezhyo Abhy               | \-     | \-                                                  |
-| Pom Thabe                   | ✅      | 😐                                                  |
-| Rithel                         | ✅      | 😐                                                  |
-| Tol                               | ✅      | 🥰                                                  |
-| Belrum                          | ✅      | Un insecte géant mais en fait ça va                 |
-| Dolce C.                      | ✅      | 🥰                                                  |
-| Franck Arnaud            | ✅      | 😐                                                  |
-| Gan                                | \-     | \-                                                  |
-| Stydja Eyreya            | \-     | \-                                                  |
-| White                            | \-     | \-                                                  |
-| Adrian                           | ✅      | 😐                                                  |
-| Eerhin Corlumett       | \-     | \-                                                  |
-| Koara                             | \-     | \-                                                  |
-| Quirell Grandfleuve | \-     | \-                                                  |
-| Serkuos Ophis             | \-     | \-                                                  |
-| Chaatan                        | \-     | \-                                                  |
-| Hazel                            | ✅      | 🥰                                                  |
-| Isaac Bergeron          | \-     | \-                                                  |
-| Sacha                            | \-     | \-                                                  |
-| Yû Kokatsune              | \-     | \-                                                  |
+| Fichier                                                                                            | statut | avis                                                                     |
+| -------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
+| Candace                             | ✅      | 😊                                                                       |
+| Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
+| Ivan Borukl                     | ✅      | 😘 Je le veux dans mon lit                                               |
+| Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
+| Ichida                              | ✅      | 😐                                                                       |
+| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
+| Ruby & Esther                | \-     | \-                                                                       |
+| Echo Hoshino             | \-     | \-                                                                       |
+| Farraige                     | \-     | \-                                                                       |
+| Nix Lumley                 | \-     | \-                                                                       |
+| Penny                           | ✅      | 😐 M'appelle par mon nom complet, et j'aime pas ça                       |
+| Seith                           | \-     | \-                                                                       |
+| Aygül Nephthys         | \-     | \-                                                                       |
+| Mezhyo Abhy               | \-     | \-                                                                       |
+| Pom Thabe                   | ✅      | 😐                                                                       |
+| Rithel                         | ✅      | 😐                                                                       |
+| Tol                               | ✅      | 🥰  Protect                                                              |
+| Belrum                          | \-     | \-                                                                       |
+| Dolce C.                      | ✅      | 🥰 Protect this child                                                    |
+| Franck Arnaud            | \-     | \-                                                                       |
+| Gan                                | \-     | \-                                                                       |
+| Stydja Eyreya            | \-     | \-                                                                       |
+| White                            | \-     | \-                                                                       |
+| Adrian                           | ✅      | 😐                                                                       |
+| Eerhin Corlumett       | \-     | \-                                                                       |
+| Koara                             | ✅      | \-                                                                       |
+| Quirell Grandfleuve | \-     | \-                                                                       |
+| Serkuos Ophis             | \-     | \-                                                                       |
+| Chaatan                        | \-     | \-                                                                       |
+| Hazel                            | ✅      | 🥰 Protect her                                                           |
+| Isaac Bergeron          | \-     | \-                                                                       |
+| Sacha                            | \-     | \-                                                                       |
+| Yû Kokatsune              | \-     | \-                                                                       |
 
