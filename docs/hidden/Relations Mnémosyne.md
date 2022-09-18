@@ -56,7 +56,7 @@ tags:
 | White                            | \-     | \-                                                                       |
 | Adrian                           | ✅      | 😐                                                                       |
 | Eerhin Corlumett       | \-     | \-                                                                       |
-| Koara                             | ✅      | \-                                                                       |
+| Koara                             | ✅      | 😐                                                                       |
 | Quirell Grandfleuve | \-     | \-                                                                       |
 | Serkuos Ophis             | \-     | \-                                                                       |
 | Chaatan                        | \-     | \-                                                                       |
