@@ -2,6 +2,7 @@
 date: 12-06-2020
 share: true
 name: Ashling May
+title: Ashling May
 alias: Ashling, Ash, index
 description: "Ashling May, mon premier et meilleur des OC. Une étudiante douée d'un talent certains en informatique, fan de jeux vidéos et doté d'un énorme égo. Lâche et égoïste, ainsi que très vénale."
 type: OC
@@ -39,7 +40,7 @@ $~$
 → [[./Illustration_Ashling|Références]]
 
 **Yeux** : Bleus
-**Cheveux** : Roux, longs, souvent attachés en chignons 
+**Cheveux** : Roux, longs, souvent attachés en chignons
 **Taille** : 1m70
 **Poids** : 55kg
 **Peau** : Blanches, avec de nombreuses tâches de rousseurs.
@@ -49,12 +50,12 @@ Au niveau des chaussures, elle porte systématiquement de hautes bottes à sangl
 
 Lorsqu'elle ne sort pas, elle apprécie les tenues décontractés tel que les joggings et les shorts.
 
-Notons que si elle est en "infiltration", elle va se vêtir de vêtement sombres et d'une longue veste noire. 
+Notons que si elle est en "infiltration", elle va se vêtir de vêtement sombres et d'une longue veste noire.
 
 # ──────༺ Mental ༻──────
 
 **Défauts** : Égocentrique, lâche, avare
-**Qualité** : Nerd, génie, 
+**Qualité** : Nerd, génie,
 **Tempérament** : Chaotique, solitaire
 
 | Aime                 | Déteste              |
@@ -66,7 +67,7 @@ Notons que si elle est en "infiltration", elle va se vêtir de vêtement sombres
 | * * * *              | Dépenser de l'argent |
 
 **Peurs** : Mourir
-**Objectifs** : Devenir riche, mondialement connue, immortelle. 
+**Objectifs** : Devenir riche, mondialement connue, immortelle.
 
 ##### Mental Version1
 
@@ -76,7 +77,7 @@ Elle a une seule et unique peur, celle de mourir car elle elle considère surtou
 
 Ashling ne se considère pas comme étudiante, bien qu’elle soit dans une simple licence d’informatique. En effet, elle est trop souvent absente pour aller en ingénieure, alors qu’elle a largement le niveau pour. Elle a, réellement, un niveau supérieur à ses profs et a codé elle-même son propre OS. Donc, quand elle va en cours, c’est surtout pour se vanter.
 
-Comme déjà dit, Ash adore l’argent. Vraiment, et elle a une sainte horreur de la dépense. En fait, elle aime tellement l’argent qu’elle serait prête à vendre ses amis ou son âme pour en avoir.  Il faut énormément de temps et de talent pour qu’Ash envisage de peut-être vous considérer comme son égal. Elle adore le chaos et déteste l’état, si bien qu’elle n’éprouve aucun remord à tuer ou briser quelqu’un qui appartient à la classe dirigeante.
+Comme déjà dit, Ash adore l’argent. Vraiment, et elle a une sainte horreur de la dépense. En fait, elle aime tellement l’argent qu’elle serait prête à vendre ses amis ou son âme pour en avoir. Il faut énormément de temps et de talent pour qu’Ash envisage de peut-être vous considérer comme son égal. Elle adore le chaos et déteste l’état, si bien qu’elle n’éprouve aucun remord à tuer ou briser quelqu’un qui appartient à la classe dirigeante.
 
 Rajoutons finalement qu’elle adore particulièrement être une PK (Player Killer) de noob dans Exasys Online, et n’éprouve aucun remord à tuer des faibles en boucle. Surtout que dans Exasys, quand un joueur meurt en PVP, son tueur peut récupérer son équipement. Elle est devenue assez riche grâce à la revente d’équipement de noob. Revendue à prix d’or, évidemment.
 
@@ -124,8 +125,8 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 
 # Pouvoirs
 %% [[../../../Invocation d'armes]], [[../../../Sortilège]] %%
- 
-![[Pouvoirs_Ashling#Technopathe]]
+
+![[./Pouvoirs_Ashling#Technopathe]]
 
 ---
 ![[./Illustration_Ashling]]
