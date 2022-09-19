@@ -1,7 +1,7 @@
 ---
 type: Carnet
 univers: Lagendia
-title: Relations Mnémosyne
+name: Relations Mnémosyne
 alias:
   - Mnémosyne
 share: true
@@ -32,8 +32,8 @@ tags:
 | Fichier                                                                                            | statut | avis                                                                     |
 | -------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
 | Candace                             | ✅      | 😊                                                                       |
-| Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
 | Ivan Borukl                     | ✅      | 😘 Je le veux dans mon lit                                               |
+| Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
 | Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
 | Ichida                              | ✅      | 😐                                                                       |
 | Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
@@ -43,11 +43,11 @@ tags:
 | Nix Lumley                 | \-     | \-                                                                       |
 | Penny                           | ✅      | 😐 M'appelle par mon nom complet, et j'aime pas ça                       |
 | Seith                           | \-     | \-                                                                       |
-| Aygül Nephthys         | \-     | \-                                                                       |
 | Mezhyo Abhy               | \-     | \-                                                                       |
 | Pom Thabe                   | ✅      | 😐                                                                       |
 | Rithel                         | ✅      | 😐                                                                       |
 | Tol                               | ✅      | 🥰  Protect                                                              |
+| Aygül Nephthys         | \-     | \-                                                                       |
 | Belrum                          | \-     | \-                                                                       |
 | Dolce C.                      | ✅      | 🥰 Protect this child                                                    |
 | Franck Arnaud            | \-     | \-                                                                       |
