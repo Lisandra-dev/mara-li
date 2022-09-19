@@ -2,11 +2,12 @@
 share: true
 category: outils/tutoriel
 tags:
-- Obsidian
-- Pandoc
-- Fac
-- Tutoriel
+  - Obsidian
+  - Pandoc
+  - Fac
+  - Tutoriel
 ---
+
 
 Souvent, on peut se demander "mais comment, bon dieu on peut continuer à utiliser word pour nos mémoires ?" car Word-google doc a de nombreux (très nombreux) problème. 
 
@@ -70,7 +71,7 @@ output-file: 'User\\export\\Memoire_Master_2.docx'
 Ensuite, dans le fichier `page.yml` : (donné à titre d'exemple)
 Les images sont sous forme : `![description](nom de l'image)`. Pandoc cherchera automatiquement le même nom dans `resource-path` définie dans `default.yml`.
 ```yaml
-title: |
+name: |
 	![logo-lyon1](Logo_lyon1.png)  
 <br/>
 	Nom du mémoire
@@ -85,7 +86,7 @@ date: |
 <br/>
 	![Logo_laboratoire](logo_laboratoire){style="width=60%"}  
 # Je mets le logo du laboratoire en fin, avec un style afin de permettre à pandoc de forcer le centrage de l'image.
-subtitle: |
+subname: |
 	Maître de stage: X Y
 	Laboratoire d'accueil : NOM
 	ADRESSE
@@ -93,7 +94,7 @@ subtitle: |
 fig_caption: yes
 numbersections: true
 toc: true
-toc-title: Sommaire
+toc-name: Sommaire
 toc-depth: 6
 xnos-number-by-section: true
 tablenos-plus-name: tableau
