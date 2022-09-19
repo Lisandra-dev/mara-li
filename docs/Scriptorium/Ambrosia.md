@@ -1,7 +1,7 @@
 ---
 share: true
 category: Scriptorium
-title: Ambrosia
+name: Ambrosia
 description: Une idée comme une autre, brouillonnée
 ---
 
