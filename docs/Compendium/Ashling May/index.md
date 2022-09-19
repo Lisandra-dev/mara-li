@@ -1,7 +1,7 @@
 ---
 date: 12-06-2020
 share: true
-title: Ashling May
+name: Ashling May
 alias: Ashling, Ash, index
 description: "Ashling May, mon premier et meilleur des OC. Une étudiante douée d'un talent certains en informatique, fan de jeux vidéos et doté d'un énorme égo. Lâche et égoïste, ainsi que très vénale."
 type: OC
@@ -36,7 +36,7 @@ $~$
 
 # ──────༺ Physique ༻──────
 
-→ [[Illustration|Références]]
+→ [[./Illustration_Ashling|Références]]
 
 **Yeux** : Bleus
 **Cheveux** : Roux, longs, souvent attachés en chignons 
@@ -122,14 +122,13 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 - Elle est très très myope.
 - Elle élève une grenouille. Oui.
 
-# [[Pouvoirs]]
-
-%% [[Invocation d'armes]], [[Sortilège]] %%
+# Pouvoirs
+%% [[../../../Invocation d'armes]], [[../../../Sortilège]] %%
  
 ![[20. Compendium/22. Personnages/Ashling May/Pouvoirs#Technopathe]]
 
 ---
-![[Illustration]]
+![[./Illustration_Ashling]]
 
 
 
