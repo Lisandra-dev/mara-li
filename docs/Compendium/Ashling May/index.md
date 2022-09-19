@@ -125,7 +125,7 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 # Pouvoirs
 %% [[../../../Invocation d'armes]], [[../../../Sortilège]] %%
  
-![[./Pouvoirs_Ashling]]
+![[./Pouvoirs_Ashling#Technopathe]]
 
 ---
 ![[./Illustration_Ashling]]
