@@ -15,7 +15,7 @@ embed:
 tags:
   - Lagendia
 category: Lagendia
-title: Relation — Mnémos
+title: Relation — Mnémosyne
 ---
 
 %% index / Carnet %%
