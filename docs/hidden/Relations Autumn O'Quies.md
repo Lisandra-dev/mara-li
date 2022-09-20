@@ -12,7 +12,7 @@ display: Autumn O'Quies
 short: Autumn, Lagendia
 dataview: true
 links: false
-title: Relations Autumn O'Quies
+name: Relations Autumn O'Quies
 ---
 
 
@@ -22,18 +22,12 @@ title: Relations Autumn O'Quies
 # Relations
 | Fichier                                                                                            | statut | avis                    |
 | -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
-| Candace                             | \-     | \-                      |
-| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
-| Ivan Borukl                     | ✅      | Sympas 😊               |
-| Fenton Cassidy              | \-     | \-                      |
-| Ichida                              | ✅      | Neutre 😐               |
-| Raudhr                              | \-     | \-                      |
-| Ruby & Esther                | ✅      | Chill & sympa  😊       |
 | Echo Hoshino             | \-     | \-                      |
 | Farraige                     | \-     | \-                      |
 | Nix Lumley                 | \-     | \-                      |
 | Penny                           | ✅      | 😊 PROTECT              |
 | Seith                           | \-     | \-                      |
+| Shinri Meiyo             | \-     | \-                      |
 | Aygül Nephthys         | \-     | \-                      |
 | Mezhyo Abhy               | \-     | \-                      |
 | Pom Thabe                   | \-     | \-                      |
@@ -46,8 +40,9 @@ title: Relations Autumn O'Quies
 | Stydja Eyreya            | \-     | \-                      |
 | White                            | \-     | \-                      |
 | Adrian                           | \-     | \-                      |
+| Autumn O'Quies           | \-     | \-                      |
 | Eerhin Corlumett       | \-     | \-                      |
-| Koara                             | ✅      | Poto 😊                 |
+| Koara                             | \-     | \-                      |
 | Quirell Grandfleuve | 🗒️    | 😥 (Elle lui fait peur) |
 | Serkuos Ophis             | \-     | \-                      |
 | Chaatan                        | \-     | \-                      |
@@ -55,6 +50,13 @@ title: Relations Autumn O'Quies
 | Isaac Bergeron          | ✅      | 😊 Plutôt cool          |
 | Sacha                            | \-     | \-                      |
 | Yû Kokatsune              | \-     | \-                      |
+| Candace                             | \-     | \-                      |
+| Ivan Borukl                     | ✅      | Sympas 😊               |
+| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
+| Fenton Cassidy              | \-     | \-                      |
+| Ichida                              | ✅      | Neutre 😐               |
+| Raudhr                              | \-     | \-                      |
+| Ruby & Esther                | ✅      | Chill & sympa  😊       |
 
 
 
