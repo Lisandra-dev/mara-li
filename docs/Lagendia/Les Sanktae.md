@@ -5,7 +5,7 @@ description: Le wiki des Sanctae, mis à jour au fur et à mesure des validation
 type: notes
 category: Lagendia
 ---
-[[../Compendium/Mnémosyne/index|Mnémosyne]]/ [[./Relations Mnémosyne|Lagendia]]/ [[docs/Lagendia/Les Sanktae.md]]
+[[../Compendium/Mnémosyne/index|Mnémosyne]]/ [[./Relations Mnémosyne|Lagendia]]/ [[Les Sanktae]]
 → [[20. Compendium/22. Personnages/Mnémosyne/Lagendia — Némo/Fiche#◌ Les Sanktae ◌|Généralité]]
 
 - Être dont les pouvoirs apparaît sous **forme de contrôle de la lumière**
