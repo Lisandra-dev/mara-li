@@ -1,17 +1,17 @@
 ---
+alias:
+  - Fiche
+category: Compendium/Mnémosyne
+date: lundi, août 8 2022, 5:26:24 pm
+description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Aveugle.
+image: Némo_lillyth.jpg
+name: (Lagendia) Mnémosyne
+share: true
 tag:
   - RP/Lagendia
   - Mnémosyne
-name: (Lagendia) Mnémosyne
-alias:
-  - Fiche
-share: true
-date: 15-11-2021
-description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Aveugle.
-category: Compendium/Mnémosyne
-univers: Lagendia
 type: Fiche
-image: Némo_lillyth.jpg
+univers: Lagendia
 tags:
   - left
   - RP_Lagendia
