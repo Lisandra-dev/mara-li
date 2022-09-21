@@ -15,7 +15,7 @@ tags:
   - Mnémosyne
 ---
 
-%% [[./index]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[docs/Compendium/Mnémosyne/(Lagendia) Mnémosyne|Fiche]] %%
+%% [[./index]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[(Lagendia) Mnémosyne|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
