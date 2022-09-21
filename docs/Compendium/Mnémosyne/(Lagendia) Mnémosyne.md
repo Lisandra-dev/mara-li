@@ -15,7 +15,7 @@ tags:
   - Mnémosyne
 ---
 
-%% [[./index]]/[[../../Lagendia/Relations Autumn O'Quies|Lagendia]]/[[20. Compendium/22. Personnages/Mnémosyne/Lagendia — Némo/Fiche|Fiche]] %%
+%% [[./index]]/[[../../Lagendia/Relations Autumn O'Quies|Lagendia]]/[[Fiche|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
