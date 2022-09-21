@@ -2,7 +2,7 @@
 tag:
   - RP/Lagendia
   - Mnémosyne
-title: (Lagendia) Mnémosyne
+name: (Lagendia) Mnémosyne
 alias:
   - Fiche
 share: true
@@ -12,7 +12,6 @@ category: Compendium/Mnémosyne
 univers: Lagendia
 type: Fiche
 image: Némo_lillyth.jpg
-state: 🟢
 tags:
   - left
   - RP_Lagendia
@@ -20,7 +19,7 @@ tags:
   - RP/Lagendia
 ---
 
-%% [[index]]/[[Lagendia|Lagendia]]/[[docs/Compendium/Mnémosyne/(Lagendia) Mnémosyne.md|Fiche]] %%
+%% [[./index]]/[[../../Lagendia/Relations Autumn O'Quies|Lagendia]]/[[.|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -102,7 +101,7 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
-→ [[Illustration|Illustration]] #left
+→ [[./Illustration|Illustration]] #left
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
@@ -214,6 +213,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
+%% [[../../Lagendia/Les Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -221,9 +221,10 @@ Ils sont aussi capable de faire apparaître à volonté des ailes translucides, 
 
 Les Sanktae vivent surtout entre eux, dirigé par une **théocratie**, dont l'église principale se trouve dans le **Sanctuaire Sanktae**, avec toutes les instances dirigeantes de la race (notamment leurs archives et tribunaux). Cela dit, les Sanktae sont libres de pratiquer (ou non) leur religion.
 
- Il faut cependant noter que le meurtre d'un Sanktae par un autre est **extrêmement** tabou, quelque soit les circonstances. Si cela arrive, le Sanktae sera exclus et rejeté par sa propre race.
+Les Sanktae ont accès à l'« **Empathie Sanktae** » par le biais de leur Hua, par la forme persistance de leur Halo. La majorité des Sanktae ressentent cette capacité comme un lien avec les autres membre de leur race, et elle rend difficile tout mensonge entre eux.
+Cette empathie non entrainée prend la forme d'une sorte d'instinct plus fort que la moyenne. Seul certains Sanktae entraînés peuvent lire parfaitement le flots d'émotion qui en découle.
 
-Au cours d'un meurtre, chez les Sanktae, les centres de puissance du Sanktae sont modifiés, et il est possible pour certains de le vérifier. C'est pour cela que les meurtres sont facilement découverts et qu'il est possible de bannir les meurtriers, les suivre et surveiller.
+Le meurtre d'un Sanktae, par un autre, est extrêmement tabou et conduit à la **déchéance** du meurtrier. Ce dernier perd l'accès à l'Empathie, dans les deux sens, ce qui rend la détection des déchus très facile. En outre, les centres de puissance du Déchu sont modifiés.
 
 ### ◌ Pouvoirs Sanktae ◌
 
@@ -233,7 +234,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, [[Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
