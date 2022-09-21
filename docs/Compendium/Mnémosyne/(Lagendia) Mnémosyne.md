@@ -1,25 +1,21 @@
 ---
-tag:
-  - RP/Lagendia
-  - Mnémosyne
-name: (Lagendia) Mnémosyne
 alias:
   - Fiche
-share: true
+category: Compendium/Mnémosyne
 date: 15-11-2021
 description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Aveugle.
-category: Compendium/Mnémosyne
-univers: Lagendia
-type: Fiche
 image: Némo_lillyth.jpg
+name: (Lagendia) Mnémosyne
+share: true
+type: Fiche
+univers: Lagendia
 tags:
   - left
   - RP_Lagendia
   - Mnémosyne
-  - RP/Lagendia
 ---
 
-%% [[./index]]/[[../../Lagendia/Relations Autumn O'Quies|Lagendia]]/[[.|Fiche]] %%
+%% [[./index]]/[[../../Lagendia/Relations Autumn O'Quies|Lagendia]]/[[20. Compendium/22. Personnages/Mnémosyne/Lagendia — Némo/Fiche|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
