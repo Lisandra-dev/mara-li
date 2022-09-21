@@ -15,7 +15,7 @@ tags:
   - Mnémosyne
 ---
 
-%% [[./index]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[(Lagendia) Mnémosyne|Fiche]] %%
+%% [[./index|Mnémosyne]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[(Lagendia) Mnémosyne|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
@@ -209,7 +209,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% [[../../Lagendia/Les Sanktae]] %%
+%% [[../../Lagendia/Les Sanktae|Les Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -230,7 +230,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
