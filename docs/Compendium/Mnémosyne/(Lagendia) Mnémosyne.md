@@ -15,14 +15,14 @@ tags:
   - Mnémosyne
 ---
 
-%% undefined/undefined %%
+%% [[./index]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[docs/Compendium/Mnémosyne/(Lagendia) Mnémosyne|Fiche]] %%
 
 
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-!undefined**Nom & Prénom :** Mnémosyne
+![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne
 *Alias* : Némo
 
 **Âge :** Entre 28 et 30 ans
@@ -76,7 +76,7 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
 
-!undefined
+![[../../assets/img/Mnémosyne Fullbody.jpeg|+side]]
 
 *Taille* : 1,80 m
 *Poids* : 60 kg
@@ -92,12 +92,12 @@ Elle a une démarche plutôt droite, malgré le fait qu'elle s'aide tout le temp
 
 Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues.
 Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs.
-!undefined
+![[../../assets/img/Nemo by Mogeckko.jpeg|+rside]]
 
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
-→ undefined #left
+→ [[./Illustration|Illustration]] #left
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
@@ -209,7 +209,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% undefined %%
+%% [[../../Lagendia/Les Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -230,7 +230,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, undefined est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
