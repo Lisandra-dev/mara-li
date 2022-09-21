@@ -18,7 +18,7 @@ category: Lagendia
 title: Relation — Mnémosyne
 ---
 
-%% index / Carnet %%
+%% Mnémosyne / Carnet %%
 %% → Fiche %%
 %% → Relations %%
 
@@ -27,12 +27,20 @@ title: Relation — Mnémosyne
 # Relations
 ## PNJ
 - Rodon : Est l'ex de Némo. C'est un nymphe qui s'est transformé en plante et est resté bloqué parce que Némo l'a quitté. Elle l'a gardé parce que ça serait joli pour décorer.
-- Salem
+- Salem aka Jake O'Connor
 - Alazée
 
 ## PJ
 | Fichier                                                                                            | statut | avis                                                                     |
 | -------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
+| Candace                             | ✅      | 😊                                                                       |
+| Ivan Borukl                     | ✅      | 😘 Je le veux dans mon lit                                               |
+| Mnémosyne (RE)               | \-     | \-                                                                       |
+| Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
+| Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
+| Ichida                              | ✅      | 😐                                                                       |
+| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
+| Ruby & Esther                | \-     | \-                                                                       |
 | Echo Hoshino             | \-     | \-                                                                       |
 | Farraige                     | \-     | \-                                                                       |
 | Nix Lumley                 | \-     | \-                                                                       |
@@ -61,12 +69,4 @@ title: Relation — Mnémosyne
 | Isaac Bergeron          | \-     | \-                                                                       |
 | Sacha                            | \-     | \-                                                                       |
 | Yû Kokatsune              | \-     | \-                                                                       |
-| Candace                             | ✅      | 😊                                                                       |
-| Ivan Borukl                     | ✅      | 😘 Je le veux dans mon lit                                               |
-| Mnémosyne (RE)               | \-     | \-                                                                       |
-| Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
-| Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
-| Ichida                              | ✅      | 😐                                                                       |
-| Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
-| Ruby & Esther                | \-     | \-                                                                       |
 
