@@ -2,15 +2,20 @@
 date: 17-10-2021
 description: Illustration — Dessin de Némo
 category: Compendium/Mnémosyne
-alias: Illustration, Némo dessin, dessin
+alias:
+  - Illustration Mnémosyne
+  - Illustration
 type: Illustration
+short: Némo
 share: true
-title: Illustration
+name: Illustration
 tags:
-- Mnémosyne
-- Illustration
+  - Mnémosyne
+  - Illustration
+univers: Références
 ---
 
+[[./index]] / [[.|Illustration]]
 > [!grid] Medhas
 > ![[../../assets/img/Grimm_Nemo.jpg]] ![[../../assets/img/Mnémosyne robe - Farraige.png]]
 > ![[../../assets/img/Némo & Grimmerald.png]] ![[../../assets/img/Nemo_funny_medhas.jpeg]] ![[../../assets/img/Nemo_Grimm.jpeg]]
@@ -21,8 +26,9 @@ tags:
 >
 
 > [!GRID] Phil
-> ![[../../assets/img/Némo — Dolce 1.png]] ![[../../assets/img/Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png|]]
-> ![[../../assets/img/Némo half dolce.png]] ![[../../assets/img/Panneau_némo.png]]
+> ![[../../assets/img/Némo — Dolce 1.png]] ![[../../assets/img/Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png]]
+> 
+> ![[../../assets/img/Némo half dolce.png]] ![[../../assets/img/Panneau_némo.png]] ![[../../assets/img/Mnémosyne_portrait.jpg]]
 
 > [!GRID] Gabrioche
 > ![[../../assets/img/Fanart Gabrioche.png]]
