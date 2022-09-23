@@ -5,13 +5,22 @@ share: true
 category: Compendium/Mnémosyne
 description: Référence générale de Mnémosyne
 alias: Némo, Mnémosyne, Nemo, (i) Mnémosyne
-title: Mnémosyne
+name: Mnémosyne
 image: twitter_commission_Mnemosyne.png
 cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
+tag: References
+tags:
+  - Gardien
+  - References
+  - R
+  - e
+  - f
+  - r
+  - n
+  - c
+  - s
 ---
 
-
----
 
 ---
 > [!info]-  Informations principales.
@@ -47,7 +56,7 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 > 
 > ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable en l'état.==
 > 
-> Issue de sa fusion avec un être informe lors de sa résurrection, [[Obsius]] est la part sombre de Mnémosyne.
+> Issue de sa fusion avec un être informe lors de sa résurrection, [[../../../Obsius]] est la part sombre de Mnémosyne.
 > Lorsqu'elle se fait posséder, puisque c'est le seul moyen de débloquer ses pouvoirs, Mnémosyne change physiquement :
 > - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 > - Des griffes noires et effilées poussent à la place de ses ongles
@@ -81,13 +90,13 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 >| Versatile   | Décontractée |
 > $~~~~~$ Dans sa jeunesse, Mnémosyne était plus chaotique que maintenant. Détestant l'ordre et adorant le chaos, elle n'hésita pas à trahir son camp par simple amusement. Car l'ordre des choses l'ennuie.
 > 
-> $~~~~~$ Aujourd'hui, Mnémosyne est plus calme, mais elle n'aime pas suivre les gens et ordre aveuglément, ce qui font qu'elle est très difficile à contrôler pour l'[[Écho]], qui la garde sous surveillance tout en lui laissant bien plus de liberté que la plupart des membres ayant un grade similaire.
+> $~~~~~$ Aujourd'hui, Mnémosyne est plus calme, mais elle n'aime pas suivre les gens et ordre aveuglément, ce qui font qu'elle est très difficile à contrôler pour l'[[../../../Echo]], qui la garde sous surveillance tout en lui laissant bien plus de liberté que la plupart des membres ayant un grade similaire.
 > 
 > $~~~~~$ Sa condition d'aveugle ne la dérange en rien, et elle aime s'en amuser, n'hésitant pas à en rire. Son amnésie, par contre, bien qu'elle n'aime pas le montrer, lui pose problème. La recherche de sa mémoire est actuellement sa quête principale, et elle a l'impression qu'aider l'Écho l'aidera dans cette tâche. Sinon, étant donné son caractère désinvolte et versatile, elle ne ferait pas partie d'une organisation aussi hiérarchisée avec une mission qu'elle considère comme un poil utopique.
 > 
 > $~~~~~$ Mais il ne faut pas non plus imaginer Mnémosyne comme une personne sans cœur et égoïste, puisqu'elle n'hésitera pas à venir en aide à une personne dans le besoin, quel qu'il soit.
 > Dans les faits, Mnémosyne se fiche royalement de la race des gens, hybride ou humain, voire totalement autre chose. Après tout, elle ne les voit même pas !
-> Bien qu'elle raconte qu'elle n'est pas habitée de désir noble comme certains membres de l'[[Écho]], elle n'est pas non plus à laisser tomber les gens avec qui elle s'entend. Ce n'est pas non plus une personne lâche et paraît versatile, car incapable de se fixer quelque part.
+> Bien qu'elle raconte qu'elle n'est pas habitée de désir noble comme certains membres de l'[[../../../Echo]], elle n'est pas non plus à laisser tomber les gens avec qui elle s'entend. Ce n'est pas non plus une personne lâche et paraît versatile, car incapable de se fixer quelque part.
 > Durant la guerre, par contre, c'était autre chose, car elle avait un tempérament bien plus chaotique et a trahis son propre camps littéralement par amusement (à ce qu'on raconte, puisque aujourd'hui, elle n'en sait strictement rien !).
 > 
 > Avec l'amnésie, Mnémosyne s'est… Quelque peu assagit, on va dire.
@@ -131,7 +140,7 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 > **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence. 
 > Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux. 
 > 
-> → [[Illustration|Illustration]]
+> → [[./Illustration|Illustration]]
 > 
 > # Divers
 > **Habitudes** :
@@ -142,10 +151,15 @@ cover: https://www.mara-li.fr/assets/img/twitter_commission_Mnemosyne.png
 
 > [!info]- Relations
 > - [[Rodon]] : Est l'ex de Némo. C'est un nymphe qui s'est transformé en plante et est resté bloqué parce que Némo l'a quitté. Elle l'a gardé parce que ça serait joli pour décorer. 
-> - [[Salem]]
-> - [[Alazée]]
+> - [[../../../Salem]]
+> - [[../../../Alazée]]
+
+> [!note] BGM
+> #### Obsius
+> https://www.youtube.com/watch?v=JpU6ZWPzqN8
 
 
-%% [[Écho]]:: #Gardien %%
+%% [[../../../Echo]]:: #Gardien %%
 
-![[Illustration]]
+---
+![[./Illustration]]
