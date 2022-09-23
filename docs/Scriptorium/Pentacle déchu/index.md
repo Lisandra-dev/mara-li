@@ -1,7 +1,7 @@
 ---
 category: Scriptorium/Pentacle déchu
 share: true
-title: Pentacle Déchu
+name: Pentacle Déchu
 ---
 Il existe depuis toujours des démons, des anges, mais aussi des personnes possédant des capacités supérieures. Ils ont plusieurs noms, mais beaucoup s’accordent à les nommer « esper », « méta-humains » ou « Créature ».
 
