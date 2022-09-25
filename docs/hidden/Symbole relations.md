@@ -11,14 +11,15 @@ tags:
 
 
 ## Avis
-| Symbole | Description  |
-| ------- | ------------ |
-| 😐      | Neutre       |
-| 😊      | Poto         |
-| 🥰      | PROTECT      |
-| 😘      | Crush/Drague |
-| 😕      | Bof          |
-| 😥      | Peur/Pleure  | 
+|Symbole| Description     |
+| ------- | --------------- |
+| 😥      | Peur/Pleure     |
+| 😕      | Bof             |
+| 😐      | Neutre          |
+| 🙂      | Neutre apprécié |
+| 🥰      | PROTECT         |
+| 😊      | Poto            |
+| 😘      | Crush/Drague    |
 
 ## Rencontre
 | Symbole | Description                             |
