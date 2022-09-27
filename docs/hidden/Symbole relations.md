@@ -1,18 +1,19 @@
 ---
-share: true
 date: 09-09-2022
 description: Symbole relation sheet
-type: Notes
+share: true
 tags:
   - Notes
   - Symbole
   - Relations
+type: Notes
 ---
 
 
 ## Avis
-|Symbole| Description     |
-| ------- | --------------- |
+| Symbole |Description|
+|:---:| --------------- |
+|😣|Relation conflictuelle|
 | 😥      | Peur/Pleure     |
 | 😕      | Bof             |
 | 😐      | Neutre          |
@@ -21,9 +22,10 @@ tags:
 | 😊      | Poto            |
 | 😘      | Crush/Drague    |
 
+
 ## Rencontre
 | Symbole | Description                             |
 | ------- | --------------------------------------- |
 | ✅      | Rencontré                               |
 | 🗯️      | En a entendu parlé (rumeur)             |
-| 🗒️      | Discussion par messagerie/chat/distance | 
+| 🗒️      | Discussion par messagerie/chat/distance |
