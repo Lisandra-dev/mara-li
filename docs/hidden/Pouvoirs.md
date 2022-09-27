@@ -1,6 +1,5 @@
 ---
 category: hidden
-obsidianUIMode: preview
 share: true
 type: Index, Idée
 tags:
@@ -11,9 +10,6 @@ tags:
 
 ```folderv
 ```
-
-contexte^id
-
 
 # Liste de pouvoirs
 - Invoquer un stand avec l’aide d’un téléphone (donc gérer la batterie du téléphone à chaque invocation)
