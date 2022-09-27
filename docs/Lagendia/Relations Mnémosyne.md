@@ -18,7 +18,7 @@ category: Lagendia
 title: Relation — Mnémosyne
 ---
 
-%% index / Carnet %%
+%% Mnémosyne / Carnet %%
 %% → Fiche %%
 %% → Relations %%
 
@@ -38,7 +38,7 @@ title: Relation — Mnémosyne
 | Mnémosyne (RE)               | \-     | \-                                                                       |
 | Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
 | Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
-| Ichida                              | ✅      | 😐                                                                       |
+| Ichida                              | ✅      | 😕 Ne l'aime pas et ne l'aimera pas                                      |
 | Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
 | Ruby & Esther                | \-     | \-                                                                       |
 | Echo Hoshino             | \-     | \-                                                                       |
@@ -77,6 +77,11 @@ title: Relation — Mnémosyne
 • Personnage : @Mnémosyne
 • Liens : 
 ```
+
+❖ — Demande de validation d'Achievements — ❖
+• Succès : **The french kiss**
+• Personnage : @Mnémosyne & @Ivan
+• Liens : https://discord.com/channels/906377865594036264/907515388470890546/1024262868755038228
 
 • Succès : **Hug**
 • Personnage : @Mnémosyne
