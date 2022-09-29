@@ -5,6 +5,8 @@ dataview: true
 name: Lagendia — Personnages data
 title: Lagendia - Personnages
 links: false
+description: Liste de tous les personnages de Lagendia avec quelque données
+  issues de leur fiche
 tags:
   - Lagendia
   - MOC
