@@ -7,7 +7,7 @@ image: Lagendia_logo.webp
 links: false
 name: Lagendia — Personnages data
 share: true
-title: Lagendia - Personnages
+title: Personnages
 tags:
   - Lagendia
   - MOC
