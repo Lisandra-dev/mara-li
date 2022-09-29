@@ -38,9 +38,9 @@ title: Relation — Mnémosyne
 | Mnémosyne (RE)               | \-     | \-                                                                       |
 | Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
 | Fenton Cassidy              | ✅      | 😊 Plutôt sympa bien que semble stricte                                  |
-| Ichida                              | ✅      | 😕 Ne l'aime pas et ne l'aimera pas                                      |
+| Ichida                              | ✅      | 😕 Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.         |
 | Raudhr                              | ✅      | 😥Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
-| Ruby & Esther                | \-     | \-                                                                       |
+| Ruby & Esther                | ✅      | 🤔 A l'air funky                                                         |
 | Echo Hoshino             | \-     | \-                                                                       |
 | Farraige                     | \-     | \-                                                                       |
 | Nix Lumley                 | \-     | \-                                                                       |
@@ -49,7 +49,7 @@ title: Relation — Mnémosyne
 | Shinri Meiyo             | \-     | \-                                                                       |
 | Aygül Nephthys         | \-     | \-                                                                       |
 | Mezhyo Abhy               | \-     | \-                                                                       |
-| Pom Thabe                   | ✅      | 😐                                                                       |
+| Pom Thabe                   | ✅      | 😐"Excellente élocution. Déplorable mode de pensée"                      |
 | Rithel                         | ✅      | 😐                                                                       |
 | Tol                               | ✅      | 🥰 Protect                                                               |
 | Belrum                          | \-     | \-                                                                       |
@@ -65,7 +65,7 @@ title: Relation — Mnémosyne
 | Quirell Grandfleuve | \-     | \-                                                                       |
 | Serkuos Ophis             | \-     | \-                                                                       |
 | Chaatan                        | \-     | \-                                                                       |
-| Hazel                            | ✅      | <ul><li>🥰 Protect her</li><li>\-</li></ul>                              |
+| Hazel                            | ✅      | <ul><li>🥰 Protect her</li><li>🥰 Protect her</li></ul>                  |
 | Isaac Bergeron          | \-     | \-                                                                       |
 | Sacha                            | \-     | \-                                                                       |
 | Yû Kokatsune              | \-     | \-                                                                       |
