@@ -18,7 +18,7 @@ category: Lagendia
 title: Relation — Mnémosyne
 ---
 
-%% Mnémosyne / Carnet %%
+%% index / Carnet %%
 %% → Fiche %%
 %% → Relations %%
 
@@ -33,7 +33,7 @@ title: Relation — Mnémosyne
 ## PJ
 | Fichier                                                                                            | statut | avis                                                                     |
 | -------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ |
-| Candace                             | ✅      | 😊                                                                       |
+| Candace                             | ✅      | 🙄Oui, alors, non.                                                       |
 | Ivan Borukl                     | ✅      | 😘 Je le veux dans mon lit                                               |
 | Mnémosyne (RE)               | \-     | \-                                                                       |
 | Rachel Cornelis             | ✅      | 😣 Pas ma pote, a mal pris sa description de Lueur                       |
