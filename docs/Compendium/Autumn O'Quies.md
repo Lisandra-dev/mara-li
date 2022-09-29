@@ -1,14 +1,19 @@
 ---
-date: 22-07-2022
 category: Compendium
+cover: https://d33wubrfki0l68.cloudfront.net/5397ec1df4e15cfc4603b863a1272f12b53fa06a/cc218/assets/img/plume_autumn.jpg
+date: 22-07-2022
+description: Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur
+  chef de son clan, elle maîtrise un hua d'eau et de glace, avec des sens
+  exarcébée.
+display: Fiche
+image: comms2.png
 share: true
-description: "Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur chef de son clan, elle maîtrise un hua d'eau et de glace, avec des sens exarcébée." 
+tags:
+  - RP_Lagendia_OC
 type: OC
 univers: Lagendia
-tag: RP/Lagendia/OC
-image: Plume_Autumn.jpg
-cover: https://d33wubrfki0l68.cloudfront.net/5397ec1df4e15cfc4603b863a1272f12b53fa06a/cc218/assets/img/plume_autumn.jpg
 ---
+
 
 
 
@@ -16,7 +21,7 @@ cover: https://d33wubrfki0l68.cloudfront.net/5397ec1df4e15cfc4603b863a1272f12b53
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
-![[../assets/img/Plume_Autumn.jpg|+side]]**Nom & Prénom :** Autumn O’Quies
+![[../assets/img/comms2.png|+side]]**Nom & Prénom :** Autumn O’Quies
 *Surnom :* “Plume” (par sa mère) / “Mademoiselle” (son majordome) / “P’tite cheffe” (son cousin)
 **Âge :** 20 ans
 *Date d’anniversaire :* 19/06
@@ -27,7 +32,7 @@ I n t r o d u c t i o n<br>
  <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 D e s c r i p t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
-<h3 style="text-align:center">──────༺ Race ༻──────</h3>
+### ──────༺ Race ༻──────
 
 Les Liberi sont une race présentant des attributs d’oiseaux, mais incapables de voler. Ainsi, nombreux sont les Liberi présentant des plumes, des ailes vestigiales ou encore des aigrettes. En plus de cela, ils ont notamment des sens exacerbés, au niveau de leur vue, du son, et des odeurs notamment. Très versatiles, souvent caractériels, les Liberi vivent dans toutes les forêts du monde, généralement dans des villages et des villes suspendues. Ils n’ont aucun problème à vivre avec les autres races, et quelques clans ont des non-Libéri en leur sein, voire en tant que chef.
 
@@ -44,8 +49,9 @@ Le clan O’Quies est un clan de rapaces nocturnes, habitués à la chasse et l�
 - D’autres jeunes Liberi ont forcément rejoint Etria pour piquer la place d’Autumn en tant que future chef.
 - Les Liberi ont leur propre politique interne et n’hésite pas à se faire la guerre pour agrandir leur territoire, chaque clan a donc une garde rapprochée, communément appelée“La Garde”.[^2]
 - Généralement, les clans Liberi vivent dans les forêts, en hauteur.
+- Tous les Liberi savent siffler, qui est un élevé comme un art. Ils l’utilisent pour communiquer, et chaque clan a sa propre manière de siffler, avec ses propres codes.
 
-<h3 style="text-align:center">──────༺ Mental ༻──────</h3>
+### ──────༺ Mental ༻──────
 
 Autumn est une jeune femme intelligente, curieuse, qui respecte scrupuleusement les règles. Elle suit volontairement ce que lui dicte son père (et le clan en général) bien qu’il lui ait laissé le choix. Elle aime l’idée qu’elle possède du pouvoir, et veut aussi s’en montrer digne. C’est pour cela qu’elle s’est énormément entrainée et qu’elle a quitté la Forêt pour rejoindre Etria, comme **d’autres Liberi**. Elle a des habitudes que l’on pourrait qualifier de militaires : levé aux aurores, sports (notamment les pompes), lectures, écritures… Elle a toujours suivi un entraînement scrupuleux. Elle peut aussi se montrer extrêmement compétitive car elle est la future chef des Liberi, et veut totalement écraser les autres enfants des chefs de clan.
 
@@ -70,7 +76,7 @@ Néanmoins Autumn est extrêmement curieuse et sensible à l’Histoire, et elle
 - S’endort régulièrement en cours
 - Peine à s’endormir le soir et aura tendance à ignorer le couvre-feu.
 - Compétitive et essaiera d’être la première élève.
-- Intriguée par l’[[Écho]]
+- Intriguée par l’[[../../Echo|Écho]]
 
 ##### __*Peurs & phobies*__
 Il lui arrive souvent de faire des cauchemars où elle perd toutes ses plumes.
@@ -81,7 +87,7 @@ C’est une jeune femme très compétitive et énergique, qui a du mal à rester
 ##### __*Objectifs*__
 Être la meilleure et devenir chef des clan Liberi
 
-<h3 style="text-align:center">──────༺ Physique ༻──────</h3>
+### ──────༺ Physique ༻──────
 
 > [!infobox|left]
 > ![[../assets/img/AutumOQuies_plume.png|med]]
