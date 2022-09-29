@@ -1,17 +1,17 @@
 ---
-date: 17-10-2021
-description: Illustration — Dessin de Némo
-category: Compendium/Mnémosyne
 alias:
   - Illustration Mnémosyne
   - Illustration
-type: Illustration
-short: Némo
+category: Compendium/Mnémosyne
+date: 17-10-2021
+description: Illustration — Dessin de Némo
+name: Illustration_Némo
 share: true
-name: Illustration
+short: Némo
 tags:
   - Mnémosyne
   - Illustration
+type: Illustration
 univers: Références
 ---
 
@@ -27,7 +27,7 @@ univers: Références
 
 > [!GRID] Phil
 > ![[../../assets/img/Némo — Dolce 1.png]] ![[../../assets/img/Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png]]
-> 
+>
 > ![[../../assets/img/Némo half dolce.png]] ![[../../assets/img/Panneau_némo.png]] ![[../../assets/img/Mnémosyne_portrait.jpg]]
 
 > [!GRID] Gabrioche
