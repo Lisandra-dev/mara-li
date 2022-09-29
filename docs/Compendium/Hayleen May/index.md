@@ -12,7 +12,7 @@ tags:
   - inité
 ---
 
-![[./Illustration|20. Compendium/22. Personnages/Hayleen May/Illustration]]
+![[./Illustration]]
 > [!note] Identité
 > ![[../../assets/img/Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
@@ -108,10 +108,10 @@ tags:
 > - Un autre Katana, plus simple (car elle se bat à l’arme double), à la lame rouge.
 
 > [!tldr] Relations
-> - [[../../../Salem|Salem]] : Père adoptif
-> - [[../../../Alazée|Alazée]]
-> - [[./Mnémosyne|Mnémosyne]]
+> - [[../../../Salem]] : Père adoptif
+> - [[../../../Alazée]]
+> - [[./Mnémosyne]]
 > - **Vrai père** : Un descendant de Gilgamesh — Babylone
 > - **Mère** : ???
-> - [[../../../Echo|Écho]] : #inité
+> - [[../../../Écho]] : #inité
 
