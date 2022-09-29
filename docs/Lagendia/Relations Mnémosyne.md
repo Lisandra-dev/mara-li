@@ -1,24 +1,22 @@
 ---
-type: Carnet
-univers: Lagendia
-name: Relations Mnémosyne
 alias:
   - Mnémosyne
-display: Mnémosyne
-short: Lagendia, Mnémosyne
+category: Lagendia
 dataview: true
-share: true
+display: Mnémosyne
+embed: []
 links: false
-embed:
-  send: false
-  remove: true
+name: Relations Mnémosyne
+share: true
+short: Lagendia, Mnémosyne
 tags:
   - Lagendia
-category: Lagendia
 title: Relation — Mnémosyne
+type: Carnet
+univers: Lagendia
 ---
 
-%% index / Carnet %%
+%% Mnémosyne / Carnet %%
 %% → Fiche %%
 %% → Relations %%
 
@@ -65,7 +63,7 @@ title: Relation — Mnémosyne
 | Quirell Grandfleuve | \-     | \-                                                                       |
 | Serkuos Ophis             | \-     | \-                                                                       |
 | Chaatan                        | \-     | \-                                                                       |
-| Hazel                            | ✅      | 🥰 Protect her                                                           |
+| Hazel                            | ✅      | <ul><li>🥰 Protect her</li><li>\-</li></ul>                              |
 | Isaac Bergeron          | \-     | \-                                                                       |
 | Sacha                            | \-     | \-                                                                       |
 | Yû Kokatsune              | \-     | \-                                                                       |
@@ -79,15 +77,15 @@ title: Relation — Mnémosyne
 ```
 
 ❖ — Demande de validation d'Achievements — ❖
-• Succès : **The french kiss**
-• Personnage : @Mnémosyne & @Ivan
-• Liens : https://discord.com/channels/906377865594036264/907515388470890546/1024262868755038228
+- Succès : **The french kiss**
+- Personnage : @Mnémosyne & @Ivan
+- Liens : https://discord.com/channels/906377865594036264/907515388470890546/1024262868755038228
 
-• Succès : **Hug**
-• Personnage : @Mnémosyne
-• Liens : https://discord.com/channels/906377865594036264/907531939718778910/1022919324412956684
+- Succès : **Hug**
+- Personnage : @Mnémosyne
+- Liens : https://discord.com/channels/906377865594036264/907531939718778910/1022919324412956684
 
-• Succès : **Adulte "responsable"** 
-• Personnage : @Mnémosyne 
-• Liens : 🧼┃Mnémosyne
+- Succès : **Adulte "responsable"**
+- Personnage : @Mnémosyne
+- Liens : 🧼┃Mnémosyne
 
