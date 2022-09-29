@@ -1,19 +1,21 @@
 ---
-alias:
-  - Mnémosyne
-category: Lagendia
-dataview: true
-display: Mnémosyne
-embed: []
-links: false
-name: Relations Mnémosyne
-share: true
-short: Lagendia, Mnémosyne
-tags:
-  - Lagendia
-title: Relation — Mnémosyne
 type: Carnet
 univers: Lagendia
+name: Relations Mnémosyne
+alias:
+  - Mnémosyne
+display: Mnémosyne
+short: Lagendia, Mnémosyne
+dataview: true
+share: true
+links: false
+embed:
+  send: false
+  remove: true
+tags:
+  - Lagendia
+category: Lagendia
+title: Relation — Mnémosyne
 ---
 
 %% Mnémosyne / Carnet %%
@@ -77,15 +79,15 @@ univers: Lagendia
 ```
 
 ❖ — Demande de validation d'Achievements — ❖
-- Succès : **The french kiss**
-- Personnage : @Mnémosyne & @Ivan
-- Liens : https://discord.com/channels/906377865594036264/907515388470890546/1024262868755038228
+• Succès : **The french kiss**
+• Personnage : @Mnémosyne & @Ivan
+• Liens : https://discord.com/channels/906377865594036264/907515388470890546/1024262868755038228
 
-- Succès : **Hug**
-- Personnage : @Mnémosyne
-- Liens : https://discord.com/channels/906377865594036264/907531939718778910/1022919324412956684
+• Succès : **Hug**
+• Personnage : @Mnémosyne
+• Liens : https://discord.com/channels/906377865594036264/907531939718778910/1022919324412956684
 
-- Succès : **Adulte "responsable"**
-- Personnage : @Mnémosyne
-- Liens : 🧼┃Mnémosyne
+• Succès : **Adulte "responsable"** 
+• Personnage : @Mnémosyne 
+• Liens : 🧼┃Mnémosyne
 
