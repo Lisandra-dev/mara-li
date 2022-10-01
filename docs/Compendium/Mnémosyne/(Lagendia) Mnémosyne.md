@@ -7,17 +7,19 @@ description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Av
 image: Némo_lillyth.jpg
 name: (Lagendia) Mnémosyne
 share: true
+tag:
+  - RP/Lagendia
+  - Mnémosyne
 type: Fiche
 univers: Lagendia
 tags:
   - left
   - RP_Lagendia
   - Mnémosyne
+  - RP/Lagendia
 ---
 
-%% [[./index|Mnémosyne]]/[[../../Lagendia/Relations Mnémosyne|Lagendia]]/[[(Lagendia) Mnémosyne|Fiche]] %%
-
-
+%% [[./index|Mnémosyne]] / [[../../../Lagendia|Lagendia]] / [[.|Fiche]] %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -97,7 +99,7 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
-→ [[./Illustration|Illustration]] #left
+→ [[20. Compendium/22. Personnages/Mnémosyne/Illustration|Illustration]] #left
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
@@ -209,7 +211,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% [[../../Lagendia/Les Sanktae|Les Sanktae]] %%
+%% [[../../Lagendia/Sanktae/index]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -230,7 +232,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
@@ -276,7 +278,6 @@ Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéth
 > - Bonus : +10 aux dés
 > - Cooldown: 2x /jours
 > - Domaine : Lumière ; Hua
-
 
 > [!buff] ❖ — **Téléportation** *(Buff)* — ❖
 > Némo se déplace instantanément d'un point à un autre sur une courte distance.
