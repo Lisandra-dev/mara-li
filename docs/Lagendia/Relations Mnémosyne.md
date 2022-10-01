@@ -1,17 +1,17 @@
 ---
-type: Carnet
-univers: Lagendia
-name: Relations Mnémosyne
 alias:
   - Mnémosyne
-display: Mnémosyne
+category: Lagendia
 dataview: true
-share: true
-links: false
+display: Mnémosyne
 embed:
   send: false
   remove: true
+links: false
+name: Relations Mnémosyne
+share: true
 tags:
   - Lagendia
-category: Lagendia
+type: Carnet
+univers: Lagendia
 ---
