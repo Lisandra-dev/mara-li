@@ -22,44 +22,44 @@ category: Lagendia
 %% ← Relations %%
 ![[../hidden/Symbole relations]]
 # Relations
-| Fichier                                                                                            | statut | avis                    |
-| -------------------------------------------------------------------------------------------------- | ------ | ----------------------- |
-| Candace                             | \-     | \-                      |
-| Ivan Borukl                     | ✅      | Sympas 😊               |
-| Mnémosyne (RE)               | \-     | \-                      |
-| Rachel Cornelis             | ✅      | 😥 Brrr…. Fait peur     |
-| Fenton Cassidy              | \-     | \-                      |
-| Ichida                              | ✅      | Neutre 😐               |
-| Raudhr                              | \-     | \-                      |
-| Ruby & Esther                | ✅      | Chill & sympa 😊        |
-| Echo Hoshino             | \-     | \-                      |
-| Farraige                     | \-     | \-                      |
-| Nix Lumley                 | \-     | \-                      |
-| Penny                           | ✅      | 😊 PROTECT              |
-| Seith                           | \-     | \-                      |
-| Shinri Meiyo             | \-     | \-                      |
-| Aygül Nephthys         | \-     | \-                      |
-| Mezhyo Abhy               | \-     | \-                      |
-| Pom Thabe                   | \-     | \-                      |
-| Rithel                         | \-     | \-                      |
-| Tol                               | \-     | \-                      |
-| Belrum                          | \-     | \-                      |
-| Dolce C.                      | \-     | \-                      |
-| Franck Arnaud            | \-     | \-                      |
-| Gan                                | \-     | \-                      |
-| Stydja Eyreya            | \-     | \-                      |
-| White                            | \-     | \-                      |
-| Adrian                           | \-     | \-                      |
-| Autumn O'Quies (RE) | \-     | \-                      |
-| Eerhin Corlumett       | \-     | \-                      |
-| Koara                             | \-     | \-                      |
-| Quirell Grandfleuve | 🗒️    | 😥 (Elle lui fait peur) |
-| Serkuos Ophis             | \-     | \-                      |
-| Chaatan                        | \-     | \-                      |
-| Hazel                            | \-     | \-                      |
-| Isaac Bergeron          | ✅      | 😊 Plutôt cool          |
-| Sacha                            | \-     | \-                      |
-| Yû Kokatsune              | \-     | \-                      |
+| Fichier                                                                                            | statut | avis                                                                                              |
+| -------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------- |
+| Candace                             | ✅      | \-                                                                                                |
+| Ivan Borukl                     | ✅      | Sympas                                                                                            |
+| Mnémosyne (RE)               | \-     | \-                                                                                                |
+| Rachel Cornelis             | ✅      | Brrr…. Fait peur                                                                                  |
+| Fenton Cassidy              | \-     | \-                                                                                                |
+| Ichida                              | ✅      | \-                                                                                                |
+| Raudhr                              | 🗯️    | Je dois prendre un cours privée avec lui pour le clan, un jour. Pour l'instant, ça devrait aller. |
+| Ruby & Esther                | ✅      | Chill & sympa                                                                                     |
+| Echo Hoshino             | ✅      | \-                                                                                                |
+| Farraige                     | \-     | \-                                                                                                |
+| Nix Lumley                 | \-     | \-                                                                                                |
+| Penny                           | ✅      | PROTECT                                                                                           |
+| Seith                           | \-     | \-                                                                                                |
+| Shinri Meiyo             | \-     | \-                                                                                                |
+| Aygül Nephthys         | \-     | \-                                                                                                |
+| Mezhyo Abhy               | \-     | \-                                                                                                |
+| Pom Thabe                   | 🗯️    | Croisée au cours de cac                                                                           |
+| Rithel                         | 🗯️    | A l'air facilement jalouse. Sort avec Adrian. Je veux être son amie !                             |
+| Tol                               | ✅      | \-                                                                                                |
+| Belrum                          | \-     | \-                                                                                                |
+| Dolce C.                      | \-     | \-                                                                                                |
+| Franck Arnaud            | ✅      | \-                                                                                                |
+| Gan                                | \-     | \-                                                                                                |
+| Stydja Eyreya            | \-     | \-                                                                                                |
+| White                            | \-     | \-                                                                                                |
+| Adrian                           | 🗯️    | Loup garou, sort avec Rithel.                                                                     |
+| Autumn O'Quies (RE) | \-     | \-                                                                                                |
+| Eerhin Corlumett       | \-     | \-                                                                                                |
+| Koara                             | ✅      | BIG BRO                                                                                           |
+| Quirell Grandfleuve | 🗒️    | Me fait peur                                                                                      |
+| Serkuos Ophis             | \-     | \-                                                                                                |
+| Chaatan                        | \-     | \-                                                                                                |
+| Hazel                            | \-     | \-                                                                                                |
+| Isaac Bergeron          | ✅      | Plutôt cool                                                                                       |
+| Sacha                            | ✅      | \-                                                                                                |
+| Yû Kokatsune              | \-     | \-                                                                                                |
 
 
 
