@@ -7,19 +7,15 @@ description: Fiche de Mnémosyne, adaptée à Lagendia. Sanktae surveillante. Av
 image: Némo_lillyth.jpg
 name: (Lagendia) Mnémosyne
 share: true
-tag:
-  - RP/Lagendia
-  - Mnémosyne
 type: Fiche
 univers: Lagendia
 tags:
   - left
   - RP_Lagendia
   - Mnémosyne
-  - RP/Lagendia
 ---
 
-%% [[./index|Mnémosyne]] / [[../../../Lagendia|Lagendia]] / [[.|Fiche]] %%
+%% [[./index|Mnémosyne]] / [[../../../Lagendia|Lagendia]] / [[(Lagendia) Mnémosyne|Fiche]] %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -99,13 +95,13 @@ Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortemen
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
-→ [[20. Compendium/22. Personnages/Mnémosyne/Illustration|Illustration]] #left
+→ [[./Illustration_Némo|Illustration]] #left
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-### ⟦ Dix ans plus tôt ⟧
+### ⟦ Six ans plus tôt ⟧
 
 *Sacrifier. Sacrifier son âme.*
 *Voilà ce qu'elle avait fait.*
@@ -163,19 +159,23 @@ Il ne voulait pas mourir.
 
 Il posa un tentacule, composé d'ombre, sur le front de l'ange, qui respirait difficilement. Évidemment, elle ne le voyait pas. Elle le sentit juste, comme une brise chaude.
 
-Elle accepta. Elle n'avait pas le choix.
+La créature sentait la présence d'une tierce personne. Il ne la connaissait pas. Mais elle était destinée à les lier.
 
-Ils ne devinrent qu'un.
+Un Sceau d'Aetheromancie. 
+Les liens jusqu'à la mort.
+
+Une façon pour Obsius de se cacher du monde. 
+La créature en était tout à fait satisfaite. 
 
 ### ⟦ Quelque mois plus tard — Hôpital ⟧
 
-*Alazée était une personne curieuse par nature, et, lorsqu'elle entendit — au cours d'un voyage — parlé d'une aveugle taciturne et malade, décida de s'y rendre. Après tout, l'Écho se devait d'aider tout le monde.*
+*Alazée était une personne curieuse par nature, et, lorsqu'elle entendit — au cours d'un voyage — parlé d'une aveugle taciturne et malade, décida de s'y rendre. Après tout, l'Écho se devait d'aider tout le monde… Surtout lorsqu'on était sur les traces d'un renégat de l'organisation, et qui avait été aperçu quelque mois plus tôt.*
 
 *Salem, lui, était plus dubitatif.*
 
 — Tu sais que tu n'as pas le droit de fumer dans un hôpital ?
 
-*Il haussa les épaules et pointa l'ange comateux*
+*Il haussa les épaules et pointa l'ange comateux.*
 
 — Comme si ça allait la déranger. Tu peux y faire quelque chose ?
 
@@ -211,7 +211,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% [[../../Lagendia/Sanktae/index]] %%
+%% [[../../Lagendia/Sanktae/index|Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -225,14 +225,14 @@ Cette empathie non entrainée prend la forme d'une sorte d'instinct plus fort qu
 Le meurtre d'un Sanktae, par un autre, est extrêmement tabou et conduit à la **déchéance** du meurtrier. Ce dernier perd l'accès à l'Empathie, dans les deux sens, ce qui rend la détection des déchus très facile. En outre, les centres de puissance du Déchu sont modifiés.
 
 ### ◌ Pouvoirs Sanktae ◌
-
-Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et elle peut être capable de condenser la lumière en rayon et laser, se déplacer d'un point à un autre, ou encore créer un double de lumière.
+$Domaine\ :\ Lumière$
+Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et elle peut être capable de condenser la lumière en rayon et laser, se déplacer d'un point à un autre, ou encore se créer un double.
 
 ### ◌ Pouvoirs Obsius ◌
-
+$Domaine\ :\ Ombre$
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéthéré, [[../../../Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement :
+Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement[^2] :
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
@@ -302,3 +302,4 @@ Issue de sa fusion avec un être informe, une boule d'Hua parti d'un nœud Aéth
 > *Effet* : Bonus +12 aux dés (uniquement sur Némo)
 
 [^1]: Nom inspiré d'Arknight.
+[^2]: Cette transformation est uniquement énergétique et ne change pas la biologie de Mnémosyne.
