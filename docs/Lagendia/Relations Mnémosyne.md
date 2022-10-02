@@ -17,9 +17,9 @@ type: Carnet
 univers: Lagendia
 ---
 
-%% . %%
-%% → (Lagendia) Mnémosyne %%
-%% → Relations %%
+%% Mnémosyne %%
+%% → Fiche %%
+%% → 10. PROJECT/Lagendia/Mnémosyne/Relations %%
 
 
 
@@ -32,9 +32,17 @@ univers: Lagendia
 ## PJ
 | Fichier                                                                                 | statut | Relation | avis                                                                   |
 | --------------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
+| Candace                             | ✅      | 🙄       | Oui, alors, non.                                                       |
+| Ivan Borukl                     | ✅      | 😘       | Je le veux dans mon lit                                                |
+| Mnémosyne (RE)               | \-     | \-       | \-                                                                     |
+| Rachel Cornelis             | ✅      | 😣       | Pas ma pote, a mal pris sa description de Lueur                        |
+| Fenton Cassidy              | ✅      | 😊       | Plutôt sympa bien que semble stricte                                   |
+| Ichida                              | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
+| Raudhr                              | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
+| Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
 | Echo Hoshino             | \-     | \-       | \-                                                                     |
-| Farraige                     | \-     | \-       | \-                                                                     |
 | Nix Lumley                 | \-     | \-       | \-                                                                     |
+| Farraige                     | \-     | \-       | \-                                                                     |
 | Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
 | Seith                           | \-     | \-       | \-                                                                     |
 | Shinri Meiyo             | \-     | \-       | \-                                                                     |
@@ -60,14 +68,6 @@ univers: Lagendia
 | Isaac Bergeron          | \-     | \-       | \-                                                                     |
 | Sacha                            | \-     | \-       | \-                                                                     |
 | Yû Kokatsune              | \-     | \-       | \-                                                                     |
-| Candace                             | ✅      | 🙄       | Oui, alors, non.                                                       |
-| Ivan Borukl                     | ✅      | 😘       | Je le veux dans mon lit                                                |
-| Mnémosyne (RE)               | \-     | \-       | \-                                                                     |
-| Rachel Cornelis             | ✅      | 😣       | Pas ma pote, a mal pris sa description de Lueur                        |
-| Fenton Cassidy              | ✅      | 😊       | Plutôt sympa bien que semble stricte                                   |
-| Ichida                              | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
-| Raudhr                              | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
-| Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
 
 # Achievement
 ```md
