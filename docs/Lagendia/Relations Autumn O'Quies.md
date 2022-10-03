@@ -24,6 +24,14 @@ category: Lagendia
 # Relations
 | Fichier                                                                                 | statut | Relation | avis                                                                                              |
 | --------------------------------------------------------------------------------------- | ------ | -------- | ------------------------------------------------------------------------------------------------- |
+| Candace                             | ✅      | 😥       | \-                                                                                                |
+| Ivan Borukl                     | ✅      | 😊       | Sympas                                                                                            |
+| Mnémosyne (RE)               | \-     | \-       | \-                                                                                                |
+| Rachel Cornelis             | ✅      | 😥       | Brrr…. Fait peur                                                                                  |
+| Fenton Cassidy              | \-     | \-       | \-                                                                                                |
+| Ichida                              | ✅      | 😐       | \-                                                                                                |
+| Raudhr                              | 🗯️    | \-       | Je dois prendre un cours privée avec lui pour le clan, un jour. Pour l'instant, ça devrait aller. |
+| Ruby & Esther                | ✅      | 😊       | Chill & sympa                                                                                     |
 | Echo Hoshino             | ✅      | 😊       | \-                                                                                                |
 | Farraige                     | \-     | \-       | \-                                                                                                |
 | Nix Lumley                 | \-     | \-       | \-                                                                                                |
@@ -52,14 +60,6 @@ category: Lagendia
 | Isaac Bergeron          | ✅      | 😊       | Plutôt cool                                                                                       |
 | Sacha                            | ✅      | 🙂       | \-                                                                                                |
 | Yû Kokatsune              | \-     | \-       | \-                                                                                                |
-| Candace                             | ✅      | 😥       | \-                                                                                                |
-| Ivan Borukl                     | ✅      | 😊       | Sympas                                                                                            |
-| Mnémosyne (RE)               | \-     | \-       | \-                                                                                                |
-| Rachel Cornelis             | ✅      | 😥       | Brrr…. Fait peur                                                                                  |
-| Fenton Cassidy              | \-     | \-       | \-                                                                                                |
-| Ichida                              | ✅      | 😐       | \-                                                                                                |
-| Raudhr                              | 🗯️    | \-       | Je dois prendre un cours privée avec lui pour le clan, un jour. Pour l'instant, ça devrait aller. |
-| Ruby & Esther                | ✅      | 😊       | Chill & sympa                                                                                     |
 
 
 
