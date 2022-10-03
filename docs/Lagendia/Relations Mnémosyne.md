@@ -17,9 +17,9 @@ type: Carnet
 univers: Lagendia
 ---
 
-%% Mnémosyne %%
-%% → Fiche %%
-%% → 10. PROJECT/Lagendia/Mnémosyne/Relations %%
+%% . %%
+%% → (Lagendia) Mnémosyne %%
+%% → Relations %%
 
 
 
@@ -41,8 +41,8 @@ univers: Lagendia
 | Raudhr                              | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
 | Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
 | Echo Hoshino             | \-     | \-       | \-                                                                     |
-| Nix Lumley                 | \-     | \-       | \-                                                                     |
 | Farraige                     | \-     | \-       | \-                                                                     |
+| Nix Lumley                 | \-     | \-       | \-                                                                     |
 | Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
 | Seith                           | \-     | \-       | \-                                                                     |
 | Shinri Meiyo             | \-     | \-       | \-                                                                     |
