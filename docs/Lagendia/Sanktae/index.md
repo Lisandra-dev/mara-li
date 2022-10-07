@@ -11,15 +11,14 @@ type: notes
 
 > [!infobox|left]
 > <u>Auteur : </u> `@Mara#3000`
-> <u>Ouvert à la création : </u> Oui
-> - [ ] Élève
+> <u>Ouvert à la création : </u> 
+> - [x] Élève
 > - [x] Citoyen
 > - [x] Professeur
 > 
 > <u>Condition :</u> 
 > - Ils ne doivent pas y avoir de trop nombreux Sanktae.
 > - Les personnages (hors **déchu**) doivent adopter un comportement particulier vis à vis de Mnémosyne.
-
 - Être dont les pouvoirs apparaît sous **forme de contrôle de la lumière**
 - Possède une **auréole** de couleur différente, forme persistante de l'Hua qui ne peut être ni retiré, déplacé ou caché.
 - Peuvent faire apparaître des **ailes translucides** mais il est impossible de voler avec.
