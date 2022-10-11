@@ -17,8 +17,8 @@ type: Carnet
 univers: Lagendia
 ---
 
-%% . %%
-%% → (Lagendia) Mnémosyne %%
+%% Mnémosyne %%
+%% → Fiche %%
 %% → Relations %%
 
 
@@ -33,7 +33,7 @@ univers: Lagendia
 | Fichier                                                                                 | statut | Relation | avis                                                                   |
 | --------------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
 | Candace                             | ✅      | 🙄       | Oui, alors, non.                                                       |
-| Ivan Borukl                     | ✅      | 😘       | Je le veux dans mon lit                                                |
+| Ivan Borukl                     | ✅      | 😘       | 20/20 would recommend, will retry                                      |
 | Mnémosyne (RE)               | \-     | \-       | \-                                                                     |
 | Rachel Cornelis             | ✅      | 😣       | Pas ma pote, a mal pris sa description de Lueur                        |
 | Fenton Cassidy              | ✅      | 😊       | Plutôt sympa bien que semble stricte                                   |
@@ -42,32 +42,31 @@ univers: Lagendia
 | Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
 | Echo Hoshino             | \-     | \-       | \-                                                                     |
 | Farraige                     | \-     | \-       | \-                                                                     |
-| Nix Lumley                 | \-     | \-       | \-                                                                     |
-| Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
 | Seith                           | \-     | \-       | \-                                                                     |
+| Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
 | Shinri Meiyo             | \-     | \-       | \-                                                                     |
-| Aygül Nephthys         | \-     | \-       | \-                                                                     |
-| Mezhyo Abhy               | \-     | \-       | \-                                                                     |
-| Pom Thabe                   | ✅      | 😐       | Excellente élocution. Déplorable mode de pensée                        |
-| Rithel                         | ✅      | 😐       | \-                                                                     |
-| Tol                               | ✅      | 🥰       | \-                                                                     |
+| Nix Lumley                 | \-     | \-       | \-                                                                     |
 | Belrum                          | \-     | \-       | \-                                                                     |
 | Dolce C.                      | ✅      | 🥰       | Protect this child                                                     |
 | Franck Arnaud            | \-     | \-       | \-                                                                     |
-| Gan                                | \-     | \-       | \-                                                                     |
 | Stydja Eyreya            | \-     | \-       | \-                                                                     |
+| Gan                                | \-     | \-       | \-                                                                     |
 | White                            | \-     | \-       | \-                                                                     |
+| Mezhyo Abhy               | \-     | \-       | \-                                                                     |
+| Aygül Nephthys         | \-     | \-       | \-                                                                     |
+| Tol                               | ✅      | 🥰       | \-                                                                     |
+| Pom Thabe                   | ✅      | 😐       | « Excellente élocution. Déplorable mode de pensée »                    |
+| Rithel                         | ✅      | 😐       | \-                                                                     |
+| Eerhin Corlumett       | \-     | \-       | \-                                                                     |
 | Adrian                           | ✅      | 😐       | \-                                                                     |
 | Autumn O'Quies (RE) | \-     | \-       | \-                                                                     |
-| Eerhin Corlumett       | \-     | \-       | \-                                                                     |
-| Koara                             | ✅      | 😐       | \-                                                                     |
 | Quirell Grandfleuve | \-     | \-       | \-                                                                     |
-| Serkuos Ophis             | \-     | \-       | \-                                                                     |
+| Koara                             | ✅      | 😐       | \-                                                                     |
 | Chaatan                        | \-     | \-       | \-                                                                     |
-| Hazel                            | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
-| Isaac Bergeron          | \-     | \-       | \-                                                                     |
-| Sacha                            | \-     | \-       | \-                                                                     |
 | Yû Kokatsune              | \-     | \-       | \-                                                                     |
+| Isaac Bergeron          | \-     | \-       | \-                                                                     |
+| Hazel                            | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
+| Sacha                            | \-     | \-       | \-                                                                     |
 
 # Achievement
 ```md
