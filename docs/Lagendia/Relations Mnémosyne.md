@@ -32,6 +32,29 @@ univers: Lagendia
 ## PJ
 | Fichier                                                                                 | statut | Relation | avis                                                                   |
 | --------------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
+| Echo Hoshino             | \-     | \-       | \-                                                                     |
+| Farraige                     | \-     | \-       | \-                                                                     |
+| Nix Lumley                 | \-     | \-       | \-                                                                     |
+| Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
+| Shinri Meiyo             | \-     | \-       | \-                                                                     |
+| Aygül Nephthys         | \-     | \-       | \-                                                                     |
+| Mezhyo Abhy               | \-     | \-       | \-                                                                     |
+| Pom Thabe                   | ✅      | 😐       | « Excellente élocution. Déplorable mode de pensée »                    |
+| Tol                               | ✅      | 🥰       | \-                                                                     |
+| Belrum                          | \-     | \-       | \-                                                                     |
+| Dolce C.                      | ✅      | 🥰       | Protect this child                                                     |
+| Franck Arnaud            | \-     | \-       | \-                                                                     |
+| Gan                                | \-     | \-       | \-                                                                     |
+| Stydja Eyreya            | \-     | \-       | \-                                                                     |
+| White                            | \-     | \-       | \-                                                                     |
+| Autumn O'Quies (RE) | \-     | \-       | \-                                                                     |
+| Eerhin Corlumett       | \-     | \-       | \-                                                                     |
+| Koara                             | ✅      | 😐       | \-                                                                     |
+| Chaatan                        | \-     | \-       | \-                                                                     |
+| Hazel                            | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
+| Isaac Bergeron          | \-     | \-       | \-                                                                     |
+| Sacha                            | \-     | \-       | \-                                                                     |
+| Yû Kokatsune              | \-     | \-       | \-                                                                     |
 | Candace                             | ✅      | 🙄       | Oui, alors, non.                                                       |
 | Ivan Borukl                     | ✅      | 😘       | 20/20 would recommend, will retry                                      |
 | Mnémosyne (RE)               | \-     | \-       | \-                                                                     |
@@ -40,33 +63,6 @@ univers: Lagendia
 | Ichida                              | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
 | Raudhr                              | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
 | Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
-| Echo Hoshino             | \-     | \-       | \-                                                                     |
-| Farraige                     | \-     | \-       | \-                                                                     |
-| Seith                           | \-     | \-       | \-                                                                     |
-| Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
-| Shinri Meiyo             | \-     | \-       | \-                                                                     |
-| Nix Lumley                 | \-     | \-       | \-                                                                     |
-| Belrum                          | \-     | \-       | \-                                                                     |
-| Dolce C.                      | ✅      | 🥰       | Protect this child                                                     |
-| Franck Arnaud            | \-     | \-       | \-                                                                     |
-| Stydja Eyreya            | \-     | \-       | \-                                                                     |
-| Gan                                | \-     | \-       | \-                                                                     |
-| White                            | \-     | \-       | \-                                                                     |
-| Mezhyo Abhy               | \-     | \-       | \-                                                                     |
-| Aygül Nephthys         | \-     | \-       | \-                                                                     |
-| Tol                               | ✅      | 🥰       | \-                                                                     |
-| Pom Thabe                   | ✅      | 😐       | « Excellente élocution. Déplorable mode de pensée »                    |
-| Rithel                         | ✅      | 😐       | \-                                                                     |
-| Eerhin Corlumett       | \-     | \-       | \-                                                                     |
-| Adrian                           | ✅      | 😐       | \-                                                                     |
-| Autumn O'Quies (RE) | \-     | \-       | \-                                                                     |
-| Quirell Grandfleuve | \-     | \-       | \-                                                                     |
-| Koara                             | ✅      | 😐       | \-                                                                     |
-| Chaatan                        | \-     | \-       | \-                                                                     |
-| Yû Kokatsune              | \-     | \-       | \-                                                                     |
-| Isaac Bergeron          | \-     | \-       | \-                                                                     |
-| Hazel                            | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
-| Sacha                            | \-     | \-       | \-                                                                     |
 
 # Achievement
 ```md
