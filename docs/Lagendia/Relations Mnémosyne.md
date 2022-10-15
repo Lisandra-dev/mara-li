@@ -30,39 +30,32 @@ univers: Lagendia
 - Alazée
 
 ## PJ
-| Fichier                                                                                 | statut | Relation | avis                                                                   |
-| --------------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
-| Echo Hoshino             | \-     | \-       | \-                                                                     |
-| Farraige                     | \-     | \-       | \-                                                                     |
-| Nix Lumley                 | \-     | \-       | \-                                                                     |
-| Penny                           | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
-| Shinri Meiyo             | \-     | \-       | \-                                                                     |
-| Aygül Nephthys         | \-     | \-       | \-                                                                     |
-| Mezhyo Abhy               | \-     | \-       | \-                                                                     |
-| Pom Thabe                   | ✅      | 😐       | « Excellente élocution. Déplorable mode de pensée »                    |
-| Tol                               | ✅      | 🥰       | \-                                                                     |
-| Belrum                          | \-     | \-       | \-                                                                     |
-| Dolce C.                      | ✅      | 🥰       | Protect this child                                                     |
-| Franck Arnaud            | \-     | \-       | \-                                                                     |
-| Gan                                | \-     | \-       | \-                                                                     |
-| Stydja Eyreya            | \-     | \-       | \-                                                                     |
-| White                            | \-     | \-       | \-                                                                     |
-| Autumn O'Quies (RE) | \-     | \-       | \-                                                                     |
-| Eerhin Corlumett       | \-     | \-       | \-                                                                     |
-| Koara                             | ✅      | 😐       | \-                                                                     |
-| Chaatan                        | \-     | \-       | \-                                                                     |
-| Hazel                            | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
-| Isaac Bergeron          | \-     | \-       | \-                                                                     |
-| Sacha                            | \-     | \-       | \-                                                                     |
-| Yû Kokatsune              | \-     | \-       | \-                                                                     |
-| Candace                             | ✅      | 🙄       | Oui, alors, non.                                                       |
-| Ivan Borukl                     | ✅      | 😘       | 20/20 would recommend, will retry                                      |
-| Mnémosyne (RE)               | \-     | \-       | \-                                                                     |
-| Rachel Cornelis             | ✅      | 😣       | Pas ma pote, a mal pris sa description de Lueur                        |
-| Fenton Cassidy              | ✅      | 😊       | Plutôt sympa bien que semble stricte                                   |
-| Ichida                              | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
-| Raudhr                              | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
-| Ruby & Esther                | ✅      | 🤔       | A l'air funky                                                          |
+| Fichier                                                                           | statut | Relation | avis                                                                   |
+| --------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
+| Echo Hoshino       | \-     | \-       | \-                                                                     |
+| Farraige               | \-     | \-       | \-                                                                     |
+| Nix Lumley           | \-     | \-       | \-                                                                     |
+| Penny                     | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
+| Shinri Meiyo       | \-     | \-       | \-                                                                     |
+| Aygül Nephthys   | \-     | \-       | \-                                                                     |
+| Mezhyo Abhy         | \-     | \-       | \-                                                                     |
+| Tol                         | ✅      | 🥰       | \-                                                                     |
+| Belrum                    | \-     | \-       | \-                                                                     |
+| Dolce C.                | ✅      | 🥰       | Protect this child                                                     |
+| Franck Arnaud      | \-     | \-       | \-                                                                     |
+| Gan                          | \-     | \-       | \-                                                                     |
+| Stydja Eyreya      | \-     | \-       | \-                                                                     |
+| White                      | \-     | \-       | \-                                                                     |
+| Eerhin Corlumett | \-     | \-       | \-                                                                     |
+| Hazel                      | ✅      | 🥰       | <ul><li>\-</li><li>\-</li></ul>                                        |
+| Isaac Bergeron    | \-     | \-       | \-                                                                     |
+| Ivan Borukl               | ✅      | 😘       | 20/20 would recommend, will retry                                      |
+| Mnémosyne (RE)         | \-     | \-       | \-                                                                     |
+| Rachel Cornelis       | ✅      | 😣       | Pas ma pote, a mal pris sa description de Lueur                        |
+| Fenton Cassidy        | ✅      | 😊       | Plutôt sympa bien que semble stricte                                   |
+| Ichida                        | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
+| Raudhr                        | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
+| Ruby & Esther          | ✅      | 🤔       | A l'air funky                                                          |
 
 # Achievement
 ```md
