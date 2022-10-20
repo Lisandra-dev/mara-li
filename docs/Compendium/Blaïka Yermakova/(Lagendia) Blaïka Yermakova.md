@@ -53,7 +53,7 @@ Elle n'est pas du genre à rechigner devant les tâches (enfin, celle qu'elle es
 Avec les personnes qu'elle apprécie, ses alliés et sa famille, elle peut étonnamment se montrer chaude et protectrice. Elle rit bruyamment et aime s'amuser.
 
 ##### __*Aime*__ :
-- La bière et l'alcool en général
+- L'alcool en général
 - La baston
 - La neige
 - Le chocolat
@@ -86,6 +86,8 @@ On notera que ses mains sont abimés par les entraînements et la vie dans les s
 
 Et c'est pire lorsqu'elle se transforme, adoptant une forme de loup-garou de 3m (bien que cela soit plus petit que les loups-garou habituel) et de plus de 500kg. Majoritairement recouverte de poils blanc et bleu, qui se fondent dans la neige, elle garde son poil roux et brun juvénile que l'on retrouve sur son cou et son ventre.
 
+En terme de style vestimentaire, Blaïka porte généralement des tee-shirt et des pantalons larges, avec de nombreuses poches. Elle apprécie porter une longue veste sur ses épaules, bien que sa résistance au froid la rende tout à fait inutile : elle l'utilise comme accessoire de mode.
+
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
@@ -107,6 +109,10 @@ P o u v o i r s<br>
 
 <h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
 Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau + air$) et de se transformer en loup-garou.
+
+> [!info] Hua naturel
+> $$glace = eau + air$$
+
 ##### Points forts
 - Régénération accrue
 - Force brute
