@@ -1,7 +1,7 @@
 ---
 category: Compendium/Blaïka Yermakova
 date: 10-10-2022
-description: Attemp on Blaïka for Lagendia
+description: Loup-garou de glace de 21 ans, née le 31.12.
 image: Blaïka.jpg
 name: (Lagendia) Blaïka Yermakova
 share: true
@@ -71,6 +71,7 @@ Avec les personnes qu'elle apprécie, ses alliés et sa famille, elle peut éton
 <h3 style="text-align:center">──────༺ Physique ༻──────</h3>
 
 > [!infobox|left]
+> ![[../../assets/img/74BC6FE6-9721-47C9-8D9E-B18C2B89D258.png|74BC6FE6-9721-47C9-8D9E-B18C2B89D258.png]]
 > *Taille* : $1.90m$ (humaine) — $\sim3m$ (loup)
 > *Poids* : $80 kg$ (humaine) — $\sim640kg$ (loup)
 > *Yeux* : Bleus
@@ -110,7 +111,7 @@ P o u v o i r s<br>
 <h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
 Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau + air$) et de se transformer en loup-garou.
 
-> [!info] Hua naturel
+> [!info] Hua inné
 > $$glace = eau + air$$
 
 ##### Points forts
@@ -149,12 +150,17 @@ Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau
 > - *Domaine :* Instinct
 > - *Effet :* +5 à ses jets de dés, pendant deux tours.
 
- <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 
+ <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 T r i v i a <br>
 ╚═══━━━─── • ───━━━═══╝</h2>
+
 >[!note] Histoire
 >- Son clan partage le même territoire que celui de [[../../../Ivan Borukl|Ivan Borukl]], et Blaïka a déjà rencontré sa famille.
 
 > [!info]- Battle thème
 > - [Rekindle — Arknights](https://www.youtube.com/watch?v=XHwRNdJXLIM)
+
+> [!question] Source — Mitsuru Kirijo
+> - [Image d'illustration © OrmilleF](https://twitter.com/OrmilleF/status/733066921273372672?s=20&t=Rk9CfUvhwXFMyz45n18lYQ)
+> - <u>Profil Pic :</u> Persona 4 Arena © Arksystem work — Soejima Taneomi
