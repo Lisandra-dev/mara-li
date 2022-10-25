@@ -133,20 +133,21 @@ Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau
 > [!power] ❖ — **Souffle glaciale** *(Actif)* — ❖
 > __*Forme humaine*__ : Blaïka crée deux projectiles de glace qu'elle plante dans son adversaire.
 > __*Forme loup-garou*__ : Elle souffle un brume composée de divers projectile de glace dans son adversaire.
-> - *Bonus* : +5
-> - *Cooldown* : 1x/combat
+> - *Bonus* : +2
+> - *Cooldown* : 3x/jour
 > - *Domaine* : Glace ($Air + Eau$)
 
 > [!power] ❖ — **Griffe de glace** *(Actif)* — ❖
 > __*Forme humaine*__ : Blaïka créée une lance de glace qu'elle peut envoyer dans son adversaire.
 > __*Forme loup-garou*__ : Elle se crée des griffes de glace.
-> - *Bonus* : +5
-> - *Cooldown :* 1x par combat
+> - *Bonus* : +3
+> - *Cooldown :* 2x/jour
 > - *Domaine :* Glace ($Air + Eau$)
 
 > [!buff] ❖ — **Lunagaron** (*Buff*) — ❖
 > Blaïka prend sa forme de loup-garou et en bénéficie de ses bonus.
-> - *Cooldown :* Une fois par jour. Une seconde transformation est possible uniquement si Blaïka subit un trop grand choc émotionnel ou physique. Elle n'aura cependant que très peu de contrôle sur sa seconde transformation.
+> - *Cooldown :* Une fois par semaine. Une seconde transformation est possible uniquement si Blaïka subit un trop grand choc émotionnel ou physique. Elle n'aura cependant que très peu de contrôle sur sa seconde transformation. 
+> $~~~~~$*Les Lunagarons se transforment moins souvent que leur cousin à cause de leur différences génétiques et de l'énergie demandée par la transformation*
 > - *Domaine :* Instinct
 > - *Effet :* +5 à ses jets de dés, pendant deux tours.
 
