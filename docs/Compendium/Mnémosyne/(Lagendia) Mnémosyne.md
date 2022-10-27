@@ -63,9 +63,6 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 - Les insectes
 - Mentir, et les mensonges.
 
-###### Trivia :
-
-![[Trivia]]
 
 ###### Peurs et phobies :
 
@@ -159,11 +156,11 @@ Il posa un tentacule, composé d'ombre, sur le front de l'ange, qui respirait di
 
 La créature sentait la présence d'une tierce personne. Il ne la connaissait pas. Mais elle était destinée à les lier.
 
-Un Sceau d'Aetheromancie. 
+Un Sceau d'Aetheromancie.
 Les liens jusqu'à la mort.
 
-Une façon pour Obsius de se cacher du monde. 
-La créature en était tout à fait satisfaite. 
+Une façon pour Obsius de se cacher du monde.
+La créature en était tout à fait satisfaite.
 
 ### ⟦ Quelque mois plus tard — Hôpital ⟧
 
@@ -209,7 +206,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% [[../../Lagendia/Sanktae/index|Sanktae]] %%
+%% [[../../Univers/Espèces/races/Sanktae|Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -230,7 +227,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 $Domaine\ :\ Ombre$
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement[^2] :
+Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement:[^2]
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
@@ -298,6 +295,22 @@ Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../
 > *Domaine* : Hua
 > *Durée* : 5 rolls
 > *Effet* : Bonus +12 aux dés (uniquement sur Némo)
+
+ <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+
+T r i v i a <br>
+╚═══━━━─── • ───━━━═══╝</h2>
+- Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.
+- Elle pourra faire pareil pour les murs, mais elle verrait surtout tous les insectes et autres présents dessus, et cela serait plus terrifiant que pratique. Donc elle ne le fait pas et utilise donc une canne pour se diriger la plupart du temps.
+- Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[../../../Lueurs|Lueurs]])
+- Elle ne sait pas siffler, et pire, son sifflement est désagréable. 
+
+> [!music]+ Obsius
+> [https://www.youtube.com/watch?v=JpU6ZWPzqN8](https://www.youtube.com/watch?v=JpU6ZWPzqN8 "https://www.youtube.com/watch?v=JpU6ZWPzqN8") [https://www.youtube.com/watch?v=EmGVfjGs1y8](https://www.youtube.com/watch?v=EmGVfjGs1y8 "https://www.youtube.com/watch?v=EmGVfjGs1y8")
+
+> [!music]+ Mnémosyne
+> https://www.youtube.com/watch?v=epz9O3OStZM
+
 
 [^1]: Nom inspiré d'Arknight.
 [^2]: Cette transformation est uniquement énergétique et ne change pas la biologie de Mnémosyne.
