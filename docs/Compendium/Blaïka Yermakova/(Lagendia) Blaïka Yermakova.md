@@ -13,9 +13,12 @@ univers: Lagendia
 
 %% [[./Blaika Yermakova|Blaika Yermakova]] %%
 
- <h2 style="text-align:center"> ╔═══━━━─── • ───━━━═══╗<br> I n t r o d u c t i o n<br> ╚═══━━━─── • ───━━━═══╝</h2>
+ <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+I n t r o d u c t i o n<br>
+╚═══━━━─── • ───━━━═══╝</h2>
 
-![[../../assets/img/Blaïka.jpg|+side]]**Nom & Prénom :** Blaïka Yermakova
+![[../../assets/img/Blaïka.jpg|+side]]
+**Nom & Prénom :** Blaïka Yermakova
 *Alias* : « La rousse »
 
 **Âge :** 20 ans
@@ -27,14 +30,21 @@ univers: Lagendia
 **Parcours** :
 
 
- <h2 style="text-align:center"> ╔═══━━━─── • ───━━━═══╗<br> D e s c r i p t i o n<br> ╚═══━━━─── • ───━━━═══╝</h2> <h3 style="text-align:center"> ──────༺ RACE ༻──────</h3> Blaïka est un loup-garou des steppes glacées du nord. Comme la majorité des loups-garous, elle possède une force accrue et une régénération accélérée, tout en possédant les faiblesses liées à sa race : la transformation à la pleine lune et l'allergie à l'argent.
+ <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+D e s c r i p t i o n<br>
+╚═══━━━─── • ───━━━═══╝</h2>
+<h3 style="text-align:center">──────༺ RACE ༻──────</h3>
+
+Blaïka est un loup-garou des steppes glacées du nord. Comme la majorité des loups-garous, elle possède une force accrue et une régénération accélérée, tout en possédant les faiblesses liées à sa race : la transformation à la pleine lune et l'allergie à l'argent.
 Mais, ce qui distingue le clan Yermakov d'autres loups-garous est leur magie signature : ils sont capables d'utiliser la glace, dans leurs deux formes.
 Sous forme de loups, ils peuvent charger leur fourrure de glace, se créant de magnifiques boucliers. Leur fourrure bleue mirroite dans la neige, ce qui leur permet de se faufiler.
 
 > [!note] À savoir
 > Les juvéniles du clan Yermakov sont roux sous forme de loup, ce qui les rend très visible dans la neige, et donc très fragile. La couleur bleuté, causé par **leur Hua signature** vient peu à peu en grandissant.
 > Actuellement la fourrure de Blaïka est rousse au niveau du cou et du ventre, mais la majorité de sa fourrure visible est bleu.
-<h3 style="text-align:center"> ──────༺ Mental ༻──────</h3> <u> Mots clés :</u> *Colère froide / Vengeance / Combattante / Exigeante*
+<h3 style="text-align:center">──────༺ Mental ༻──────</h3>
+
+<u>Mots clés :</u> *Colère froide / Vengeance / Combattante / Exigeante*
 
 Blaïka est, en apparence, un cœur de glace. Imperturbable et glacée, elle est aussi exigeante envers les autres qu'envers elle-même, et ne supporte pas les insubordinations. Pour elle, chaque hiérarchie doit être respectée, que ce soit au sein de son clan qu'à l'académie. Bien qu'elle calcule tout, Blaïka peut particulièrement se montrer violente contre autrui lorsqu'elle choisit de libérer sa colère. Chaque libération est contrôlée, et calculée, car Blaïka réfléchit énormément. Elle sait qu'elle a encore du chemin à faire pour récupérer son territoire et redorer le blason de son clan, et sa venue à Étria est son point de départ.
 
@@ -58,7 +68,7 @@ Avec les personnes qu'elle apprécie, ses alliés et sa famille, elle peut éton
 - La nourriture trop sucrée
 - Qu'on lui touche la queue.
 
-<h3 style="text-align:center"> ──────༺ Physique ༻──────</h3> 
+<h3 style="text-align:center">──────༺ Physique ༻──────</h3>
 
 > [!infobox|left]
 > ![[../../assets/img/74BC6FE6-9721-47C9-8D9E-B18C2B89D258.png|74BC6FE6-9721-47C9-8D9E-B18C2B89D258.png]]
@@ -79,7 +89,10 @@ Et c'est pire lorsqu'elle se transforme, adoptant une forme de loup-garou de 3m 
 
 En terme de style vestimentaire, Blaïka porte généralement des tee-shirt et des pantalons larges, avec de nombreuses poches. Elle apprécie porter une longue veste sur ses épaules, bien que sa résistance au froid la rende tout à fait inutile : elle l'utilise comme accessoire de mode.
 
-<h2 style="text-align:center"> ╔═══━━━─── • ───━━━═══╗<br> H i s t o i r e<br> ╚═══━━━─── • ───━━━═══╝</h2> Le clan de Blaïka vivait au milieu de la tundra glacée du nord. Solitaires, le clan s'organisait autour d'une famille principale, dont elle était l'ainée. Ensuite, d'autres familles de loups venaient se greffer. Le clan comptait donc une vingtaine d'âmes, de diverses familles. À l'origine, le clan Yermakova dirigeait le tout, car plus étant le plus ancien, mais au fur et à mesure, le clan adopta un point de vue plus démocratique. Évidemment, seul les anciens avaient leur mot à dire.
+<h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+H i s t o i r e<br>
+╚═══━━━─── • ───━━━═══╝</h2>
+Le clan de Blaïka vivait au milieu de la tundra glacée du nord. Solitaires, le clan s'organisait autour d'une famille principale, dont elle était l'ainée. Ensuite, d'autres familles de loups venaient se greffer. Le clan comptait donc une vingtaine d'âmes, de diverses familles. À l'origine, le clan Yermakova dirigeait le tout, car plus étant le plus ancien, mais au fur et à mesure, le clan adopta un point de vue plus démocratique. Évidemment, seul les anciens avaient leur mot à dire.
 
 Les plus jeunes, traditionnellement, devait quitter la meute quelque mois à leur vingt ans (leur "maturité"), afin de prouver être capable de survivre et de maintenir le clan dans la toundra. Évidemment, la vie dans les terres sauvages est dangereuse, et ils partent à la fois préparé mais aussi avec diverses aides dans un sentier balisés.
 
@@ -93,8 +106,11 @@ La meute devenant le vassale d'un autre, Blaïka prend la difficile décision de
 > [!notes] Les Yermakov
 > ![[Yermakov]]
 
-<h2 style="text-align:center"> ╔═══━━━─── • ───━━━═══╗<br> P o u v o i r s<br> ╚═══━━━─── • ───━━━═══╝</h2> <h3 style="text-align:center"> ──────༺ Attributs généraux༻──────</h3> 
+<h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+P o u v o i r s<br>
+╚═══━━━─── • ───━━━═══╝</h2>
 
+<h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
 Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau + air$) et de se transformer en loup-garou.
 
 > [!info] Hua inné
@@ -110,7 +126,9 @@ Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau
 - En tant que jeune adulte, elle n'a pas encore une maîtrise parfaite de son hua lorsque transformée.
 - Faiblesse face à l'argent
 - Transformation forcée à la pleine lune
- <h3 style="text-align:center"> ──────༺ Capacités ༻──────</h3> > [!passif|s-t] ❖ — **Coeur de glace** *(Passif)* — ❖
+ <h3 style="text-align:center">──────༺ Capacités ༻──────</h3>
+
+> [!passif|s-t] ❖ — **Coeur de glace** *(Passif)* — ❖
 > Blaïka résiste naturellement au froid et aux engelures. Elle peut donc rester plusieurs heures sans protection dans des températures négatives, et son pouvoir ne lui provoque aucune blessure.
 > *__Limitation__* : Blaïka a une grande sensibilité à la **chaleur** et au **feu**.
 
@@ -130,20 +148,22 @@ Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau
 
 > [!buff] ❖ — **Lunagaron** (*Buff*) — ❖
 > Blaïka prend sa forme de loup-garou et en bénéficie de ses bonus.
-> - *Cooldown :* Une fois par semaine. Une seconde transformation est possible uniquement si Blaïka subit un trop grand choc émotionnel ou physique. Elle n'aura cependant que très peu de contrôle sur sa seconde transformation. 
+> - *Cooldown :* Une fois par semaine. Une seconde transformation est possible uniquement si Blaïka subit un trop grand choc émotionnel ou physique. Elle n'aura cependant que très peu de contrôle sur sa seconde transformation.
 > $~~~~~$*Les Lunagarons se transforment moins souvent que leur cousin à cause de leur différences génétiques et de l'énergie demandée par la transformation*
 > - *Domaine :* Instinct
 > - *Effet :* +5 à ses jets de dés, pendant deux tours.
 
 
-<h2 style="text-align:center"> ╔═══━━━─── • ───━━━═══╗<br> T r i v i a <br> ╚═══━━━─── • ───━━━═══╝</h2> 
- 
+ <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
+T r i v i a <br>
+╚═══━━━─── • ───━━━═══╝</h2>
+
 > [!note] Histoire
-> - Son clan partage le même territoire que celui de [[Ivan Borukl]], et Blaïka a déjà rencontré sa famille.
+> - Son clan partage le même territoire que celui de [[../../../Ivan Borukl|Ivan Borukl]], et Blaïka a déjà rencontré sa famille.
 
 > [!info]- Battle thème
 > - [Rekindle — Arknights](https://www.youtube.com/watch?v=XHwRNdJXLIM)
 
 > [!question] Source — Mitsuru Kirijo
 > - [Image d'illustration © OrmilleF](https://twitter.com/OrmilleF/status/733066921273372672?s=20&t=Rk9CfUvhwXFMyz45n18lYQ)
-> - <u> Profil Pic :</u> Persona 4 Arena © Arksystem work — Soejima Taneomi
+> - <u>Profil Pic :</u> Persona 4 Arena © Arksystem work — Soejima Taneomi
