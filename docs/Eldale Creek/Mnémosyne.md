@@ -16,7 +16,7 @@ univers: "Eldale Creek"
 **Height** : 5.90 feet
 **Weight** : 132.27 lb
 **Eye color** : White
-**Specie** : [[../../Sanktae_eldale|Sanktae]]
+**Specie** : [[./Sanktae_eldale|Sanktae]]
 
 **Birth country** : Éminenthis (France)
 **Date of Birth :** 06/15/1952[^1]
@@ -300,7 +300,7 @@ Issue de sa fusion avec un être informe, Obsius est le domaine sombre de Mnémo
 - Elle ne sait pas siffler, et pire, son sifflement est désagréable. 
 
 ---
-![[../../Sanktae_eldale|Sanktae]]
+![[./Sanktae_eldale|Sanktae]]
 
 
 [^1]: Fausse information, date réelle inconnue de fait de son amnésie.
