@@ -15,12 +15,12 @@ tags:
   - Mnémosyne
 ---
 
-%% [[./index|Mnémosyne]] / [[../../../Lagendia|Lagendia]] / [[(Lagendia) Mnémosyne|Fiche]] %%
+%% [[Mnémosyne|Mnémosyne]] / [[Lagendia|Lagendia]] / [[Fiche|Fiche]] %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
 
-![[../../assets/img/Némo_lillyth.jpg|+side]]**Nom & Prénom :** Mnémosyne
+![[+side|+side]]**Nom & Prénom :** Mnémosyne
 *Alias* : Némo
 
 **Âge :** Entre 28 et 30 ans
@@ -69,7 +69,7 @@ Son seul moyen de mentir est de mentir par omission, ce qu'elle n'hésite pas à
 Pour une raison obscure, Mnémosyne est terrifiée par les insectes. En dehors de ça, rien ne semble réellement l'effrayer.
 <h2 style="text-align:center">──────༺ Physique ༻──────</h2>
 
-![[../../assets/img/Mnémosyne Fullbody.jpeg|+side]]
+![[+side|+side]]
 
 *Taille* : 1,80 m
 *Poids* : 60 kg
@@ -85,12 +85,12 @@ Elle a une démarche plutôt droite, malgré le fait qu'elle s'aide tout le temp
 
 Son visage est assez ovale, avec un petit nez et des yeux très légèrement tombants, entièrement blanc — puisqu'il se trouve qu'elle est aveugle. Elle a des lèvres fines et une bouche bien dessinée. Enfin, elle possède de petites tâches de rousseurs sur l'ensemble du visage, mais surtout sur son nez et joues.
 Notons : elle ne porte pas de lunettes de soleil, puisque cela la gêne fortement pour utiliser ses pouvoirs.
-![[../../assets/img/Nemo by Mogeckko.jpeg|+rside]]
+![[+rside|+rside]]
 
 **Style vestimentaire** : Elle a un style plutôt décontracté, presque sportif. Elle apprécie les bottines, les longs manteaux en cuir souples, les pulls, mais aussi les pantalons cargo ou les jupes souples. Cela dit, puisqu'elle est aveugle, elle ne fait pas vraiment attention à son apparence.
 Généralement, les couleurs qu'elle portera seront plutôt neutre, type marron, beige, voire bordeaux.
 
-→ [[./Illustration_Némo|Illustration]] #left
+→ [[Illustration|Illustration]] #left
 
 <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 H i s t o i r e<br>
@@ -227,7 +227,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 $Domaine\ :\ Ombre$
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement:[^2]
+Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement:[^2]
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
@@ -301,7 +301,7 @@ Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../
 # Trivia
 - Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.
 - Elle pourra faire pareil pour les murs, mais elle verrait surtout tous les insectes et autres présents dessus, et cela serait plus terrifiant que pratique. Donc elle ne le fait pas et utilise donc une canne pour se diriger la plupart du temps.
-- Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[../../../Lueurs|Lueurs]])
+- Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[Lueurs|Lueurs]])
 - Elle ne sait pas siffler, et pire, son sifflement est désagréable. 
 
 > [!music]+ Obsius
