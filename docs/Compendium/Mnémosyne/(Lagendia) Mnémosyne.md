@@ -206,7 +206,7 @@ P o u v o i r s<br>
 <h2 style="text-align:center">──────༺ Attributs généraux ༻──────</h2>
 
 ### ◌ Les Sanktae ◌
-%% [[../../Univers/Espèces/races/Sanktae|Sanktae]] %%
+%% [[../../Univers/Espèces/races/Sanktae|10. PROJECT/Lagendia/Mnémosyne/Sanktae]] %%
 
 Les Sanktae sont des êtres dont l'Hua apparaît sous **forme de contrôle de la lumière**, et ils possèdent **tous** une auréole de couleur différente au dessus de la tête. Cette auréole est une forme persistante et permanente de leur hua, et ne peut ni être retiré, déplacer, ou cachée. Il leur est donc impossible de retirer cet halo.
 
@@ -236,7 +236,7 @@ Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../
 ### ◌ Inconvénients ◌
 
 - Les Sanktae (et par extension, Némo) ne peuvent faire venir de la lumière de nulle part. Dans le cas d'un noir complet, il leur est quasiment impossible de faire appel à leur pouvoir, et leur auréole sera leur seule source de lumière. Cependant, il n'est pas réellement possible pour eux d'utiliser leur auréole comme source de lumière. Ceux qui ont tenté en sont morts.
-- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[#Trivia :|trivia]])*
+- Némo est aveugle : Cependant, elle distingue les êtres vivants ou simplement animés. Pour le reste, elle utilise une cane *(cf [[#Trivia]])*
 	De plus, elle a tendance à se cogner partout.
 - Son pouvoir aveugle allié et ennemi.
 - Elle ne peut récupérer, d'aucune manière, la vue.
@@ -296,10 +296,9 @@ Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../
 > *Durée* : 5 rolls
 > *Effet* : Bonus +12 aux dés (uniquement sur Némo)
 
- <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 
-T r i v i a <br>
-╚═══━━━─── • ───━━━═══╝</h2>
+---
+# Trivia
 - Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.
 - Elle pourra faire pareil pour les murs, mais elle verrait surtout tous les insectes et autres présents dessus, et cela serait plus terrifiant que pratique. Donc elle ne le fait pas et utilise donc une canne pour se diriger la plupart du temps.
 - Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[../../../Lueurs|Lueurs]])
