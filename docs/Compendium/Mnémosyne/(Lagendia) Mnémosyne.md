@@ -15,7 +15,7 @@ tags:
   - Mnémosyne
 ---
 
-%% [[./index|Mnémosyne]] / [[../../../Lagendia|Lagendia]] / [[(Lagendia) Mnémosyne|Fiche]] %%
+%% [[./index|Mnémosyne]] / [[Lagendia|Lagendia]] / [[(Lagendia) Mnémosyne|Fiche]] %%
  <h1 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h1>
@@ -301,7 +301,7 @@ Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../
 # Trivia
 - Elle est capable de lire, mais cela lui demande beaucoup d'énergie. Pour se faire, elle envoie une légère dose de lumière, qui rebondit de manière différente sur l'encre et le papier.
 - Elle pourra faire pareil pour les murs, mais elle verrait surtout tous les insectes et autres présents dessus, et cela serait plus terrifiant que pratique. Donc elle ne le fait pas et utilise donc une canne pour se diriger la plupart du temps.
-- Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[../../../Lueurs|Lueurs]])
+- Elle perçoit les personnes sous forme de "couleurs" (puisqu'elle voit sous forme de lumière) et n'hésitera pas à appeler les gens selon leur couleur, notamment pour se moquer gentiment. (cf [[Lueurs|Lueurs]])
 - Elle ne sait pas siffler, et pire, son sifflement est désagréable. 
 
 > [!music]+ Obsius
