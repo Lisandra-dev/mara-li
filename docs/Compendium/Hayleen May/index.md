@@ -12,10 +12,9 @@ tags:
   - inité
 ---
 
-![[./Illustration|Illustration]]
-
+![[./Illustration|Archives/20. Compendium/22. Personnages/Hayleen May/Illustration]]
 > [!note] Identité
-> ![[assets/img/Hayleen_portrait.png|+side]]
+> ![[../../assets/img/Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
 > *Alias :* Grimalkin
 > **Genre :** F.
@@ -24,7 +23,7 @@ tags:
 > **Race :** Sorcière démone
 
 > [!info] Pouvoir
-> Hayleen est une sorcière démone : elle est capable d’[[Invocation d'armes|invoquer]], via des incantations, plusieurs objets différents, qu’elle peut [[Sortilège|ensuite enchanter et renforcer]].
+> Hayleen est une sorcière démone : elle est capable d’[[../../../Invocation d'armes|invoquer]], via des incantations, plusieurs objets différents, qu’elle peut [[../../../Sortilège|ensuite enchanter et renforcer]].
 > Son corps est naturellement plus agile, rapide, et solide qu’une personne “lambda”, notamment via l’utilisation de “circuit magique”, tatouages légèrement transparents qui parcourent l’ensemble de son corps, et qui deviennent rouges lorsqu’elle déploie sa magie.
 > En outre, en plus de pouvoir invoquer des objets, elle peut incanter pour renforcer des objets non-invoqués, mais aussi ses alliés et ami, ainsi qu’elle-même.
 >
@@ -109,10 +108,10 @@ tags:
 > - Un autre Katana, plus simple (car elle se bat à l’arme double), à la lame rouge.
 
 > [!tldr] Relations
-> - [[Salem|Salem]] : Père adoptif
-> - [[Alazée|Alazée]]
-> - [[./Mnémosyne|Mnémosyne]]
+> - [[../../../Salem|Salem]] : Père adoptif
+> - [[../../../Alazée|Alazée]]
+> - [[../Mnémosyne/index|Mnémosyne]]
 > - **Vrai père** : Un descendant de Gilgamesh — Babylone
 > - **Mère** : ???
-> - [[Echo|Écho]] : initié
+> - [[../../../Echo|Écho]] : #inité
 
