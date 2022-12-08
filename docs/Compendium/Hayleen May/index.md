@@ -12,7 +12,7 @@ tags:
   - inité
 ---
 
-![[./Illustration|Illustration]]
+![[./Illustration|Archives/20. Compendium/22. Personnages/Hayleen May/Illustration]]
 > [!note] Identité
 > ![[Hayleen_portrait|+side]]
 > **Prénom et nom :** Hayleen May
