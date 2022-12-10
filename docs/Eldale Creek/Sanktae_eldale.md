@@ -1,20 +1,19 @@
 ---
 category: "Eldale Creek"
 date: 14-11-2022
-description: 
+description: "Les Sanktae sont des êtres dont les pouvoirs apparaît sous forme de contrôle de la lumière, et vivant en théocratie à Eminenthis, une cité indépendante des Alpes françaises."
 display: Sanktae
 share: true
 type: Notes
 ---
 
 # Race
-> [!infobox]
+> [!infobox|left]
 > <u>Auteur : </u> `@Mara#3000`
 > <u>Ouvert à la création</u> : ✅
 > <u>Condition :</u>
 > - Ils ne doivent pas y avoir de trop nombreux Sanktae.
 > - Les personnages (hors **déchu**) doivent adopter un comportement particulier vis à vis de Mnémosyne.
-
 ## Généralité
 
 - Être dont les pouvoirs apparaît sous **forme de contrôle de la lumière**.
