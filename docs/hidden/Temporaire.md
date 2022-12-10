@@ -3,4 +3,4 @@ share: true
 ---
 
 > [!GRID]
-> ![[Portrait_Gabi_Hayleen|Portrait_Gabi_Hayleen.jpeg]]
+> ![[../assets/img/Portrait_Gabi_Hayleen.jpeg|Portrait_Gabi_Hayleen.jpeg]]
