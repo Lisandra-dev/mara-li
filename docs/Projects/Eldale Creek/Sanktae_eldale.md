@@ -5,6 +5,7 @@ description: "Les Sanktae sont des êtres dont les pouvoirs apparaît sous forme
 display: Sanktae
 share: true
 type: Notes
+title: Sanktae
 ---
 
 # Race
