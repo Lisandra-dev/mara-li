@@ -7,14 +7,14 @@ description: Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur
   exarcébée.
 display: Fiche
 image: comms2.png
+name: Autumn_O_Quies
 share: true
 tags:
   - RP_Lagendia
   - Autumn
+title: Autumn O'Quies
 type: Fiche
 univers: Lagendia
-name: Autumn_O_Quies
-title: Autumn O'Quies
 ---
 
 
@@ -77,7 +77,7 @@ Néanmoins Autumn est extrêmement curieuse et sensible à l’Histoire, et elle
 - S’endort régulièrement en cours
 - Peine à s’endormir le soir et aura tendance à ignorer le couvre-feu.
 - Compétitive et essaiera d’être la première élève.
-- Intriguée par l’[[../../Echo|Écho]]
+- Intriguée par l’[[Echo|Echo]]
 
 ##### __*Peurs & phobies*__
 Il lui arrive souvent de faire des cauchemars où elle perd toutes ses plumes.
