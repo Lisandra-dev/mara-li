@@ -1,5 +1,5 @@
 ---
-category: "Eldale Creek"
+category: "Projects/Eldale Creek"
 description: "Affiche toutes les relations/liens de LIEUX-FAMILLE-TRAVAIL entre les personnages d'Eldale Creek, ainsi que certaines relations de Mnémosyne" 
 display: "[BOARD]"
 hide:
@@ -9,5 +9,5 @@ name: Eldale_Creek_Board_Lieux
 share: true
 title: "ELDALE CREEK — BOARD"
 ---
-%% [[../assets/img/Eldale Creek.canvas|Eldale Creek.canvas]] %%
-![[../assets/img/Eldale Creek.png|+zoom]]
+%% [[../../assets/img/Eldale Creek.canvas|Eldale Creek.canvas]] %%
+![[../../assets/img/Eldale Creek.png|+zoom]]
