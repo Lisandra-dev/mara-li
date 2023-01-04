@@ -12,9 +12,9 @@ C’est un des hauts lieux des Guerres Démoniaques et un des bastions du Vatica
 
 Enfin, elle est très attirante pour ses plages de sables blancs (et non polluées), ses ruines de tous âges, ses grottes et elle possède l’Institut Abigael.
 
-# Le vatican
+# Le Vatican
 
-(cf. [[Groupes#Le vatican]])
+(cf. [[Groupes#Le vatican|Vatican]])
 
 Situé à Rome, comme tout le monde le sait, c’est devenu une cité état à part Entière ses dernières années, où une Armée mondiale peut intervenir partout dans le monde lorsque les Démons ou les Anges décident de se déchaîner. 
 
