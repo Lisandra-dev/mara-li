@@ -1,10 +1,10 @@
 ---
-share: true
+category: Projects/Lagendia
 date: 03-09-2022
 description: "Parce que je parle souvent du lore des Liberi, et j'oublie souvent ce que je dis."
-type: notes
-category: Projects/Lagendia
+share: true
 title: Liberi
+type: notes
 ---
 
 %% [[10. PROJECT/Lagendia/Autumn/Fiche|Autumn O'Quies]]/[[Liberi|Liberi]] %%
