@@ -202,19 +202,20 @@ Mnémosyne se décida de travailler avec (ou plutôt "pour") eux.
 ## Attributs
 > [!infobox|right]
 > ### STATISTIQUES
-> | | |
-> | ------------ | --- |
-> | Force        | 11  |
-> | Endurance    | 5  |
-> | Agilité      | 13  |
-> | Constitution | 5   |
-> | Éducation    | 12  |
-> | Intelligence | 11  |
-> | Charisme     | 11  |
-> | Pouvoir      | 20  |
-> | Points de vie | 24|
-> |Dégâts main nu| 1D3|
-> | Instinct | |
+>
+>| Statistique               | Valeur |
+> | ------------------------- | ------ |
+> | Force                     | 8      |
+> | Endurance                 | 8      |
+> | Agilité                   | 13     |
+> | Constitution              | 5      |
+> | Éducation                 | 12     |
+> | Intelligence              | 11     |
+> | Charisme                  | 11     |
+> | Pouvoir                   | 20     |
+> | Point de vie              | 24     |
+> | Corps à corps             | 2D5 |
+> | Dégâts — Lance de Lumière | 2D8 |
 ### 1. Pouvoirs Sanktae
 Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et elle peut être capable de condenser la lumière en rayon et laser, se déplacer d'un point à un autre, ou encore se créer un double.
 
