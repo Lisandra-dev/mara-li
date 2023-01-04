@@ -1,7 +1,7 @@
 ---
 alias:
   - Mnémosyne
-category: Lagendia
+category: Projects/Lagendia
 dataview: true
 display: Mnémosyne
 embed:
@@ -30,37 +30,38 @@ univers: Lagendia
 - Alazée
 
 ## PJ
-| Fichier                                                                         | statut | Relation | avis                                                                   |
-| ------------------------------------------------------------------------------- | ------ | -------- | ---------------------------------------------------------------------- |
-| Avalon Osoro      | \-     | \-       | \-                                                                     |
-| Gan                        | \-     | \-       | \-                                                                     |
-| Stydja Eyreya    | \-     | \-       | \-                                                                     |
-| White                    | \-     | \-       | \-                                                                     |
-| Franck Arnaud    | ✅      | 😐       | \-                                                                     |
-| Hazel                    | ✅      | 🥰       | \-                                                                     |
-| Lony Pegmin        | \-     | \-       | \-                                                                     |
-| Isaac Bergeron  | \-     | \-       | \-                                                                     |
-| Laeroth Merlin  | \-     | \-       | \-                                                                     |
-| Tol                       | ✅      | 🥰       | \-                                                                     |
-| Kashi Maadsen   | ✅      | 🙂       | « Son chat a le même nom que Salem MDRRR »                             |
-| Mezhyo Abhy       | \-     | \-       | \-                                                                     |
-| Isil Amastacia | \-     | \-       | \-                                                                     |
-| Aygül Nephthys | \-     | \-       | \-                                                                     |
-| Farraige             | ✅      | 🙂       | \-                                                                     |
-| Alenski Pietro | \-     | \-       | \-                                                                     |
-| Nix Lumley         | \-     | \-       | \-                                                                     |
-| Penny                   | ✅      | 😐       | M'appelle par mon nom complet, et j'aime pas ça                        |
-| Shinri Meiyo     | \-     | \-       | \-                                                                     |
-| Kortals Avana     | ✅      | 🙂       | « Mon futur apprenti »                                                 |
-| Blaïka (RE)         | \-     | \-       | \-                                                                     |
-| Damas Aberforth | \-     | \-       | \-                                                                     |
-| Mnémosyne (RE)       | \-     | \-       | \-                                                                     |
-| Ivan Borukl             | ✅      | 😘       | 20/20 would recommend, will retry                                      |
-| David Stevensen           | \-     | \-       | \-                                                                     |
-| Ichida                      | ✅      | 😕       | Je ne l'aimais pas, je ne l'aime pas, et je ne l'aimerai pas.          |
-| Gaea Cleric            | \-     | \-       | \-                                                                     |
-| Raudhr                      | ✅      | 😥       | Me génère de l'anxiété sans que je sache pourquoi ; Mais BG quand même |
-| Ruby & Esther        | ✅      | 🤔       | A l'air funky                                                          |
+| Fichier                                                                         | statut | Relation | avis |
+| ------------------------------------------------------------------------------- | ------ | -------- | ---- |
+| David Stevensen           | \-     | \-       | \-   |
+| Ivan Borukl             | \-     | \-       | \-   |
+| Mnémosyne (RE)       | \-     | \-       | \-   |
+| Gaea Cleric            | \-     | \-       | \-   |
+| Raudhr                      | \-     | \-       | \-   |
+| Ruby & Esther        | \-     | \-       | \-   |
+| Alenski Pietro | \-     | \-       | \-   |
+| Farraige             | \-     | \-       | \-   |
+| Maël Fëon           | \-     | \-       | \-   |
+| Penny                   | \-     | \-       | \-   |
+| Nix Lumley         | \-     | \-       | \-   |
+| Shinri Meiyo     | \-     | \-       | \-   |
+| Aygül Nephthys | \-     | \-       | \-   |
+| Kashi Maadsen   | \-     | \-       | \-   |
+| Isil Amastacia | \-     | \-       | \-   |
+| Mezhyo Abhy       | \-     | \-       | \-   |
+| Rufus                   | \-     | \-       | \-   |
+| Tol                       | \-     | \-       | \-   |
+| Blaïka (RE)         | \-     | \-       | \-   |
+| Damas Aberforth | \-     | \-       | \-   |
+| Kortals Avana     | \-     | \-       | \-   |
+| Avalon Osoro      | \-     | \-       | \-   |
+| Franck Arnaud    | \-     | \-       | \-   |
+| Stydja Eyreya    | \-     | \-       | \-   |
+| Gan                        | \-     | \-       | \-   |
+| White                    | \-     | \-       | \-   |
+| Hazel                    | \-     | \-       | \-   |
+| Isaac Bergeron  | \-     | \-       | \-   |
+| Lony Pegmin        | \-     | \-       | \-   |
+| Laeroth Merlin  | \-     | \-       | \-   |
 
 # Achievement
 ```md
