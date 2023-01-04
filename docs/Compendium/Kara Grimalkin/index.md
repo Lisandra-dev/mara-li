@@ -1,21 +1,29 @@
 ---
-title: Kara Grimalkin
+name: Kara Grimalkin
 category: Compendium/Kara Grimalkin
 cover: https://www.mara-li.fr/assets/img/Kara__BB.png
 image: Kara__BB.png
 date: 11-03-2022
-description: "Fiche de Kara Grimalkin"
+description: Fiche de Kara Grimalkin
 share: true
 type: OC
 univers: FFXIV
+tags:
+  - FFXIV
+  - Gardemald
+  - Faucheur
+  - Écho
 ---
 
 
+
 >[!grid]
-> ![[../../assets/img/Kara_portrait.png]]
-> ![[../../assets/img/Kara_te_juge.png]]
-> ![[../../assets/img/Kara_Kimono.png]]
-> ![[../../assets/img/Kara_chill.jpg]]
+> ![[../../assets/img/Kara_portrait.png|Kara_portrait]]
+> ![[../../assets/img/Kara_te_juge.png|Kara_te_juge.png]]
+> ![[../../assets/img/Kara_Kimono.png|Kara_Kimono.png]]
+> ![[../../assets/img/Kara_chill.jpg|Kara_chill.jpg]]
+> 
+> ![[../../assets/img/Kara Grimalkin-29-08-2022.png|Kara Grimalkin-29-08-2022.png]]
 
 #FFXIV #Gardemald
 # ─────༺ Présentation ༻─────
@@ -31,7 +39,7 @@ univers: FFXIV
 **Orientation sexuelle** : Bi
 
 *Race* : Hyuroise
-*Origine* : [[Gardemald]] (Colonie)
+*Origine* : [[Gardemald|Gardemald]] (Colonie)
 # ──────༺ Capacités ༻──────
 **Classe** : #Faucheur
 **Attributs** :
@@ -75,7 +83,7 @@ univers: FFXIV
 
 %% Temps : 0 → Année de la chute de Gardemald. Date à check quand je peux %%
 
-- -30 : Née à [[Gardemald]], mais n'est pas une "pure-sang" gardemaldaise : sa famille, de carrière militaire, est issue d'une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l'armée et son totalement intégré à la vie du pays.
+- -30 : Née à [[Gardemald|Gardemald]], mais n'est pas une "pure-sang" gardemaldaise : sa famille, de carrière militaire, est issue d'une des plus anciennes colonies. Ils ont obtenu leur citoyenneté par l'armée et son totalement intégré à la vie du pays.
 - -18 : Suis les traces de ses parents et rentre dans la meilleure académie militaire du pays, à l'âge de 12 ans.
 
 
