@@ -1,7 +1,6 @@
 ---
 share: true
 category: "Scriptorium/Chronique de l'Impérium"
-title: "Chronique de l'Impérium"
 ---
 
 De 1800 à 1932, l'Empire du Japon, dirigée par l'Impératrice Masayori Noriyasu, contrôle environ toute l'Asie et l’Océanie. Seuls pays utilisant les actifs comme arme de guerre totale, ils massacrent les populations autochtones et les guerres sont nombreuses. Les normaux sont considérés comme du bétail pendant que les actifs sont élevés dans l'armée. Raciste et dure, les pays occidentaux maintiennent le statu Quo tout en créant de multiples embargos (Embargo américain de 1870 à 1943, faisant que les japonais sont obligés d'utiliser le dangereux hydrogène pour utiliser leurs dirigeables, véritables armes de guerres).
@@ -47,4 +46,4 @@ En 1949, grâce à l'aide des Arcanistes et d'une des chef de l'unité 731, le p
 - 30 Avril 1946 : Allocution de Masayori Noriyasu à la télévision.
 - 30 Avril 1949 : Inauguration de l'Arcadia le jour de l'anniversaire de l'allocution de l'Impératrice. 
 - 1950 : Début du Roleplay.
-![[../../assets/img/CDI_Map.png]]
+![[../../assets/img/CDI_Map.png|CDI_Map.png]]
