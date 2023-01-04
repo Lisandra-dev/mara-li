@@ -9,4 +9,4 @@ Je regarde principalement des documentaires pour passer le temps. Voici une list
 Tous les documentaires sont disponibles sur Youtube !
 
 # Arte
-[La crise des opioïdes aux USA](https://www.youtube.com/watch?v=MP1HpiwtU1Y) ^id
+[La crise des opioïdes aux USA](https://www.youtube.com/watch?v=MP1HpiwtU1Y)
