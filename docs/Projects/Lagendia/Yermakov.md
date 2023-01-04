@@ -1,12 +1,12 @@
 ---
-category: "Lagendia"
+category: "Projects/Lagendia"
 date: 29-10-2022
 description: Info sur le clan des Yermakov
 share: true
 type: Notes
 ---
 
-%% → [[../Compendium/Blaïka Yermakova/(Lagendia) Blaïka Yermakova|Blaïka Yermakova]] %%
+%% → [[../../Compendium/Blaïka Yermakova/(Lagendia) Blaïka Yermakova|(Lagendia) Blaïka Yermakova]] %%
 
 - **Économie** : Les Yermakov ont des échanges avec d'autres meutes et communautés. Puisqu'ils ne fabriquent rien, ils offrent leur service pour la chasse, mais aussi la protection au sein des terres sauvages.
 - **Nomades** : Les Yermakov sont plus ou moins nomades et se déplacent au fur et à mesures de saisons, créant des petits villages qu'ils habitent à intervalles réguliers.
