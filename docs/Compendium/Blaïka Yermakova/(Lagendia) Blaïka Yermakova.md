@@ -104,13 +104,14 @@ C'est au cours d'un accrochage avec une meute rivale que Blaïka manque de perdr
 La meute devenant le vassale d'un autre, Blaïka prend la difficile décision de s'exiler et rejoindre la Capitale. Sa meute vend d'ailleurs une bonne partie de ce qu'ils possédaient pour qu'elle puisse entrer dans la meilleure académie du pays, avec en tête un seul objectif : **récupérer la gloire perdue de son clan**.
 
 > [!notes] Les Yermakov
-> ![[../../Lagendia/Yermakov|Yermakov]]
+> ![[../../Projects/Lagendia/Yermakov|Yermakov]]
 
 <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 P o u v o i r s<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
 <h3 style="text-align:center">──────༺ Attributs généraux༻──────</h3>
+
 Blaïka est une louve du clan Yermakov, capable de contrôler la **glace** ($eau + air$) et de se transformer en loup-garou.
 
 > [!info] Hua inné
@@ -159,7 +160,7 @@ T r i v i a <br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
 > [!note] Histoire
-> - Son clan partage le même territoire que celui de [[../../../Ivan Borukl|Ivan Borukl]], et Blaïka a déjà rencontré sa famille.
+> - Son clan partage le même territoire que celui de [[Ivan Borukl|Ivan Borukl]], et Blaïka a déjà rencontré sa famille.
 
 > [!info]- Battle thème
 > - [Rekindle — Arknights](https://www.youtube.com/watch?v=XHwRNdJXLIM)
