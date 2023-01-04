@@ -37,7 +37,7 @@ $~$
 
 # ──────༺ Physique ༻──────
 
-→ [[20. REFERENCES/22. Personnages/Ashling May/Illustration|Références]]
+→ [[./Illustration_Ashling|Références]]
 
 **Yeux** : Bleus
 **Cheveux** : Roux, longs, souvent attachés en chignons
@@ -126,10 +126,10 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 # Pouvoirs
 %% [[Invocation d'armes|Invocation d'armes]], [[Sortilège|Sortilège]] %%
 
-![[20. REFERENCES/22. Personnages/Ashling May/Pouvoirs#Technopathe]]
+![[./Pouvoirs_Ashling#Technopathe|Archives/20. Compendium/22. Personnages/Ashling May/Pouvoirs > Technopathe]]
 
 ---
-![[20. REFERENCES/22. Personnages/Ashling May/Illustration]]
+![[./Illustration_Ashling|Références]]
 
 
 
