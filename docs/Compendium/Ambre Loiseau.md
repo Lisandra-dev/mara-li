@@ -8,14 +8,15 @@ univers: ❌
 category: Compendium
 description: Fiche de Ambre Loiseau
 cover: https://i.imgur.com/9ac8aiR.png
-tags:
-- OC
-- ❌
-- RP/Race/Zombie
-- Magie
-- Méchante
 cssclass: cards
+tags:
+  - OC
+  - ❌
+  - RP_Race_Zombie
+  - Magie
+  - Méchante
 ---
+
 
 ---
 $~$
