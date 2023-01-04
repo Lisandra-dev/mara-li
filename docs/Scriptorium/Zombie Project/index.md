@@ -6,7 +6,7 @@ share: true
 date: 26/10/2021
 description: Info sur le mini rp Resident Evil
 category: Scriptorium/Zombie Project
-title: Zombie Project
+name: Zombie Project
 ---
 
 <u>Lieu</u> : Windport — Côte West des USA
@@ -29,4 +29,4 @@ Il est tout à fait possible d'introduire des éléments de différents univers,
 Il est possible de faire des personnages mutants.
 
 ---
-![[Introduction|Introduction]]
+![[./Introduction|Introduction]]
