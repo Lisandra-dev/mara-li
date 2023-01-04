@@ -37,7 +37,7 @@ $~$
 
 # ──────༺ Physique ༻──────
 
-→ [[./Illustration_Ashling|Références]]
+→ [[20. REFERENCES/22. Personnages/Ashling May/Illustration|Références]]
 
 **Yeux** : Bleus
 **Cheveux** : Roux, longs, souvent attachés en chignons
@@ -124,12 +124,12 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 - Elle élève une grenouille. Oui.
 
 # Pouvoirs
-%% [[../../../Invocation d'armes]], [[../../../Sortilège]] %%
+%% [[Invocation d'armes|Invocation d'armes]], [[Sortilège|Sortilège]] %%
 
-![[./Pouvoirs_Ashling#Technopathe]]
+![[20. REFERENCES/22. Personnages/Ashling May/Pouvoirs#Technopathe]]
 
 ---
-![[./Illustration_Ashling]]
+![[20. REFERENCES/22. Personnages/Ashling May/Illustration]]
 
 
 
