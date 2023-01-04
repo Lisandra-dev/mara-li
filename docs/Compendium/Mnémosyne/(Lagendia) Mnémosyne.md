@@ -227,7 +227,7 @@ Les pouvoirs de Némo se manifeste principalement sous forme de lumière, et ell
 $Domaine\ :\ Ombre$
 ==Bloqué : Actuellement, cette forme est bloquée et n'est pas utilisable.==
 
-Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[../../../Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement:[^2]
+Issue de sa fusion avec un être informe, sceau créée par Aetheromancie, [[Obsius|Obsius]] est la part sombre de Mnémosyne. Lorsqu'elle se fait posséder, Mnémosyne change physiquement:[^2]
 - Des écailles sombres apparaissent sur ses joues, cou, jambes et bras.
 - Des griffes noires et effilées poussent à la place de ses ongles
 - Son auréole devient noire.
