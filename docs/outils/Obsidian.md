@@ -1,10 +1,11 @@
 ---
 share: true
 category: outils
-tags: 
-- Outils
-- Obsidian
+tags:
+  - Outils
+  - Obsidian
 ---
+
 
 # Introduction
 
@@ -61,14 +62,14 @@ Notons que le LP est, à l'heure où j'écris ses lignes, en bêta sur mobile et
 ### Les options
 Obsidian permet de carrément personnaliser l'utilisation, et on peut complètement désactiver/activer des core features. Vous pouvez donc avoir un Obsidian bourré d'option/outils, ou un truc giga simple. En plus, on peut personnalisée notre vue comme on veut : je peux mettre mon plan à droite, avoir ma liste de dossiers et fichier à gauche...
 
-![[../assets/img/Pasted image 20220121203402.png]]
+![[../assets/img/Pasted image 20220121203402.png|Pasted image 20220121203402.png]]
 (*Feat mes fautes*)
 
 ### La vue graphique et les tags
 Il faut savoir que je n'utilise quasiment pas la vue graphique et les tags. Je préfère une organisation hiérarchique par dossier, et il y a déjà énormément d'article à ce sujet. En gros, pour résumé vite-fait : vous pouvez avoir un affichage de vos notes avec des liens entre elles.
 
 Plutôt pratique pour suivre les relations d'un sujet, d'un personnage... 
-![[../assets/img/Pasted image 20220121204230.png]]
+![[../assets/img/Pasted image 20220121204230.png|Pasted image 20220121204230.png]]
 Par exemple, ici, on voit bien les trucs reliés à mes cours et ceux qui sont reliés au RP. 
 
 Y'a encore et encore d'autres trucs, genre, afficher les liens entrants-sortants d'une note, les templates... 
