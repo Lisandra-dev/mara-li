@@ -5,10 +5,7 @@ share: true
 type: Contexte
 description: Contexte générale du RP
 tags:
-  - RP
-  - Bibliothèque-Infinie
-  - Description
-  - Contexte
+  - RP_Bibliothèque-Infinie_Description_Contexte
 ---
 
 
