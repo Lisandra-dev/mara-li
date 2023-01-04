@@ -14,7 +14,7 @@ tags:
 
 ![[./Illustration|Illustration]]
 > [!note] Identité
-> ![[Hayleen_portrait|+side]]
+> ![[../../assets/img/Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
 > *Alias :* Grimalkin
 > **Genre :** F.
@@ -113,5 +113,5 @@ tags:
 > - [[../Mnémosyne/index|Mnémosyne]]
 > - **Vrai père** : Un descendant de Gilgamesh — Babylone
 > - **Mère** : ???
-> - [[Écho|Écho]] : #inité
+> - [[Echo|Écho]] : #inité
 
