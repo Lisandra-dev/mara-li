@@ -13,11 +13,13 @@ tags:
   - left
 type: OC
 univers: Chroniques du Grimnoir
+dataview: false
 ---
 
 <b style="text-align:center;display:block;">"Mère Russie n'existe pas"</b>
 
 ![[../../assets/img/Blaïka.jpg|+side]]
+
 **Nom** : Yermakova
 **Prénom** : Blaïka
 
