@@ -1,7 +1,7 @@
 ---
 category: "Projects/Eldale Creek"
 date: 14-11-2022
-description: "Les Sanktae sont des êtres dont les pouvoirs apparaît sous forme de contrôle de la lumière, et vivant en théocratie à Eminenthis, une cité indépendante des Alpes françaises."
+description: "Les Sanktae sont des êtres dont les pouvoirs apparaît sous forme de contrôle de la lumière, et vivant en théocratie à Eminenthis, une cité indépendante dans les Alpes françaises."
 display: Sanktae
 share: true
 type: Notes
