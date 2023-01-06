@@ -11,7 +11,7 @@ type: Fiche
 univers: Lagendia
 ---
 
-%% [[./Blaika Yermakova|Blaika Yermakova]] %%
+%% [[./index|Blaïka Yermakova]] %%
 
  <h2 style="text-align:center">╔═══━━━─── • ───━━━═══╗<br>
 I n t r o d u c t i o n<br>
