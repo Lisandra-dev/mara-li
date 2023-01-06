@@ -18,9 +18,9 @@ tags:
 
 
 >[!grid]
-> ![[../../assets/img/Kara_portrait.png|Kara_portrait]]
-> ![[../../assets/img/Kara_te_juge.png|Kara_te_juge.png]]
-> ![[../../assets/img/Kara_Kimono.png|Kara_Kimono.png]]
+> ![[../../assets/img/Kara_portrait.jpeg|Kara_portrait]]
+> ![[../../assets/img/Kara_te_juge.jpeg|Kara_te_juge.jpeg]]
+> ![[../../assets/img/Kara_Kimono.jpeg|Kara_Kimono.jpeg]]
 > ![[../../assets/img/Kara_chill.jpg|Kara_chill.jpg]]
 > 
 > ![[../../assets/img/Kara Grimalkin-29-08-2022.png|Kara Grimalkin-29-08-2022.png]]
