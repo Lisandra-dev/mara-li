@@ -10,4 +10,4 @@ share: true
 title: "ELDALE CREEK — BOARD"
 ---
 %% [[../../assets/img/Eldale Creek.canvas|Eldale Creek.canvas]] %%
-![[../../assets/img/Eldale Creek.png|+zoom]]
+![[../../assets/img/Eldale Creek.jpeg|+zoom]]
