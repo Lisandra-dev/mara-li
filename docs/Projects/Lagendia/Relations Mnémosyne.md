@@ -32,32 +32,32 @@ univers: Lagendia
 ## PJ
 | Fichier                                                                         | statut | Relation | avis |
 | ------------------------------------------------------------------------------- | ------ | -------- | ---- |
-| David Stevensen           | \-     | \-       | \-   |
 | Ivan Borukl             | \-     | \-       | \-   |
 | Mnémosyne (RE)       | \-     | \-       | \-   |
+| David Stevensen           | \-     | \-       | \-   |
 | Gaea Cleric            | \-     | \-       | \-   |
 | Raudhr                      | \-     | \-       | \-   |
 | Ruby & Esther        | \-     | \-       | \-   |
 | Alenski Pietro | \-     | \-       | \-   |
 | Farraige             | \-     | \-       | \-   |
 | Maël Fëon           | \-     | \-       | \-   |
-| Penny                   | \-     | \-       | \-   |
 | Nix Lumley         | \-     | \-       | \-   |
+| Penny                   | \-     | \-       | \-   |
 | Shinri Meiyo     | \-     | \-       | \-   |
 | Aygül Nephthys | \-     | \-       | \-   |
-| Kashi Maadsen   | \-     | \-       | \-   |
 | Isil Amastacia | \-     | \-       | \-   |
+| Kashi Maadsen   | \-     | \-       | \-   |
 | Mezhyo Abhy       | \-     | \-       | \-   |
-| Rufus                   | \-     | \-       | \-   |
 | Tol                       | \-     | \-       | \-   |
+| Rufus                   | \-     | \-       | \-   |
+| Avalon Osoro      | \-     | \-       | \-   |
+| Franck Arnaud    | \-     | \-       | \-   |
+| Gan                        | \-     | \-       | \-   |
+| Stydja Eyreya    | \-     | \-       | \-   |
+| White                    | \-     | \-       | \-   |
 | Blaïka (RE)         | \-     | \-       | \-   |
 | Damas Aberforth | \-     | \-       | \-   |
 | Kortals Avana     | \-     | \-       | \-   |
-| Avalon Osoro      | \-     | \-       | \-   |
-| Franck Arnaud    | \-     | \-       | \-   |
-| Stydja Eyreya    | \-     | \-       | \-   |
-| Gan                        | \-     | \-       | \-   |
-| White                    | \-     | \-       | \-   |
 | Hazel                    | \-     | \-       | \-   |
 | Isaac Bergeron  | \-     | \-       | \-   |
 | Lony Pegmin        | \-     | \-       | \-   |
