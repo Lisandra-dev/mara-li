@@ -3,6 +3,7 @@ alias:
   - Blaïka
 category: Projects/Lagendia
 dataview: true
+links: false
 name: Relations_Blaïka
 share: true
 tags:
@@ -10,7 +11,6 @@ tags:
 title: Relation — Blaïka
 type: Carnet
 univers: Lagendia
-links: false
 ---
 
 
@@ -19,29 +19,29 @@ links: false
 ![[../../hidden/Symbole relations|Symbole relations]]
 | Fichier                                                                         | statut | Relation | avis |
 | ------------------------------------------------------------------------------- | ------ | -------- | ---- |
-| David Stevensen           | \-     | \-       | \-   |
 | Ivan Borukl             | \-     | \-       | \-   |
 | Mnémosyne (RE)       | \-     | \-       | \-   |
+| David Stevensen           | \-     | \-       | \-   |
 | Gaea Cleric            | \-     | \-       | \-   |
 | Raudhr                      | \-     | \-       | \-   |
 | Ruby & Esther        | \-     | \-       | \-   |
 | Alenski Pietro | \-     | \-       | \-   |
-| Maël Fëon           | \-     | \-       | \-   |
 | Farraige             | \-     | \-       | \-   |
+| Maël Fëon           | \-     | \-       | \-   |
 | Nix Lumley         | \-     | \-       | \-   |
 | Penny                   | \-     | \-       | \-   |
 | Shinri Meiyo     | \-     | \-       | \-   |
+| Aygül Nephthys | \-     | \-       | \-   |
+| Isil Amastacia | \-     | \-       | \-   |
+| Kashi Maadsen   | \-     | \-       | \-   |
+| Mezhyo Abhy       | \-     | \-       | \-   |
+| Tol                       | \-     | \-       | \-   |
+| Rufus                   | \-     | \-       | \-   |
 | Avalon Osoro      | \-     | \-       | \-   |
 | Franck Arnaud    | \-     | \-       | \-   |
 | Gan                        | \-     | \-       | \-   |
 | Stydja Eyreya    | \-     | \-       | \-   |
 | White                    | \-     | \-       | \-   |
-| Aygül Nephthys | \-     | \-       | \-   |
-| Isil Amastacia | \-     | \-       | \-   |
-| Kashi Maadsen   | \-     | \-       | \-   |
-| Mezhyo Abhy       | \-     | \-       | \-   |
-| Rufus                   | \-     | \-       | \-   |
-| Tol                       | \-     | \-       | \-   |
 | Blaïka (RE)         | \-     | \-       | \-   |
 | Damas Aberforth | \-     | \-       | \-   |
 | Kortals Avana     | \-     | \-       | \-   |
