@@ -17,21 +17,21 @@ univers: Références
 
 
 > [!grid] Medhas
-> ![[../../assets/img/Grimm_Nemo.jpg|Grimm_Nemo.jpg]] ![[../../assets/img/Mnémosyne robe - Farraige.png|Mnémosyne robe - Farraige.png]]
+> ![[../../assets/img/Grimm_Nemo.jpg|Grimm_Nemo.jpg]] ![[../../assets/img/Mnémosyne robe - Farraige.jpeg|Mnémosyne robe - Farraige.jpeg]]
 > ![[../../assets/img/Némo & Grimmerald.png|Némo & Grimmerald.png]] ![[../../assets/img/Nemo_funny_medhas.jpeg|Nemo_funny_medhas.jpeg]] ![[../../assets/img/Nemo_Grimm.jpeg|Nemo_Grimm.jpeg]]
 > ![[../../assets/img/Nemo_Medhas.png|Nemo_Medhas.png]] ![[../../assets/img/Nemo_robe_medhas.png|Nemo_robe_medhas.png]]
-> ![[../../assets/img/Nemo-Meme-Grimm.png|Nemo-Meme-Grimm.png]]
+> ![[../../assets/img/Nemo-Meme-Grimm.jpeg|Nemo-Meme-Grimm.jpeg]]
 
 > [!GRID] Phil
-> ![[../../assets/img/Némo — Dolce 1.png|Némo — Dolce 1.png]] ![[../../assets/img/Némo guirlande Dolce.png|Némo guirlande Dolce.png]] ![[../../assets/img/Némo portrait Dolce.png|Némo portrait Dolce.png]]
-> ![[../../assets/img/Némo half dolce.png|Némo half dolce.png]] ![[../../assets/img/Panneau_némo.png|Panneau_némo.png]] ![[../../assets/img/Mnémosyne_portrait.jpg|Mnémosyne_portrait.jpg]]
-> ![[../../assets/img/Némo_chibi_emoji.png|Némo_chibi_emoji.png]]
+> ![[../../assets/img/Némo — Dolce 1.jpeg|Némo — Dolce 1.jpeg]] ![[../../assets/img/Némo guirlande Dolce.jpeg|Némo guirlande Dolce.jpeg]] ![[../../assets/img/Némo portrait Dolce.png|Némo portrait Dolce.png]]
+> ![[../../assets/img/Némo half dolce.jpeg|Némo half dolce.jpeg]] ![[../../assets/img/Panneau_némo.jpeg|Panneau_némo.jpeg]] ![[../../assets/img/Mnémosyne_portrait.jpg|Mnémosyne_portrait.jpg]]
+> ![[../../assets/img/Némo_chibi_emoji.jpeg|Némo_chibi_emoji.jpeg]]
 
 > [!GRID] Gabrioche
-> ![[../../assets/img/Fanart Gabrioche.png|Fanart Gabrioche.png]]
+> ![[../../assets/img/Fanart Gabrioche.jpeg|Fanart Gabrioche.jpeg]]
 
 > [!GRID] Chaa
-> ![[../../assets/img/Chaa_Nemo_Rodon.png|Chaa_Nemo_Rodon.png]]
+> ![[../../assets/img/Chaa_Nemo_Rodon.jpeg|Chaa_Nemo_Rodon.jpeg]]
 
 
 > [!GRID] Commission
