@@ -22,7 +22,7 @@ univers: Lagendia
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
-![[../assets/img/comms2.png|+side]]**Nom & Prénom :** Autumn O’Quies
+![[comms2.png|+side]]**Nom & Prénom :** Autumn O’Quies
 *Surnom :* “Plume” (par sa mère) / “Mademoiselle” (son majordome) / “P’tite cheffe” (son cousin)
 **Âge :** 20 ans
 *Date d’anniversaire :* 22/09
