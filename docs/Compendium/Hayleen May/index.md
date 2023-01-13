@@ -6,15 +6,15 @@ date: 18-05-2020
 description: Références pour Hayleen May
 category: Compendium/Hayleen May
 name: Hayleen May
-image: Hayleen_portrait.jpeg
-cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.jpeg
+image: Hayleen_portrait.png
+cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.png
 tags:
   - inité
 ---
 
 ![[./Illustration|Illustration]]
 > [!note] Identité
-> ![[COMMISSION_MARA_PP.jpeg|+side]]
+> ![[../../assets/img/Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
 > *Alias :* Grimalkin
 > **Genre :** F.
