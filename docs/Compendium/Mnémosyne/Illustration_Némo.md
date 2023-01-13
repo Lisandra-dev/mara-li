@@ -13,6 +13,7 @@ tags:
   - Illustration
 type: Illustration
 univers: Références
+image: Némo_Commission_BG+name.png
 ---
 
 
@@ -35,8 +36,9 @@ univers: Références
 
 
 > [!GRID] Commission
-> ![[../../assets/img/twitter_commission_Mnemosyne.jpeg|twitter_commission_Mnemosyne.jpeg]] ![[../../assets/img/Mnémosyne Fullbody.jpeg|Mnémosyne Fullbody.jpeg]]
+> ![[../../assets/img/Mnémosyne_twitter.jpeg|Mnémosyne_twitter.jpeg]] ![[../../assets/img/Mnémosyne Fullbody.jpeg|Mnémosyne Fullbody.jpeg]]
 > ![[../../assets/img/Rosa_Garcia_2.png|Rosa_Garcia_2.png]] ![[../../assets/img/Mnemosyne.png|Mnemosyne.png]]
 > ![[../../assets/img/Nemo by Mogeckko.jpeg|Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg|Némo_lillyth.jpg]]
 > ![[../../assets/img/Perseith - Némo.png|Perseith - Némo.png]]
 > ![[../../assets/img/Perseith_portrait.png|Perseith_portrait.png]]
+> ![[Némo_Commission_BG+name.png]]
