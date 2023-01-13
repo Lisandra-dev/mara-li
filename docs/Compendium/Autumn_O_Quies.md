@@ -6,7 +6,7 @@ description: Autumn O'Quies, une Liberi (Rapace Nocturne). Ambitieuse et futur
   chef de son clan, elle maîtrise un hua d'eau et de glace, avec des sens
   exarcébée.
 display: Fiche
-image: comms2.png
+image: comms2.jpeg
 name: Autumn_O_Quies
 share: true
 tags:
@@ -22,7 +22,7 @@ univers: Lagendia
 I n t r o d u c t i o n<br>
 ╚═══━━━─── • ───━━━═══╝</h2>
 
-![[comms2.png|+side]]**Nom & Prénom :** Autumn O’Quies
+![[../assets/img/comms2.jpeg|+side]]**Nom & Prénom :** Autumn O’Quies
 *Surnom :* “Plume” (par sa mère) / “Mademoiselle” (son majordome) / “P’tite cheffe” (son cousin)
 **Âge :** 20 ans
 *Date d’anniversaire :* 22/09
