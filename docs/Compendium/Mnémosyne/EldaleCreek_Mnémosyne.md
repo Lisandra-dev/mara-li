@@ -12,7 +12,8 @@ univers: "Eldale Creek"
 ---
 <h1 style="text-align:right"> UNITED STATES OF AMERICA <br/>PERMANENT RESIDENT - ID CARD</h1>
 
-![[../../assets/img/Perseith_portrait.png|+side]]**Name/Surname** : Mnemosyne
+![[../../assets/img/Perseith_portrait.png|+side]]$~~$
+**Name/Surname** : Mnémosyne
 **Age** : 28
 **Sex** : F
 **Height** : 5.90 feet (1.80m)
@@ -35,7 +36,7 @@ $~$
 <h1 style="text-align:right; height:12px">BIOGRAPHIE</h1>
 
 ## Physique
-![[../../assets/img/Némo_Commission_bg+name.png]]
+![[Némo_Commission_BG+name.png|+side]]
 >[!infobox|left]
 > ![[../../assets/img/Nemo by Mogeckko avec arrière-plan supprimé.png|Nemo by Mogeckko avec arrière-plan supprimé.png]]
 > - *Couleur des yeux* : Blanc, translucide
