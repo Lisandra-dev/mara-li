@@ -28,11 +28,10 @@ image: Némo_Commission_BG+name.png
 > ![[../../assets/img/Némo half dolce.jpeg|Némo half dolce.jpeg]] ![[../../assets/img/Panneau_némo.jpeg|Panneau_némo.jpeg]] ![[../../assets/img/Mnémosyne_portrait.jpg|Mnémosyne_portrait.jpg]]
 > ![[../../assets/img/Némo_chibi_emoji.jpeg|Némo_chibi_emoji.jpeg]]
 
-> [!GRID] Gabrioche
+> [!GRID] Autres
 > ![[../../assets/img/Fanart Gabrioche.jpeg|Fanart Gabrioche.jpeg]]
-
-> [!GRID] Chaa
 > ![[../../assets/img/Chaa_Nemo_Rodon.jpeg|Chaa_Nemo_Rodon.jpeg]]
+> ![[../../assets/img/Perseith_Némo_switch_outfit.png|Perseith_Némo_switch_outfit.png]]
 
 
 > [!GRID] Commission
@@ -41,4 +40,4 @@ image: Némo_Commission_BG+name.png
 > ![[../../assets/img/Nemo by Mogeckko.jpeg|Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg|Némo_lillyth.jpg]]
 > ![[../../assets/img/Perseith - Némo.png|Perseith - Némo.png]]
 > ![[../../assets/img/Perseith_portrait.png|Perseith_portrait.png]]
-> ![[../../assets/img/Némo_Commission_bg+name.png]]
+> ![[Némo_Commission_BG+name.png]]
