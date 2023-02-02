@@ -3,6 +3,7 @@ category: Scriptorium
 description: Une idée comme une autre, brouillonnée
 name: Ambrosia
 share: true
+title: Ambrosia
 ---
 
 # Résumé de l'univers
@@ -13,7 +14,7 @@ share: true
 - Type de magie différente, niveau différent. Spécialisation;
 - Monde qui tourne autour de l'étude de cette magie
 - Peu d'intérêt envers l'espace
-- [[#Le flux]]
+- [[Ambrosia#Le flux|Le flux]]
 - Pas d'enfant, réincarnation à l'infinie
 - Pas de notion de temps ni de mort ($\ne$ cristallisation)
 - Pas de guerre ou maladie
@@ -28,12 +29,12 @@ share: true
 - Ceux qui sont à l'intérieur observe à partir de la planète.
 - Reviennent à des endroit précis avec leur souvenir, mais en "meilleur forme".
 - La magie évolue à partir du flux
-- Plus on reste longtemps hors du flux, moins la santé mentale reste bonne, cf [[#Idéal]]
+- Plus on reste longtemps hors du flux, moins la santé mentale reste bonne, cf [[Ambrosia#Idéal|Idéal]]
 
 ---
 
 # Idéal
-- Résume l'ambition, idéaux, but d'une personne. Sans elle, la personne se [[#Cristallisation|cristallise]] et perd contrôle de sa magie.
+- Résume l'ambition, idéaux, but d'une personne. Sans elle, la personne se [[Ambrosia#Cristallisation|cristallise]] et perd contrôle de sa magie.
 - Chaque personne a un Idéal. Pas d'idéal → mort
 - Par définition, il est impossible d'atteindre l'idéal. Le but d'une vie est de le faire grandir, évoluer, s'en approcher le plus possible;
 - Un idéal est changeant, notamment par les découvertes des personnes.
