@@ -5,6 +5,7 @@ alias:
 category: Compendium/Mnémosyne
 date: 17-10-2021
 description: Illustration — Dessin de Némo
+image: avatar.png
 name: Illustration_Némo
 share: true
 short: Némo
@@ -13,7 +14,6 @@ tags:
   - Illustration
 type: Illustration
 univers: Références
-image: Némo_Commission_BG+name.png
 ---
 
 
@@ -36,8 +36,11 @@ image: Némo_Commission_BG+name.png
 
 > [!GRID] Commission
 > ![[../../assets/img/Mnémosyne_twitter.jpeg|Mnémosyne_twitter.jpeg]] ![[../../assets/img/Mnémosyne Fullbody.jpeg|Mnémosyne Fullbody.jpeg]]
-> ![[../../assets/img/Rosa_Garcia_2.png|Rosa_Garcia_2.png]] ![[../../assets/img/Mnemosyne.png|Mnemosyne.png]]
+>
+> ![[../../assets/img/Rosa_Garcia_2.png|Rosa_Garcia_2.png]]
 > ![[../../assets/img/Nemo by Mogeckko.jpeg|Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg|Némo_lillyth.jpg]]
 > ![[../../assets/img/Perseith - Némo.png|Perseith - Némo.png]]
 > ![[../../assets/img/Perseith_portrait.png|Perseith_portrait.png]]
-> ![[Némo_Commission_BG+name.png]]
+>
+> ![[../../assets/img/Némo_Commission_BG+name.jpg|Némo_Commission_BG+name.jpg]]
+> ![[../../assets/img/avatar.jpg|avatar.jpg]]
