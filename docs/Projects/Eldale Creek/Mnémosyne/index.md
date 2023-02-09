@@ -1,65 +1,67 @@
 ---
 category: Projects/Eldale Creek/Mnémosyne
+dg-permalink: Projects/Eldale Creek/Mnémosyne
 dataview: true
 date: 14-11-2022
 description: Relations de Mnémosyne
 display: Carnet Relations
 links:
  convert: false
-name: "Mnémosyne"
+name: Mnémosyne
 share: true
+dg-publish: true
 title: "Mnémosyne — Relations"
 type: carnet
 ---
 
 ![[../../../hidden/Symbole relations|Symbole relations]]
 
-| Fichier                                                                           | statut               | Relation | avis                                                                            |
-| --------------------------------------------------------------------------------- | -------------------- | -------- | ------------------------------------------------------------------------------- |
-| Abigail Brecker          | ✅                    | 🙂       | « Une fille sympa »                                                             |
-| Adrian Di. Bestia      | \-                   | \-       | \-                                                                              |
-| Al'nyiran Iiblis        | \-                   | \-       | \-                                                                              |
-| Allen Blake                  | \-                   | \-       | \-                                                                              |
-| Ariel Cyrus                  | \-                   | \-       | \-                                                                              |
-| Claire Neyrok              | \-                   | \-       | \-                                                                              |
-| Cornell Inksano          | \-                   | \-       | \-                                                                              |
-| Diesel Aleister          | \-                   | \-       | \-                                                                              |
-| Eden Onuru                    | \-                   | \-       | \-                                                                              |
-| Eerhin Corlumett        | \-                   | \-       | \-                                                                              |
-| Farraige Derrien        | ✅                    | 😐       | (A une quête annexe avec lui)                                                   |
-| Finch Owlfeather        | \-                   | \-       | \-                                                                              |
-| Howard Smith                | ✅                    | 😊       | « Je prendrai un malin plaisir à le faire chier jusqu'au restant de ses jours » |
-| Ichida Alurea              | \-                   | \-       | \-                                                                              |
-| Jake Enderson              | ✅                    | 😐       | « Il s'est raidit lorsque j'ai mentionné mon métier »                           |
-| Jennifer Brooks          | \-                   | \-       | \-                                                                              |
-| Koara Kobain                | 👀                   | (croisé) | \-                                                                              |
-| Laura Onuru                  | \-                   | \-       | \-                                                                              |
-| Louise Ui't                  | \-                   | \-       | \-                                                                              |
-| Léandre Ovolenski      | ✅                    | \-       | \-                                                                              |
-| Pom Thabes                    | ✅                    | 😐       | \-                                                                              |
-| Rithel Lithdeus          | \-                   | \-       | \-                                                                              |
-| Sacha Blackends          | \-                   | \-       | \-                                                                              |
-| Seidh Achlys                | \-                   | \-       | \-                                                                              |
-| Stella Étoile              | ✅                    | 🤩       | « On va faire de grandes choses ensemble ma p'tite »                            |
-| Valentine Primrose    | ✅ (depuis longtemps) | 🥰       | « J'aime cette petite de tout mon cœur, même si c'est une vraie pipelette »     |
-| Vega Keith                    | \-                   | \-       | \-                                                                              |
-| Alazée O'Connor   | \-                   | \-       | \-                                                                              |
-| Jake O'Connor       | \-                   | \-       | \-                                                                              |
-| Adams Dielle               | 💭                   | \-       | (Connaît d'avant le début du RP)                                                |
-| James Robert               | \-                   | \-       | \-                                                                              |
-| Cherylin Weiss           | \-                   | \-       | \-                                                                              |
-| Clemy Lavender           | \-                   | \-       | \-                                                                              |
-| Justin Davis               | \-                   | \-       | \-                                                                              |
-| Kurt McStonehammer   | \-                   | \-       | \-                                                                              |
-| Karen Cooper               | \-                   | \-       | \-                                                                              |
-| Lewis Michelle           | \-                   | \-       | \-                                                                              |
-| Meryl Velasco             | ✅                    | 😐       | \-                                                                              |
-| Quirell Grandfleuve | \-                   | \-       | \-                                                                              |
-| Ruby Ricci                   | \-                   | \-       | \-                                                                              |
-| Russel Young               | ✅                    | 😐       | \-                                                                              |
-| Scott Parker               | \-                   | \-       | \-                                                                              |
-| Shelby Brown               | \-                   | \-       | \-                                                                              |
-| Suzy McKelly               | ✅                    | 🥰       | \-                                                                              |
-| Vanessa McHampton     | \-                   | \-       | \-                                                                              |
-| William Felix Pauss | \-                   | \-       | \-                                                                              |
+| Fichier                                                                                  | statut               | Relation | avis                                                                            |
+| ---------------------------------------------------------------------------------------- | -------------------- | -------- | ------------------------------------------------------------------------------- |
+| Jake O'Connor              | \-                   | \-       | \-                                                                              |
+| Alazée O'Connor          | \-                   | \-       | \-                                                                              |
+| Scott Parker                      | \-                   | \-       | \-                                                                              |
+| Russel Young                      | ✅                    | 😐       | \-                                                                              |
+| William Felix Pauss        | \-                   | \-       | \-                                                                              |
+| Kurt McStonehammer          | \-                   | \-       | \-                                                                              |
+| Meryl Velasco                    | ✅                    | 😐       | \-                                                                              |
+| Suzy McKelly                      | ✅                    | 🥰       | \-                                                                              |
+| James Robert                      | \-                   | \-       | \-                                                                              |
+| Justin Davis                      | \-                   | \-       | \-                                                                              |
+| Quirell Grandfleuve        | \-                   | \-       | \-                                                                              |
+| Lewis Michelle                  | \-                   | \-       | \-                                                                              |
+| Adams Dielle                      | 💭                   | \-       | (Connaît d'avant le début du RP)                                                |
+| Shelby Brown                      | \-                   | \-       | \-                                                                              |
+| Ruby Ricci                          | \-                   | \-       | \-                                                                              |
+| Karen Cooper                      | \-                   | \-       | \-                                                                              |
+| Clemy Lavender                  | \-                   | \-       | \-                                                                              |
+| Vanessa McHampton            | \-                   | \-       | \-                                                                              |
+| Aspen Weiss                        | \-                   | \-       | \-                                                                              |
+| Seidh Achlys                       | \-                   | \-       | \-                                                                              |
+| Howard Smith                       | ✅                    | 😊       | « Je prendrai un malin plaisir à le faire chier jusqu'au restant de ses jours » |
+| Pom Thabes                           | ✅                    | 😐       | \-                                                                              |
+| Ariel Cyrus                         | \-                   | \-       | \-                                                                              |
+| Kenneth « Kenny » Péist | \-                   | \-       | \-                                                                              |
+| Sacha Blackends                 | \-                   | \-       | \-                                                                              |
+| Keith Vega                           | \-                   | \-       | \-                                                                              |
+| Rithel Lithdeus                 | \-                   | \-       | \-                                                                              |
+| Claire Neyrok                     | \-                   | \-       | \-                                                                              |
+| Léandre Ovolenski             | ✅                    | 🙂       | « Semble maligne et intéressante. Lueur très intrigante »                       |
+| Laura Onuru                         | \-                   | \-       | \-                                                                              |
+| Eerhin Corlumett               | \-                   | \-       | \-                                                                              |
+| Allen Blake                         | ✅                    | \-       | « Trop jeune pour moi... Malheureusement »                                      |
+| Ichida Alurea                     | ✅                    | 😐       | « Aussi agréable qu'un coup de pied dans l'estomac »                            |
+| Eden Onuru                           | \-                   | \-       | \-                                                                              |
+| Koara Kobain                       | 👀                   | (croisé) | \-                                                                              |
+| Finch Owlfeather               | ✅                    | \-       | « Compagnon d'enquête »                                                         |
+| Stella Étoile                     | ✅                    | 🤩       | « On va faire de grandes choses ensemble ma p'tite »                            |
+| Adrian Di. Bestia             | \-                   | \-       | \-                                                                              |
+| Cornell Inksano                 | \-                   | \-       | \-                                                                              |
+| Al'nyiran Iiblis               | \-                   | \-       | \-                                                                              |
+| Farraige Derrien               | ✅                    | 😐       | (A une quête annexe avec lui)                                                   |
+| Abigail Brecker                 | ✅                    | 🙂       | « Une fille sympa »                                                             |
+| Jake Enderson                     | ✅                    | 😐       | « Il s'est raidit lorsque j'ai mentionné mon métier »                           |
+| Valentine Primrose           | ✅ (depuis longtemps) | 🥰       | « J'aime cette petite de tout mon cœur, même si c'est une vraie pipelette »     |
+| Louise Ui't                         | \-                   | \-       | \-                                                                              |
+| Jennifer Brooks                 | \-                   | \-       | \-                                                                              |
 
