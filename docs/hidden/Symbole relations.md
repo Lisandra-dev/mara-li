@@ -2,6 +2,7 @@
 date: 09-09-2022
 description: Symbole relation sheet
 share: true
+dg-publish: true
 tags:
   - Notes
   - Symbole
