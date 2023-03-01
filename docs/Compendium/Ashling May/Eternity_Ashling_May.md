@@ -2,14 +2,15 @@
 category: Compendium/Ashling May
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
 date: 26-02-2023
-description: "(ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique, membre du groupe de mercenaire Légion."
+description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et
+  égocentrique, membre du groupe de mercenaire Légion.
 genre: PJ
 image: Commission Feilyn.png
+name: Eternity_Ashling_May
 share: true
+title: "[ETERNITY] ASHLING « SOLA UI » MAY"
 type: Fiche
 univers: ETERNITY
-title: "[ETERNITY] ASHLING « SOLA UI » MAY"
-name: "Eternity_Ashling_May"
 ---
 
 
@@ -37,7 +38,7 @@ name: "Eternity_Ashling_May"
 - *Traits notables :* Elle est myope comme une taupe en absence de ses lunettes.
 - *Style vestimentaire :* Généralement, Ashling est vêtue de vêtement coloré, de jupe et de robes. Il est difficile de le croire, car Ashling se montre peu féminine, mais elle trouve ces vêtements plus confortables que les pantalons. Pour ses chaussures, elle porte systématiquement de hautes bottes à sangles. Lorsqu'elle ne sort pas, elle apprécie les tenues décontractées…
 
-→  [[./Illustration_Ashling|Autres références]]
+→ [[./Illustration_Ashling|Autres références]]
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p><h1 style="text-align:right">BIOGRAPHIE</h1>
 
@@ -75,6 +76,7 @@ Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caract
 > | **Puissance** | 55 | 55 |
 > | **Intelligence** | 60 | 60 |
 > | **==PV==** | ==80== | ==120== |
+> 
 > ---
 > **Ressource** : 14 [MANA]
 > **Niveau :** 1
