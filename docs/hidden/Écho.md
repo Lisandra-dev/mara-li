@@ -16,7 +16,6 @@ On ne rejoint pas l'Écho n'importe comment : généralement, l'hérédité, les
 
 Les membres de l'Écho sont très chaotiques, sans organisation précise ou claire : la fin justifie les moyens. Certains vont, par exemple, employer des moyens meurtriers. D'autres préfèrent rester dans l'ombre.
 
-Généralement, les cellules communiquent très peu entre elles, bien qu'il existe des messagers (souvent des magiques ayant des capacités de déplacement ou communication sur de grande distance). De plus, l'Écho n'hésite pas à employer les technologies humaines et se mêler à eux. De fait, les communications de l'Écho se fait tout simplement par téléphone.
+Généralement, les cellules communiquent très peu entre elles, bien qu'il existe des messagers (souvent des magiques ayant des capacités de déplacement ou communication sur de grande distance). De plus, l'Écho n'hésite pas à employer les technologies humaines et se mêler à eux. De fait, les communications de l'Écho se fait tout simplement par téléphone, mail ou fax.
 
-
-
+Au final, c'est une organisation très mêlée à la vie humaine, faisant presque un lien entre les monde magiques et non magique, et visant à protéger le statu quo. Leur petit nombre, suite aux luttes récentes, les empêche cependant d'accomplir entièrement leur mission.
