@@ -12,6 +12,7 @@ name: Kara_ref_img
 > ![[../assets/img/Kara-Civil-Realist.png|Kara-Civil-Realist.png]]
 > ![[../assets/img/Kara-Armure-TANK.png|Kara-Armure-TANK.png]]
 >
+>
 > ![[../assets/img/Kara__BB.png|Kara__BB.png]]
 > ![[../assets/img/Ref ARME.png|Ref ARME.png]]
 > ![[../assets/img/Kara_Ref_lames.png|Kara_Ref_lames.png]]
