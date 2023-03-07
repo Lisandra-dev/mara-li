@@ -17,8 +17,8 @@ type: Notes
 |😣|Relation conflictuelle|
 | 😥      | Peur/Pleure     |
 | 😕      | Bof             |
-| 😐      | Neutre          |
-| 🙂      | Neutre apprécié |
+|😐| Neutre          |
+|🙂| Neutre apprécié |
 | 🥰      | PROTECT         |
 | 😊      | Poto            |
 | 😘      | Crush/Drague    |
