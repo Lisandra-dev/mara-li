@@ -1,13 +1,13 @@
 ---
 category: Projects/ETERNITY
-dataview: true
+dataview: ✅
 date: 2023-03-07
 description: Relation de Kara Grimalkin dans Eternity
 title: "[RELATIONS] KARA « THE BLACK WITCH » Grimalkin"
 links: 
- convert: false
+ convert: ❌
 name: Relations_Kara
-share: true
+share: ✅
 type: carnet
 ---
 
@@ -41,8 +41,8 @@ type: carnet
 | Carla Bellavance                                           | \-        | \-       | \-       |
 | Ewleen « Ew' » Meister                               | \-        | \-       | \-       |
 | Hiromi « À la vitesse divine » Raito   | \-        | \-       | \-       |
-| Lucas « Rafale » Nero                                 | true      | 😊       | Bon pote |
-| Nowhere                                                             | true      | 😐       | \-       |
+| Lucas « Rafale » Nero                                 | ✅      | 😊       | Bon pote |
+| Nowhere                                                             | ✅      | 😐       | \-       |
 | P-01 « Parasite » Skar'Nah                       | \-        | \-       | \-       |
 | Shyla « Ragnis » Lancaster                       | \-        | \-       | \-       |
 | Solis « Garm » Carmin                                 | \-        | \-       | \-       |
