@@ -29,4 +29,5 @@ type: Notes
 | ------- | --------------------------------------- |
 | ✅      | Rencontré                               |
 | 🗯️      | En a entendu parlé (rumeur)             |
-| 🗒️      | Discussion par messagerie/chat/distance |
+| 📲      | Discussion par messagerie/chat/distance |
+| 🪧      | Croisé, mais pas discuté                | 
