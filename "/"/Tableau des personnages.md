@@ -1,6 +1,6 @@
 ---
 share: true
-repo: ETERNITY
+repo: lisandra-dev/ETERNITY
 path: '"/"'
 name: Tableau des personnages
 ---
