@@ -1,7 +1,9 @@
 
 ---
 share: true
+dg-publish: true
 category: Compendium/Éden
+dg-permalink: Compendium/Éden
 type: OC
 univers: Zombie Project
 name: Éden
@@ -14,7 +16,7 @@ cssclass: cards, cards-cols-5, cards-naturel
 %% Inspirée de [[../Ambre Loiseau|Ambre Loiseau]] %%
 ![[../../assets/img/Éden.png|+side]]
 # ─────༺ Présentation ༻─────
-**Nom** : Éden 
+**Nom** : Éden
 **Âge** : Apparence fin de vingtaine
 **Genre** : F
 **Orientation sexuelle** : Hétéro
@@ -26,8 +28,8 @@ cssclass: cards, cards-cols-5, cards-naturel
 **Pouvoirs** : [[Biomasse]]
  Elle peut créer des excroissances de chair ou d’os, modifier sa peau pour être plus solide ou simplement pour frapper plus fort. Elle peut se régénérer à l’infini, mais il lui faut un laps de temps plus ou moins long en fonction de ses blessures. De plus, elle a des réflexes sont énormément améliorés.
 
-*Avantages* : 
-- Formation d'excroissance d'os 
+*Avantages* :
+- Formation d'excroissance d'os
 - Régénération
 - Grande endurance vis-à-vis de son pouvoir.
 - Réflexes améliorés
@@ -40,30 +42,30 @@ cssclass: cards, cards-cols-5, cards-naturel
 - Lui arracher le thymus la tue instantanément.
 - Elle marque facilement les bleus.
 
-# ──────༺ Physique ༻────── 
+# ──────༺ Physique ༻──────
 
 *Taille* : 1m75
 *Poids* : ? Variable
 
-**Yeux** : Noir 
+**Yeux** : Noir
 **Cheveux** : Brun clair, virant au gris.
 **Peau** : Pale, avec des veines très marquée
-**Cicatrice** : Aucune. 
+**Cicatrice** : Aucune.
 
 **Signes distinctifs** : Son sang rouge foncé, presque noir et épais
 
-**Style vestimentaire** : Inconnu - Plutôt "soldat", du solide et pratique. Elle ne ressent pas les sensations de froid-chaud, mais préfère les vêtements couvrants. 
+**Style vestimentaire** : Inconnu - Plutôt "soldat", du solide et pratique. Elle ne ressent pas les sensations de froid-chaud, mais préfère les vêtements couvrants.
 
-# ──────༺ Mental ༻────── 
+# ──────༺ Mental ༻──────
 
 Très peu de chose sont connues sur Éden.
 
 **Défauts** : Réservée, silencieuse, introvertie
 **Qualité** : Calme, réfléchie, maligne
-**Tempérament** : Loyale bonne 
+**Tempérament** : Loyale bonne
 
 **Peurs** : /
-**Objectifs** : Actuellement, fuir Windport. 
+**Objectifs** : Actuellement, fuir Windport.
 
 # ──────༺ Histoire ༻──────
 
