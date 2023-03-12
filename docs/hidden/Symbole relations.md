@@ -1,8 +1,8 @@
 ---
 date: 09-09-2022
 description: Symbole relation sheet
-share: ✅
-dg-publish: ✅
+share: true
+dg-publish: true
 tags:
   - Notes
   - Symbole
@@ -18,7 +18,7 @@ type: Notes
 | 😥      | Peur/Pleure     |
 | 😕      | Bof             |
 |😐| Neutre          |
-|🙂| Neutre apprécié |
+|🙂 | Neutre apprécié |
 | 🥰      | PROTECT         |
 | 😊      | Poto            |
 | 😘      | Crush/Drague    |
