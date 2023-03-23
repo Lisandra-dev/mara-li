@@ -14,12 +14,12 @@ type: Notes
 ## Avis
 | Symbole |Description|
 |:---:| --------------- |
-|😣|Relation conflictuelle|
-| 😥      | Peur/Pleure     |
-| 😕      | Bof             |
-|😐| Neutre          |
-|🙂 | Neutre apprécié |
-| 🥰      | PROTECT         |
+|😣 |Relation conflictuelle|
+|😥| Peur/Pleure     |
+|😕| Bof             |
+|😐 | Neutre          |
+|🙂| Neutre apprécié |
+|🥰 | PROTECT         |
 | 😊      | Poto            |
 | 😘      | Crush/Drague    |
 
