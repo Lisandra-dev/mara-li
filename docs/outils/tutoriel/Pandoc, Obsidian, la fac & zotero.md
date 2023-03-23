@@ -1,6 +1,8 @@
 ---
-share: true
 category: outils/tutoriel
+dg-path: outils/tutoriel/Pandoc, Obsidian, la fac & zotero.md
+dg-publish: true
+share: true
 tags:
   - Obsidian
   - Pandoc
@@ -41,8 +43,8 @@ Note : Le chemin complet vers export sera nommé `Users\export` mais vous devez 
 Vous êtes obligé de doubler tous les `\` sous Windows. 
 
 >[!WARNING]
->Vos images ne sont pas trouvées magiquement par pandoc, n'oubliez pas de créer un dossier dans lequel elles seront rangés & nommée. 
->Ici, le dossier sera nommée `Users\export\attachment`
+> Vos images ne sont pas trouvées magiquement par pandoc, n'oubliez pas de créer un dossier dans lequel elles seront rangés & nommée. 
+> Ici, le dossier sera nommée `Users\export\attachment`
 
 Dans `default.yml` : 
 ```yaml
@@ -122,7 +124,7 @@ Pour :
 	- Et pour citer : `+@fig:img-1`
 Pandoc xnos utilise à chaque fois la même idée de citation, avec toujours un `{#type:id}` où chaque `id` est unique, et `type` peut être `fig`, `tbl`... 
 >[!note]
->Juste pour info, vous aurez un warning de la part de citeproc, qui n'aura aucun impact sur l'export
+> Juste pour info, vous aurez un warning de la part de citeproc, qui n'aura aucun impact sur l'export
 
 # La commande pandoc
 Maintenant que tout semble configuré, il vous suffit plus qu'à lancer la commande pour compiler le rapport. 
