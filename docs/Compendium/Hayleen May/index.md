@@ -1,16 +1,19 @@
 ---
-type: OC
+category: Compendium/Hayleen May
+cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.png
+date: 2020-05-18
+description: Références pour Hayleen May
+dg-path: Compendium/Hayleen May/Hayleen May.md
+dg-publish: true
+image: Hayleen_portrait.png
+name: Hayleen May
 obsidianUIMode: preview
 share: true
-date: 18-05-2020
-description: Références pour Hayleen May
-category: Compendium/Hayleen May
-name: Hayleen May
-image: Hayleen_portrait.png
-cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.png
+type: OC
 tags:
   - inité
 ---
+
 
 ![[./Illustration|Illustration]]
 > [!note] Identité
@@ -114,4 +117,3 @@ tags:
 > - **Vrai père** : Un descendant de Gilgamesh — Babylone
 > - **Mère** : ???
 > - [[Echo|Écho]] : #inité
-
