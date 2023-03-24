@@ -3,8 +3,9 @@ alias:
   - Illustration Mnémosyne
   - Illustration
 category: Compendium/Mnémosyne
-date: 17-10-2021
+date: 2021-10-17
 description: Illustration — Dessin de Némo
+dg-path: Compendium/Mnémosyne/Illustration_Némo.md
 image: avatar.png
 name: Illustration_Némo
 share: true
