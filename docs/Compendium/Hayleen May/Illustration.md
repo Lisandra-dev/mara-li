@@ -1,12 +1,14 @@
 ---
 category: Compendium/Hayleen May
-share: true
-type: Illustration
 cssclass: img-grid
+description: Illustrations d'Hayleen May, une sorcière à fort caractère !
+dg-path: Compendium/Hayleen May/Illustration.md
+dg-publish: true
+image: COMMISSION_MARA_PP.png
 parent:
   - - Hayleen May
-description: Illustrations d'Hayleen May, une sorcière à fort caractère !
-image: COMMISSION_MARA_PP.png
+share: true
+type: Illustration
 tags:
   - Lagendia
 ---
