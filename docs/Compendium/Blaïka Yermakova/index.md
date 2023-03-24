@@ -1,8 +1,10 @@
 ---
 category: Compendium/Blaïka Yermakova
-cover: https://i.pinimg.com/originals/86/1d/47/861d4738b357c85e787e334bdc840002.jpg
-date: 24-12-2019
+dataview: false
+date: 2019-12-24
 description: Data sur Blaika
+dg-path: Compendium/Blaïka Yermakova/Blaïka Yermakova.md
+dg-publish: true
 image: Blaïka.jpg
 share: true
 tags:
@@ -13,8 +15,8 @@ tags:
   - left
 type: OC
 univers: Chroniques du Grimnoir
-dataview: false
 ---
+
 
 <b style="text-align:center;display:block;">"Mère Russie n'existe pas"</b>
 
@@ -87,4 +89,3 @@ En dehors de l’armée, elle peut se montrer très sympathique, proche de ses s
 - Elle tient bien l’alcool.
 - Pour une russe, elle n’aime étrangement pas la vodka et préfère la bière. 
 - [Image source](http://fav.me/da32hn6)
-
