@@ -5,9 +5,10 @@ alias:
   - Nemo
   - (i) Mnémosyne
 category: Compendium/Mnémosyne
-cover: https://www.mara-li.fr/assets/img/Némo_Commission_BG+name.png
-date: 21-09-2021
+date: 2021-09-21
 description: Référence générale de Mnémosyne
+dg-path: Compendium/Mnémosyne/Mnémosyne.md
+dg-publish: true
 image: Némo_Commission_BG+name.png
 name: Mnémosyne
 share: true
@@ -16,6 +17,7 @@ tags:
   - Gardien
 type: OC
 ---
+
 
 
 ---
@@ -45,8 +47,8 @@ type: OC
 > - Créer une armure de lumière, plus la lumière est forte, plus l'armure est épaisse.
 > - Créer un double de lumière ;
 > - Soigner certaines blessures.
->     Lorsque Mnémosyne prend sa forme angélique, tous ses pouvoirs sont renforcés, mais elle brille de mille feu, au point qu'il devient difficile pour ses alliés (ainsi que ses ennemis) de distinguer leurs environnements.
->     Enfin, sous sa forme angélique, des ailes translucides apparaissent dans son dos et elle devient capable de léviter.
+> Lorsque Mnémosyne prend sa forme angélique, tous ses pouvoirs sont renforcés, mais elle brille de mille feu, au point qu'il devient difficile pour ses alliés (ainsi que ses ennemis) de distinguer leurs environnements.
+> Enfin, sous sa forme angélique, des ailes translucides apparaissent dans son dos et elle devient capable de léviter.
 >
 > ### Pouvoirs Obsius
 >
