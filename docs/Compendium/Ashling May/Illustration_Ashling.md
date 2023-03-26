@@ -1,13 +1,12 @@
 ---
-share: true
-dg-publish: true
-type: Illustration
-name: Illustration_Ashling
-title: Illustration
 category: Compendium/Ashling May
+dg-path: Compendium/Ashling May/Illustration_Ashling.md
 image: Commission Feilyn.png
+name: Illustration_Ashling
+share: true
+title: Illustration
+type: Illustration
 ---
-
 
 # 2017
 
@@ -42,5 +41,7 @@ image: Commission Feilyn.png
 
 ---
 
-# Commission:
-![[../../assets/img/Commission Feilyn.png|500]]
+# Commission
+
+> [!GRID]
+> ![[../../assets/img/Commission Feilyn.png|Commission Feilyn.png]] ![[../../assets/img/Solow_Ashling.png|Solow_Ashling.png]]
