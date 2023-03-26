@@ -1,18 +1,18 @@
 ---
 category: Compendium/Ashling May
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
-date: 26-02-2023
-description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et
-  égocentrique, membre du groupe de mercenaire Légion.
+date: 2023-02-26
+description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique,
+  membre du groupe de mercenaire Légion.
+dg-path: Compendium/Ashling May/Eternity_Ashling_May.md
 genre: PJ
 image: Commission Feilyn.png
 name: Eternity_Ashling_May
 share: true
-title: "[ETERNITY] ASHLING « SOLA UI » MAY"
+title: '[ETERNITY] ASHLING « SOLA UI » MAY'
 type: Fiche
 univers: ETERNITY
 ---
-
 
 %% original : [[./index|Ashling May]] %%
 
@@ -29,6 +29,7 @@ univers: ETERNITY
 ➤ **Affiliation** : Légion
 ➤ **Classe Sociale** : (Très) aisée
 
+![[../../assets/img/Solow_Ashling.png|+rside]]
 ➤ **Apparence** :
 - *Yeux* : Bleus
 - *Cheveux* : Roux
