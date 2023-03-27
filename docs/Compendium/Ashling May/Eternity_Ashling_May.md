@@ -52,7 +52,7 @@ Bien que sa famille l'ait plus ou moins radié, elle continue de recevoir leur s
 
 Puisque oui, Ashling est dangereuse, en tant qu'hackeuse de génie, qui monte un unique réseau d'information pour que tout transite par elle. Avide d'argent, elle fait payé tout ce qu'elle fait, et a donc rejoint Légion pour obtenir encore plus d'argent… Surtout que sa haine du contrôle et son amour du chaos l'empêche plus ou moins de rejoindre Cataclysme… Alors qu'elle aurait quelques penchants pour ce groupe.
 
-Parallèlement à la création de son alter-égo « Sola-UI » (UI signifiant "User Interface"), une hackeuse de génie, et d'Ekraminarok, son personnage principal sur le MMORPG « Exasys Online » (où elle est une des joueuses PVP n°1), Ashling est une étudiante de génie qui fait actuellement un doctorat dans le domaine de l'IA. Bien qu'elle soit très souvent absente, ses apparitions sont très guettées et souvent synonymes d'humiliation pour ses professeurs.
+Parallèlement à la création de son alter-égo « Sola-UI » (UI signifiant "User Interface"), une hackeuse de génie, et d'Ekraminarok, son personnage principal sur le MMORPG « [[../../hidden/Exasys Online|Exasys Online]] » (où elle est une des joueuses PVP n°1), Ashling est une étudiante de génie qui fait actuellement un doctorat dans le domaine de l'IA. Bien qu'elle soit très souvent absente, ses apparitions sont très guettées et souvent synonymes d'humiliation pour ses professeurs.
 
 ## Caractère
 
