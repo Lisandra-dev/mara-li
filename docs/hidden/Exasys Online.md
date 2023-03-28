@@ -21,7 +21,7 @@ De plus, pour des raisons d'équilibrages, certaines spécialisations et classes
 
 Seuls les classes de bases ont des spécialisations. Les fusions n'en auront pas, et le joueur devra choisir les skills (actif ou passif) à conserver. 
 
-Une grande partie de l'équilibrage du jeu est calculée par des IA boostés à l'Aederite.
+Une grande partie de l'équilibrage du jeu est calculée par des ordinateurs quantiques ainsi que des modélisations et Q&A via des IA... Une partie de la technologie utilisée par la Team Exa est très novatrice, mais peu d'informations fuitent sur le marché. 
 
 Exemple de classe et fusion : 
 - Le Corsaire se débloque uniquement en montant un danser (classe de base) avec la spécialisation « corps à corps » et un fusilier (spécialisation arme courte). La classe est extrêmement mobile et se joue majoritairement à mi-distance, parfois au corps à corps mais le plus souvent à moyenne distance.
