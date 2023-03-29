@@ -2,19 +2,20 @@
 category: Compendium/Ashling May
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
 date: 2023-02-26
-description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique,
-  membre du groupe de mercenaire Légion.
+description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et
+  égocentrique, membre du groupe de mercenaire Légion.
 dg-path: Compendium/Ashling May/Eternity_Ashling_May.md
 genre: PJ
 image: Commission Feilyn.png
 name: Eternity_Ashling_May
 share: true
-title: '[ETERNITY] ASHLING « SOLA UI » MAY'
+title: "[ETERNITY] ASHLING « SOLA UI » MAY"
 type: Fiche
 univers: ETERNITY
 ---
 
 %% original : [[./index|Ashling May]] %%
+%% [[Ashling « Sola UI » May|Wiki]] %%
 
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p><h1 style="text-align:right">IDENTITÉ</h1>
@@ -66,7 +67,7 @@ Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caract
 
 <p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOPATHIE ⌋</h1>
 
-> [!infobox]
+> [!infobox|left]
 > |       |  Ashling    | Hexis |
 > |:-----|:-----|:-----|
 > | **Force**     |  20    | 20 |
@@ -76,23 +77,27 @@ Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caract
 > | **Psychologie** | 45 | 45 |
 > | **Puissance** | 55 | 55 |
 > | **Intelligence** | 60 | 60 |
-> | **==PV==** | ==80== | ==120== |
+> | **==PV==** | 50 | 90 |
 > 
 > ---
 > **Ressource** : 14 [MANA]
 > **Niveau :** 1
-
-Ashling est capable de se transporter dans la plupart des objets électronique et système informatique, à des degrés très divers, pouvant aller du simple contrôle psychique à un transfert mental.
+> Ashling est capable de se transporter dans la plupart des objets électronique et système informatique, à des degrés très divers, pouvant aller du simple contrôle psychique à un transfert mental.
 
 ## Équipements
 
-Ash possède un sac à dos capable de se déplier et de se transformer en un prototype d'androïde « HXS-2 "Hexis" » construit par Cybersentient System, d’environ 1,80 m. Quand endommagé sévèrement, l’androïde reprendra sa forme originale et se dirige vers la position actuelle d’Ashling.
+Ash possède un sac à dos capable de se déplier et de se transformer en un prototype d'androïde « [HXS-2 "Hexis"](https://cdna.artstation.com/p/assets/images/images/013/284/116/large/giorgio-baroni-01.jpg?1538922376) » construit par Cybersentient System, d’environ 1,80 m. Quand endommagé sévèrement, l’androïde reprendra sa forme originale et se dirige vers la position actuelle d’Ashling.
+
+> [!note] Hexis
+> - Ashling utilise de la **puissance** pour attaquer avec Hexis.
+> - Les attaques au corps à corps de l'androïde sont des attaques moyennes.
+
 
 ## Faiblesses
 
 - Lorsqu’elle se connecte aux objets, si ce dernier est trop complexe, elle va s’évanouir, voire tomber dans le coma (son corps doit alors être pris en charge, car dans le cas contraire, sa santé va se dégrader). Ce n’est pas le cas sur les petits objets. Elle va aussi donc pouvoir se connecter à des ordinateurs, des portes électroniques, téléphones, sans aucun problème. Lorsqu’elle est connectée à un objet, elle peut paraître “dans la lune” puisqu'elle n’a plus — ou moins — de contact avec son corps.
 - Elle doit avoir un point d’entrée sur les objets. Cela peut être par réseau (Bluetooth, wifi, radio), ou physique (USB…). Les conditions de contrôle diffèrent selon le point d’entrée : les entrées physiques sont beaucoup plus stables que les psychiques, mais elle perd plus facilement “son esprit” lorsqu’elle est connectée physiquement.
-- Ashling est très frêle quand elle ne contrôle pas son androïde ! Elle possède 80 PV de base sans ce dernier.
+- Ashling est très frêle quand elle ne contrôle pas son androïde ! Elle possède 50 PV de base sans ce dernier.
 - Les attaques électriques à répétition peuvent temporairement surcharger l’androïde, le rendant plus difficile à contrôler par Ashling.
 	Au bout de 3 attaques électriques encaissées, chaque action de l'androïde aura un malus de 10 sur la statistique en question, pendant `1d2+1` tour.
 
@@ -121,5 +126,5 @@ Ash possède un sac à dos capable de se déplier et de se transformer en un pro
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p>
 
-> [!music] BGM
-> https://www.youtube.com/playlist?list=PLEoAQrEiQaVOfIwOSGDH_wen1hIqTXarj
+> [!music] BGM 
+> https://www.youtube.com/playlist?list=PLEoAQrEiQaVOfIwOSGDH_wen1hIqTXarj 
