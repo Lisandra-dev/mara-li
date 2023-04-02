@@ -1,13 +1,15 @@
 ---
-date: 09-09-2022
+date: 2022-09-09
 description: Symbole relation sheet
-share: true
 dg-publish: true
+share: true
 tags:
   - Notes
   - Symbole
   - Relations
 type: Notes
+dg-hide: true
+sticker: 1f60d
 ---
 
 
@@ -19,8 +21,8 @@ type: Notes
 |😕| Bof             |
 |😐 | Neutre          |
 |🙂| Neutre apprécié |
-|🥰 | PROTECT         |
-| 😊      | Poto            |
+|🥰| PROTECT         |
+|😊| Poto            |
 | 😘      | Crush/Drague    |
 
 
@@ -30,4 +32,4 @@ type: Notes
 | ✅      | Rencontré                               |
 | 🗯️      | En a entendu parlé (rumeur)             |
 | 📲      | Discussion par messagerie/chat/distance |
-| 🪧      | Croisé, mais pas discuté                | 
+| 🪧      | Croisé, mais pas discuté                |
