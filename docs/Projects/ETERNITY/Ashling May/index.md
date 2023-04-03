@@ -11,7 +11,11 @@ title: "[RELATIONS] ASHLING « SOLA-UI » MAY"
 type: carnet
 ---
 
-![[../../../hidden/Symbole relations|Symbole relations]]
+
+> [!info]- Symboles relations
+> ![[../../../hidden/Symbole relations|Symbole relations]]
+
+## Relations
 
 | Fichier                                                                                                                              | Rencontré | Relation | Avis                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
