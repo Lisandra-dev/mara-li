@@ -1,10 +1,11 @@
 ---
-name: Kara Grimalkin
 category: Compendium/Kara Grimalkin
-cover: https://www.mara-li.fr/assets/img/Kara__BB.png
-image: Kara__BB.png
-date: 11-03-2022
+date: 2022-03-11
 description: Fiche de Kara Grimalkin
+dg-path: Compendium/Kara Grimalkin/Kara Grimalkin.md
+dg-publish: true
+image: Kara_illustration_commission.png
+name: Kara Grimalkin
 share: true
 type: OC
 univers: FFXIV
@@ -17,13 +18,14 @@ tags:
 
 
 
+
 >[!grid]
-> ![[../../assets/img/Kara_portrait.jpeg|Kara_portrait]]
+> ![[../../assets/img/Kara_portrait.jpeg|Kara_portrait.jpeg]]
 > ![[../../assets/img/Kara_te_juge.jpeg|Kara_te_juge.jpeg]]
 > ![[../../assets/img/Kara_Kimono.jpeg|Kara_Kimono.jpeg]]
 > ![[../../assets/img/Kara_chill.jpg|Kara_chill.jpg]]
 > 
-> ![[../../assets/img/Kara Grimalkin-29-08-2022.png|Kara Grimalkin-29-08-2022.png]]
+> ![[../../assets/img/Kara_illustration_commission.png|Kara_illustration_commission.png]]
 
 #FFXIV #Gardemald
 # ─────༺ Présentation ༻─────
