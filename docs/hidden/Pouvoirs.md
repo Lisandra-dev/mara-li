@@ -2,14 +2,13 @@
 category: hidden
 share: true
 type: Index, Idée
+sticker: 1fa84
 tags:
   - MOC
 ---
 
-%% #MOC %%
 
-```folderv
-```
+%% #MOC %%
 
 # Liste de pouvoirs
 - Invoquer un stand avec l’aide d’un téléphone (donc gérer la batterie du téléphone à chaque invocation)
@@ -38,7 +37,7 @@ tags:
 - [[Double]]
 - [[Météo]]
 - [[Estompage]]
-- [[Biomasse]]
+- [[Biomasse|Biomasse]]
 - [[Suggestion]]
 - [[Pixellisation|Pixellisation]]
 - [[Zombie|Zombie]]
