@@ -1,9 +1,9 @@
 ---
-banner: "https://images.unsplash.com/photo-1536242918817-db5e93c7a0e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+banner: https://images.unsplash.com/photo-1536242918817-db5e93c7a0e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 category: Compendium/Ashling May
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
 date: 2023-02-26
-description: "(ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique"
+description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique
 dg-path: Compendium/Ashling May/Eternity_Ashling_May.md
 genre: PJ
 image: Commission Feilyn.png
@@ -12,6 +12,7 @@ share: true
 title: "[ETERNITY] ASHLING « SOLA UI » MAY"
 type: Fiche
 univers: ETERNITY
+sticker: 1f3d3
 ---
 
 %% original : [[./index|Ashling May]] %%
@@ -65,66 +66,80 @@ Ashling aime s'amuser et les jeux-vidéos. Elle est totalement obsédée par les
 
 Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caractère sont faux. Malgré son aspect très égoïste, Ashling s'attache aux autres, ce qu'elle déteste, car à ses yeux c'est une énorme forme de faiblesse. Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inutilement, et craint la mort. Mais, malgré tout, elle aime jouer, et peut prendre parfois des risques lorsque la récompense le justifie.
 
-<p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOPATHIE ⌋</h1>
+<p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOMAGE ⌋</h1>
 
-> [!infobox|left]
-> |       |  Ashling    | Hexis |
-> |:-----|:-----|:-----|
-> | **Force**     |  20    | 20 |
-> | **Perception** | 50 | 50 |
-> | **==Agilité==** | ==50== | ==15== |
-> | **==Constitution==** | ==20== | ==55== |
-> | **Psychologie** | 45 | 45 |
-> | **Puissance** | 55 | 55 |
-> | **Intelligence** | 60 | 60 |
-> | **==PV==** | 50 | 90 |
->
-> ---
-> **Ressource** : 14 [MANA]
-> **Niveau :** 1
->Ashling est capable de se transporter dans la plupart des objets électronique et système informatique, à des degrés très divers, pouvant aller du simple contrôle psychique à un transfert mental.
+> [!infobox]
+> | Statistiques | Valeur |
+> | ------------ | ------ |
+> | Force        | 20     |
+> | Perception   | 50     |
+> | Agilité      | 50     |
+> | Constitution | 30     |
+> | Psychologie  | 25     |
+> | Puissance    | 70     |
+> | Intelligence | 70     |
+> | PV           |80|
+> |PV (hack)| 5      |
+
+Ashling a trouvé le moyen d'utiliser son pouvoir de manière inversée : Au lieu de projeter son esprit dans les objets et données électroniques, Ashling tire les données et les utilise pour créer n'importe quel objet, mais aussi créer des sortilèges.
+
+Ashling peut donc invoquer des « objets numériques » dont chacun possède une durée de vie limité de `1d2+1` tours.
+
+Ashling intègre les données des armes lorsqu'elle les invoque, et obtient donc toutes les connaissances liées pendant toute la durée de leur invocation. Leur utilisation est donc sur la **puissance**.
+
+__Note__ : Elle perd son ancien pouvoir lui permettant de se projeter dans les réseaux informatiques. Son hacking passe donc maintenant sur **l'intelligence**.
 
 ## Équipements
 
-Ash possède un sac à dos capable de se déplier et de se transformer en un prototype d'androïde « [HXS-2 "Hexis"](https://cdna.artstation.com/p/assets/images/images/013/284/116/large/giorgio-baroni-01.jpg?1538922376) » construit par Cybersentient System, d’environ 1,80 m. Quand endommagé sévèrement, l’androïde reprendra sa forme originale et se dirige vers la position actuelle d’Ashling.
+Ashling possède maintenant un masque qui lui permet de voir ses statistiques, ses cooldowns et ses buffs.
 
-> [!note] Hexis
-> - Ashling utilise de la **puissance** pour attaquer avec Hexis.
-> - Les attaques au corps à corps de l'androïde sont des attaques moyennes.
+## FAIBLESSES
+- Les EMPs désactivent temporairement ses pouvoirs pendant `1d3` tours. Par contre, les objets déjà invoqués ne sont pas détruits.
+- Les attaques électriques (même si encaissée) donne le statut **[LAG]** à Ashling, pendant `1d2+1` tour (non cumulable) : 
+	- Les invocations prennent un tour complet (et ne comptent donc plus pour des actions gratuites)
+	- Les cooldowns en cours gagnent +`[LAG]` tour(s)
 
-
-## Faiblesses
-
-- Lorsqu’elle se connecte aux objets, si ce dernier est trop complexe, elle va s’évanouir, voire tomber dans le coma (son corps doit alors être pris en charge, car dans le cas contraire, sa santé va se dégrader). Ce n’est pas le cas sur les petits objets. Elle va aussi donc pouvoir se connecter à des ordinateurs, des portes électroniques, téléphones, sans aucun problème. Lorsqu’elle est connectée à un objet, elle peut paraître “dans la lune” puisqu'elle n’a plus — ou moins — de contact avec son corps.
-- Elle doit avoir un point d’entrée sur les objets. Cela peut être par réseau (Bluetooth, wifi, radio), ou physique (USB…). Les conditions de contrôle diffèrent selon le point d’entrée : les entrées physiques sont beaucoup plus stables que les psychiques, mais elle perd plus facilement “son esprit” lorsqu’elle est connectée physiquement.
-- Ashling est très frêle quand elle ne contrôle pas son androïde ! Elle possède 50 PV de base sans ce dernier.
-- Les attaques électriques à répétition peuvent temporairement surcharger l’androïde, le rendant plus difficile à contrôler par Ashling.
-	Au bout de 3 attaques électriques encaissées, chaque action de l'androïde aura un malus de 10 sur la statistique en question, pendant `1d2+1` tour.
+## [BATTERIE] & INVOCATIONS
+- Ashling a toujours besoin d'avoir accès à un réseau électronique pour invoquer des objets. Ainsi, elle va utiliser son téléphone pour le faire. Elle va donc utiliser une nouvelle ressource : **[BATTERIE]**, capée à **`[20]`**.
+- La batterie ne se recharge pas au cours d'un combat.
+- Ashling ne peut invoquer que **cinq** objets en même temps.
+- Lors d'une scène, la première invocation est gratuite. Les suivantes coûteront **`[1]`** de **[BATTERIE]**
+- L'invocation d'un objet compte pour une action gratuit, mais une seule invocation n'est possible par tour.
+- Il n'est pas possible d'invoquer des objets trop complexes ou de petites tailles.
 
 ## Compétences
 
-> [!passif] NEURAL LINK
-> <code style="text-align: right;display:block">[Passif]</code>
-> *Ashling peut se connecter à un androïde qu'elle a créé pour combattre. Tant qu'elle contrôle l'androïde, elle peut lancer ses autres compétences et possède des statistiques différentes.*
-> - Cette dernière contrôlant uniquement les mouvements de l’androïde, elle peut lancer des attaques qui utiliserait normalement **Force** sur sa statistique de **Puissance**.
-> - Sans son androïde, elle est incapable d’utiliser les compétences avec le préfixe “**ANDROID**”
+**[SWITCH]**
+[Passif]
+*Pour chaque type d'invocation, Ashling gagne un bonus sur son utilisation suivante. Si l'objet n'est pas utilisé, le bonus est perdu. Une invocation coûte **`[1]`** de BATTERIE.*
+- ***Légère*** : Inflige `1d2` stack de [SAIGNEMENT] pour `-1d5` PV pendant `1d2` tours
+- ***Moyenne :*** Inflige [PARALYSIE] pendant `1d3` tours
+- ***Lourde :*** Inflige [ÉTOURDISSEMENT] pendant `1d2` tours
+- ***Équipements :*** Donne aléatoirement `1` stack de bonus pendant `1d2` tours, pour la personne ayant obtenu l'objet. Les bonus d'objet ne peuvent pas se superposer. C'est toujours le bonus du dernier objet invoqué qui prime.
+	- Si `dé = 1` : Galvanisé
+	- Si `dé = 2` : Vivacité
+	- Si `dé = 3` : Revigoré
+	Inclut armure, bouclier, chaussures…
 
-> [!power] BLACKOUT
-> <code style="text-align: right;display:block">[Actif | 5 Mana]</code>
-> *Ash infiltre temporairement un appareil ennemi, et le surcharge, le rendant inutilisable pendant `1d2+1` tour*.
-> - Inutilisable contre des objets non informatiques/électriques.
-> - Cette compétence n’inflige pas de dégâts, mais désactive toutes compétences/bonus accordés par l’objet.
-> - Requiers un jet de **Puissance** *(sur 100)* réussi pour être activé.
+**[MANAFICTION]**
+[Actif, 5 BATTERIE]
+*Ashling renforce elle-même et ses alliés autours. Ils gagnent donc `1d3` stacks de **GALVANISÉ** et `1d2` stacks de **REVIGORÉ**.*
+- La capacité ne peut pas être relancée avant `1d2+1` tours
+- Annule les bonus donnés par l'invocation d'équipement si encore en cours
+- Le bonus dure `2` tours.
 
-> [!power] [ANDROID] Eclipse Strike
-> <code style="text-align: right;display:block">[Actif | 4 Mana | 5 PV]</code>
-> *L’androïde sort une lame de son bras et inflige une attaque à son adversaire, et Ashling surcharge la lame en question pour créer une décharge électrique.*
-> - Inflige des dégâts moyens (`4d5`)
-> - Nécessite un jet de **puissance** réussi *(Opposition)*
-> - Les dégâts peuvent être encaissés, mais pas la **paralysie**
-> - Inflige **Paralysie** pendant `3 tours`.
+**[BABYLON'S GATE]**
+[Actif, 10 BATTERIE]
+*Ashling invoque 4 lance-grenades qui vont tous tirer en même temps sur son adversaire, infligeant `2d5` dégâts par canon (Jet d'opposition - Puissance).*
+- Malus de `-10` pour esquiver l'attaque.
+- Tous les objets invoqués par Ashling seront détruits pour permettre l'invocation des railguns.
+- Elle ne pourra pas plus utiliser son pouvoir pendant `1d2` tours, la faisant rentrer dans l'état `SURCHARGÉ`
+
+
+
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p>
 
 > [!music] BGM
 > https://www.youtube.com/playlist?list=PLEoAQrEiQaVOfIwOSGDH_wen1hIqTXarj
+
