@@ -1,6 +1,7 @@
 ---
 category: Compendium/Kara Grimalkin
 date: 2023-03-05
+dg-path: Compendium/Kara Grimalkin/ETERNITY_KARA_GRIMALKIN.md
 image: Kara_illustration_commission.png
 name: ETERNITY_KARA_GRIMALKIN
 share: true
@@ -10,6 +11,7 @@ univers: ETERNITY
 ---
 
 %% original : [[./index|Kara Grimalkin]] %%
+%% [[Kara|Kara]] %%
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p><h1 style="text-align:right">IDENTITÉ</h1>
 
