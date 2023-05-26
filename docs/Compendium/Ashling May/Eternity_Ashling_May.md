@@ -27,7 +27,7 @@ sticker: 1f3d3
 ➤ **Nom** : May
 ➤ *Alias* : « Sola-UI » | « Ekraminarok »
 ➤ **Âge** : 26
-
+➤ *Anniversaire* : 30/10
 ➤ **Affiliation** : Légion
 ➤ **Classe Sociale** : (Très) aisée
 
@@ -109,6 +109,11 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 
 ## Compétences
 
+**[NEURAL LINK]**
+[Passif]
+*Ash utilise son pouvoir pour connecter son esprit à un appareil électronique, pour pouvoir le hacker sur **puissance**. Elle ne peut pas prendre le contrôle des objets.
+- Inutilisable en combat
+
 **[SWITCH]**
 [Passif]
 *Pour chaque type d'invocation, Ashling gagne un bonus sur son utilisation suivante. Si l'objet n'est pas utilisé, le bonus est perdu. Une invocation coûte **`[1]`** de BATTERIE.*
@@ -132,10 +137,13 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 [Actif, 10 BATTERIE]
 *Ashling invoque 4 lance-grenades qui vont tous tirer en même temps sur son adversaire, infligeant `2d5` dégâts par canon (Jet d'opposition - Puissance).*
 - Malus de `-10` pour esquiver l'attaque.
-- Tous les objets invoqués par Ashling seront détruits pour permettre l'invocation des railguns.
+- Tous les objets invoqués par Ashling seront détruits pour permettre l'invocation des lance-grenades.
 - Elle ne pourra pas plus utiliser son pouvoir pendant `1d2` tours, la faisant rentrer dans l'état `SURCHARGÉ`
 
-
+**[RECHARGE]**
+[Actif, 1 BATTERIE]
+*Ashling utilise son tour pour récupérer `1d3+1` BATTERIE*
+- Cooldown de `3` tours
 
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p>
@@ -143,3 +151,10 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 > [!music] BGM
 > https://www.youtube.com/playlist?list=PLEoAQrEiQaVOfIwOSGDH_wen1hIqTXarj
 
+### Informations privées
+
+Ashling possède des cicatrices liées à des incisions, sous les bras, aux niveaux des veines. Elle a aussi un tatouage à moitié effacé au niveau du cul avec un code barre lié aux expériences de la Shihai. 
+Il y aussi une longue incision le long de sa colonne vertébrale. 
+
+![[../../assets/img/SOLAUI.png|+side]]
+![[../../assets/img/ASH-LYNMAMECHI.png|+side]]
