@@ -9,10 +9,10 @@ genre: PJ
 image: Commission Feilyn.png
 name: Eternity_Ashling_May
 share: true
+sticker: 1f3d3
 title: "[ETERNITY] ASHLING « SOLA UI » MAY"
 type: Fiche
 univers: ETERNITY
-sticker: 1f3d3
 ---
 
 %% original : [[./index|Ashling May]] %%
@@ -47,7 +47,7 @@ sticker: 1f3d3
 
 ## Histoire
 
-Ashling May est née dans la famille May-Kaiba, dirigeant la multinationale "Shihai-Keiretsu Cybernetics". Cependant, ses parents étant très occupée, Ashling est confiée très tôt au bon soin de différents précepteurs, avant d'être dans un internat dès son primaire. De fait, elle grandit sans avoir de famille… Enfant capricieuse mais hyper intelligente, elle ne laisse aucun répit à ses différentes écoles, bien qu'elle obtint des résultats qui ferait peur à n'importe quel professeur… Elle obtient donc, tout le long de sa scolarité, les meilleurs résultats de toute l'histoire de l'école — bien que son dossier social soit catastrophique.
+Ashling May est née dans la famille May-Kaiba, dirigeant la multinationale "Shihai-Keiretsu Cybernetics". Cependant, ses parents étant très occupée, Ashling est confiée très tôt au bon soin de différents précepteurs, avant d'être dans un internat dès son primaire. De fait, elle grandit sans avoir de famille… Enfant capricieuse mais hyper intelligente, elle ne laisse aucun répit à ses différentes écoles, bien qu'elle obtint des résultats qui ferait peur à n'importe quel professeur… Elle obtient donc, tout le long de sa scolarité, les meilleurs résultats de toute l'histoire de l'école—bien que son dossier social soit catastrophique.
 
 Peu à peu, à cause de son caractère, elle développe une haine et un rejet absurde de sa famille, probablement lié au développement de ses pouvoirs, qui lui permettent de découvrir dans quoi trempe ses parents. Bien qu'elle se fiche totalement du fait qu'ils sont corrompus jusqu'à l'os, elle détesta être utilisée comme un outil, et être jeté parce qu'elle leur a sciemment caché le développement de ses capacités de technopathe et d'hacking.
 Bien que sa famille l'ait plus ou moins radié, elle continue de recevoir leur soutient. Un équilibre précaire s'est créé dans les deux, où le consortium considère Ashling comme trop dangereuse pour qu'ils puissent faire quoique ce soient contre elle.
@@ -68,7 +68,7 @@ Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caract
 
 <p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOMAGE ⌋</h1>
 
-> [!infobox]
+> [!wiki]
 > | Statistiques | Valeur |
 > | ------------ | ------ |
 > | Force        | 20     |
@@ -95,7 +95,7 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 
 ## FAIBLESSES
 - Les EMPs désactivent temporairement ses pouvoirs pendant `1d3` tours. Par contre, les objets déjà invoqués ne sont pas détruits.
-- Les attaques électriques (même si encaissée) donne le statut **[LAG]** à Ashling, pendant `1d2+1` tour (non cumulable) : 
+- Les attaques électriques (même si encaissée) donne le statut **[LAG]** à Ashling, pendant `1d2+1` tour (non cumulable) :
 	- Les invocations prennent un tour complet (et ne comptent donc plus pour des actions gratuites)
 	- Les cooldowns en cours gagnent +`[LAG]` tour(s)
 
@@ -153,8 +153,10 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 
 ### Informations privées
 
-Ashling possède des cicatrices liées à des incisions, sous les bras, aux niveaux des veines. Elle a aussi un tatouage à moitié effacé au niveau du cul avec un code barre lié aux expériences de la Shihai. 
-Il y aussi une longue incision le long de sa colonne vertébrale. 
+Ashling possède des cicatrices liées à des incisions, sous les bras, aux niveaux des veines. Elle a aussi un tatouage à moitié effacé au niveau du cul avec un code barre lié aux expériences de la Shihai.
+Il y aussi une longue incision le long de sa colonne vertébrale.
+
+Le code correspondant au tatouage est `[63010]`, code arbitraire créée à partir du moment où elle a été inscrite dans le programme (à 6 mois de grossesse de sa mère), quand 10/30 corresponde à sa date de naissance. 
 
 ![[../../assets/img/SOLAUI.png|+side]]
 ![[../../assets/img/ASH-LYNMAMECHI.png|+side]]
