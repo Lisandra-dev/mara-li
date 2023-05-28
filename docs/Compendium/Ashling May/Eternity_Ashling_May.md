@@ -72,14 +72,16 @@ Le souci dans toutes ses histoires, c'est que beaucoup de ces morceaux de caract
 > | Statistiques | Valeur |
 > | ------------ | ------ |
 > | Force        | 20     |
-> | Perception   | 50     |
+> | Perception   | 55     |
 > | Agilité      | 50     |
 > | Constitution | 30     |
 > | Psychologie  | 25     |
 > | Puissance    | 70     |
-> | Intelligence | 70     |
+> | Intelligence | 65     |
 > | PV           |80|
 > |PV (hack)| 5      |
+> | Ressource | Batterie |
+> | Dégâts | +4 |
 
 Ashling a trouvé le moyen d'utiliser son pouvoir de manière inversée : Au lieu de projeter son esprit dans les objets et données électroniques, Ashling tire les données et les utilise pour créer n'importe quel objet, mais aussi créer des sortilèges.
 
@@ -111,13 +113,13 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 
 **[NEURAL LINK]**
 [Passif]
-*Ash utilise son pouvoir pour connecter son esprit à un appareil électronique, pour pouvoir le hacker sur **puissance**. Elle ne peut pas prendre le contrôle des objets.
+*Ash utilise son pouvoir pour connecter son esprit à un appareil électronique, pour pouvoir le hacker sur **puissance**. Elle ne peut pas prendre le contrôle des objets.*
 - Inutilisable en combat
 
 **[SWITCH]**
 [Passif]
 *Pour chaque type d'invocation, Ashling gagne un bonus sur son utilisation suivante. Si l'objet n'est pas utilisé, le bonus est perdu. Une invocation coûte **`[1]`** de BATTERIE.*
-- ***Légère*** : Inflige `1d2` stack de [SAIGNEMENT] pour `-1d5` PV pendant `1d2` tours
+- ***Légère*** : Inflige `1d2` stack de [SAIGNEMENT] pour `-1d3` PV pendant `1d2` tours
 - ***Moyenne :*** Inflige [PARALYSIE] pendant `1d3` tours
 - ***Lourde :*** Inflige [ÉTOURDISSEMENT] pendant `1d2` tours
 - ***Équipements :*** Donne aléatoirement `1` stack de bonus pendant `1d2` tours, pour la personne ayant obtenu l'objet. Les bonus d'objet ne peuvent pas se superposer. C'est toujours le bonus du dernier objet invoqué qui prime.
