@@ -4,7 +4,6 @@ category: Compendium/Ashling May
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
 date: 2023-02-26
 description: (ETERNITY) Fiche de Ashling May, une hackeuse de génie lâche et égocentrique
-dg-path: Compendium/Ashling May/Eternity_Ashling_May.md
 genre: PJ
 image: Commission Feilyn.png
 name: Eternity_Ashling_May
@@ -109,7 +108,7 @@ Ashling possède maintenant un masque qui lui permet de voir ses statistiques, s
 - L'invocation d'un objet compte pour une action gratuit, mais une seule invocation n'est possible par tour.
 - Il n'est pas possible d'invoquer des objets trop complexes ou de petites tailles.
 
-## Compétences
+## COMPÉTENCES
 
 **[NEURAL LINK]**
 [Passif]
