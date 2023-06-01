@@ -4,7 +4,7 @@ cover: _assets/_REFERENCES/Alwyn Kallendris/portrait.jpg
 date: 2023-05-30
 description: Un génie égocentrique, qui a disparu pendant dix ans et qui est revenue pour tout détruire. Littéralement.
 genre: PJ
-Image: Alwyn Kallendris-1685398920680.jpg
+image: _assets/_REFERENCES/Alwyn Kallendris/portrait.jpg
 share: true
 sticker: 1f573-fe0f
 title: "[ETERNITY] Alwyn « Pathfinder » Kallendris"
@@ -145,7 +145,7 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 **[Déconstruction]**
 [Actif, 5 MANA]
 *En déstructurant les interactions élémentaires des atomes composant un objet, Alwyn le fait exploser.*
-- **Dégât** : `3d5` + **Brûlure** 
+- **Dégât** : `3d5` + **Brûlure**
 - L'objet peut nécessiter d'être lancé (`[Perception]`)
 - Ne fonctionne pas sur le vivant
 - La taille de l'objet ne peut pas dépasser celui de sa main (impossible de détruire un mur complet, seule la partie touchée par sa main sera brisée)
