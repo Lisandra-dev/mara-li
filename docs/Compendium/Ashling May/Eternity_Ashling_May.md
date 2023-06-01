@@ -15,8 +15,6 @@ univers: ETERNITY
 ---
 
 %% original : [[./index|Ashling May]] %%
-%% [[Ashling « Sola UI » May|Wiki]] %%
-
 
 <p style="text-align:center;font-weight: bold">━━━━━━━━━▲━━━━━━━━━</p><h1 style="text-align:right">IDENTITÉ</h1>
 
@@ -159,5 +157,5 @@ Il y aussi une longue incision le long de sa colonne vertébrale.
 
 Le code correspondant au tatouage est `[63010]`, code arbitraire créée à partir du moment où elle a été inscrite dans le programme (à 6 mois de grossesse de sa mère), quand 10/30 corresponde à sa date de naissance.
 
-![[../../assets/img/SOLAUI.png|+side]]
-![[../../assets/img/ASH-LYNMAMECHI.png|+side]]
+![[../../assets/img/SOLAUI-1-1.png|+side]]
+![[../../assets/img/ASH-LYNMAMECHI-1-1.png|+side]]
