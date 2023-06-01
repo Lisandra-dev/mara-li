@@ -1,10 +1,11 @@
 ---
 category: Compendium/Alwyn Kallendris
-cover: _assets/_REFERENCES/Alwyn Kallendris/portrait.jpg
+cover: _assets/_REFERENCES/Alwyn Kallendris/Alwyn Kallendris-1685400225620.png
 date: 2023-05-30
-description: Un génie égocentrique, qui a disparu pendant dix ans et qui est revenue pour tout détruire. Littéralement.
+description: Un génie égocentrique, qui a disparu pendant dix ans et qui est
+  revenue pour tout détruire. Littéralement.
 genre: PJ
-image: _assets/_REFERENCES/Alwyn Kallendris/portrait.jpg
+image: _assets/_REFERENCES/Alwyn Kallendris/Alwyn Kallendris-1685400225620.png
 share: true
 sticker: 1f573-fe0f
 title: "[ETERNITY] Alwyn « Pathfinder » Kallendris"
