@@ -3,7 +3,6 @@ category: Compendium/Alwyn Kallendris
 cover: _assets/_REFERENCES/Alwyn Kallendris/Alwyn Kallendris-1685400225620.png
 date: 2023-05-30
 description: Un génie égocentrique, qui a disparu pendant dix ans et qui est
-  revenue pour tout détruire. Littéralement.
 genre: PJ
 image: Alwyn Kallendris-1685400225620.png
 share: true
@@ -105,6 +104,7 @@ Oui. Même si cela consiste à y mourir.
 - Elle ne supporte pas de montrer ses mains, et personne ne sait pourquoi.
 - Ses lunettes sont totalement inutiles et elle a une excellente vue
 - Son pseudo « Pathfinder » lui vient du fait qu'elle retrouve **toujours** son chemin.
+- Par son expérience dans l'espace, Alwyn connaît l'existence de la Chair. Difficile à dire qu'elle ait voyagé dans l'espace-temps de cette dernière ; ou si la race de la Chair existe dans différents univers.
 
 <p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p>
 <h1 style="text-align:right">⌈ ELECTROMAGNÉTISME ⌋</h1>
@@ -123,8 +123,8 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 > | Intelligence |     60 |
 > | PV           |70|
 > |PV (hack)|6 |
-> | Ressource | MANA |
-> | Dégâts | +4 |
+> | Ressource | MANA 15 |
+> | Dégâts | +2 |
 
 **Niveau** : 1
 
@@ -146,11 +146,11 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 **[Déconstruction]**
 [Actif, 5 MANA]
 *En déstructurant les interactions élémentaires des atomes composant un objet, Alwyn le fait exploser.*
-- **Dégât** : `3d5` + **Brûlure**
+- **Dégât** : `3d5` + **Brûlure** 
 - L'objet peut nécessiter d'être lancé (`[Perception]`)
 - Ne fonctionne pas sur le vivant
-- La taille de l'objet ne peut pas dépasser celui de sa main (impossible de détruire un mur complet, seule la partie touchée par sa main sera brisée)
- - Ne fonctionne pas sur les objets non-conducteurs
+- La taille de l'objet ne peut pas dépasser celui de sa main (impossible de détruire un mur complet, seule la partie touchée par sa main sera brisée) |
+|  - Ne fonctionne pas sur les objets non-conducteurs |
  - Action gratuite
 
 **[Onde de choc]**
