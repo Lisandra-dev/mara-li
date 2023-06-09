@@ -3,7 +3,7 @@ category: Compendium/Alwyn Kallendris
 cover: _assets/_REFERENCES/Alwyn Kallendris/Alwyn Kallendris-1685400225620.png
 cssclass: novelist
 date: 2023-05-30
-description: Un génie égocentrique, qui a disparu pendant dix ans et qui est
+description: "Un génie égocentrique, qui a disparu pendant dix ans et qui est revenue pour tout exploser. Littéralement."
 genre: PJ
 image: Alwyn Kallendris-1685400225620.png
 share: true
