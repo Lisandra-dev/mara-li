@@ -72,7 +72,7 @@ Un futur, non, un espace-temps différent. Un endroit sans Aederite, mais où l'
 Elle en avait profité. Sans vieillir, elle avait exploré et survécu.
 Pirate, combattante, livreuses, chercheuse.
 
-Dans ces pérégrinations, elle fait la rencontre de `[x]`, chercheur dans cet univers. Les deux nouent un partenariat et une sorte d'amitié.
+Dans ces pérégrinations, elle fait la rencontre de Gat’li,[^1] chercheur dans cet univers. Les deux nouent un partenariat et une sorte d'amitié.
 
 Jamais elle n'avait laissé tomber.
 Et maintenant, tout était prêt pour revenir dans « ce monde ». Un allé simple. Quel dommage.
@@ -80,7 +80,6 @@ Et maintenant, tout était prêt pour revenir dans « ce monde ». Un allé simp
 Ses calculs, ses théories… Tout concordait. Tout concordait beaucoup trop bien. Elle devait rentrer.
 
 ---
-
 L'avantage d'Eternity, c'est qu'il y avait beaucoup d'explosions.
 La grande femme sortie des décombres et se craqua les muscles. Huma l'air. Ouais.
 Aucun commentaire…
@@ -88,7 +87,6 @@ Aucun commentaire…
 Jusqu'à remarquer qu'elle avait "embarqué" son partenaire. Ils continueront leur partenariat dans ce monde, quitte à ouvrir un portail permanent entre les deux espaces, à l'aide de l'Aederite, de leurs capacités ainsi que leurs recherches respectives.
 
 ---
-
 Difficile d'expliquer la surprise des policiers quand elle se présenta à eux. Une morte, qui n'avait pas vieilli, disparu depuis une dizaine d'années que personne ne cherchait et ne voulait pas voir réapparaître.
 
 —Oui, je suis le Dr. Alwyn Kallendris. Non, je ne suis pas morte. Faites un test ADN, si vous voulez. Je veux récupérer mes comptes, mes affaires et mes recherches. \[…] Comment ça, mes recherches sont inaccessibles ?
@@ -166,3 +164,5 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 - Impossible si Alwyn n'a plus de bouclier
 - Alwyn perd le bouclier (qui réapparaîtra trois tours plus tard)
 - Occasionne `Etourdissement` pendant `1d3` tours.
+
+[^1]: Personnage d'Adrore
