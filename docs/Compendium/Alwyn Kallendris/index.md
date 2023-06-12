@@ -42,7 +42,7 @@ Univers: ETERNITY
 
 ## Histoire
 
-Peu de choses sont connus sur le Dr. Alwyn Kallendris, qui a disparu il y a dix ans dans l'explosion de son laboratoire. Ce que l'on sait sur elle ? Elle était une éminente scientifique dans le domaine de la physique quantique et newtonienne, travaillant pour les plus grands laboratoires, sur les portails interdimensionnel, les trou de vers, noirs, ou encore la téléportation et évidemment, l'Aederite.
+Peu de choses sont connus sur le Dr. Alwyn Kallendris, qui a disparu il y a sept ans dans l'explosion de son laboratoire. Ce que l'on sait sur elle ? Elle était une éminente scientifique dans le domaine de la physique quantique et newtonienne, travaillant pour les plus grands laboratoires, sur les portails interdimensionnel, les trou de vers, noirs, ou encore la téléportation et évidemment, l'Aederite.
 
 Évidemment, elle n'est pas d'Eternity, car aucun membre de sa famille (même lointaine) s'est manifesté après sa disparition, et elle n'a pas non plus d'héritier connu, si bien que ses fonds ont juste été gelés.
 
@@ -65,7 +65,7 @@ Elle se rappelait distinctement l'homme glisser le cristal dans l'accélérateur
 Elle se rappelait d'avoir sourit.
 Parce qu'elle avait perdu.
 
-Qu'est ce qu'elle aurait put bien faire ? Elle avait accueillie l'explosion en haussant les épaules : « C'est comme ça ? ». Sauf qu'elle n'était pas morte. Son pouvoir, et l'accélérateur avait interagit ensemble et l'avait envoyé… Ailleurs.
+Qu'est ce qu'elle aurait pû bien faire ? Elle avait accueillit l'explosion en haussant les épaules : « C'est comme ça ? ». Sauf qu'elle n'était pas morte. Son pouvoir, et l'accélérateur avait interagit ensemble et l'avait envoyé… Ailleurs.
 
 Un futur, non, un espace-temps différent. Un endroit sans Aederite, mais où l'humanité avait quitté depuis quelque siècle le berceau qu'était la terre pour explorer l'espace. Et quel espace ! Occupée par de nombreuses espèces « aliens », avec une humanité minoritaire. Cela ne dérange pas Alwyn.
 
@@ -137,14 +137,14 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 - Un couteau
 
 ## Faiblesses
-- **_Sensibilité aux interférences_** : Des champs électromagnétiques trop puissants (notamment ceux générés par des équipements électriques complexes comme des Ae, robots, cyborg ou des IEM) ou des installations électriques *interfèrent* avec son pouvoir, le rendant plus difficile à manipuler (malus de statistique de -10).
-- **_Conduction_** : Le pouvoir ne peut pas agir sur les objets conducteurs et Alwyn ne peut pas utiliser son pouvoir dans ou sur des protections électromagnétiques (cage de Faraday).
+- **_Sensibilité aux interférences_** : Des champs électromagnétiques trop puissants (notamment ceux générés naturellement par des équipements électriques complexes comme des Ae, robots, cyborg ou des IEM) ou des installations électriques *interfèrent* avec son pouvoir, le rendant plus difficile à manipuler (malus de statistique de -15).
+- **_Conduction_** : Le pouvoir ne peut pas agir sur les objets non-conducteurs et Alwyn ne peut pas utiliser son pouvoir dans ou sur des protections électromagnétiques (cage de Faraday).
 
 ## Compétences
 
 **[Bouclier électromagnétique]**
 *~~[Passif]~~*
-*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `4d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison) ainsi que les malus (étourdissement, gel), sauf la paralysie.*
+*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `6d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison) ainsi que les malus (étourdissement, gel), sauf la paralysie.*
 - Le bouclier ne se superpose pas
 - Tant que le bouclier est actif, Alwyn possède une résistance naturelle aux dégâts électriques : les dégâts sont donc diminués de `2d3` PV sur les dégâts totaux, et elle ne peut pas être paralysée.
 
