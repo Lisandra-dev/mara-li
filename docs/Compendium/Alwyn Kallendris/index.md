@@ -149,9 +149,10 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 - Tant que le bouclier est actif, Alwyn possède une résistance naturelle aux dégâts électriques : les dégâts sont donc diminués de `2d3` PV sur les dégâts totaux, et elle ne peut pas être paralysée.
 
 **[Déconstruction]**
-~~*[Actif, 5 MANA]*~~
+*[Actif, 4 MANA]*
 *En déstructurant les interactions élémentaires des atomes composant un objet, Alwyn le fait exploser.*
-- **Dégât** : `3d5` + **Brûlure**
+- **Dégât** : `3d5` 
+- Inflige **Brûlure**
 - L'objet peut nécessiter d'être lancé (`[Perception]`)
 - Ne fonctionne pas sur le vivant
 - La taille de l'objet ne peut pas dépasser celui de sa main (impossible de détruire un mur complet, seule la partie touchée par sa main sera brisée)
