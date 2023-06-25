@@ -27,7 +27,7 @@ tags:
 - Disparition de l'Éden dans l'Ether et bannissement du clan, devenant les "Ange Déchus."
 - Éclatement des Enfers en cité états indépendantes.
 - Disparition des canaux souterrains reliant les cités Infernales.
-  <br>
+<br>
 
 # Moyen-Âge
 
