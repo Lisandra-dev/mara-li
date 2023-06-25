@@ -1,10 +1,12 @@
 ---
 category: Scriptorium/Vélum
-share: true
+description: Iframe de la carte de la ville, sans les descriptions.
+dg-path: Scriptorium/Vélum/Nibelhiem.md
+dg-publish: true
 obsidianUIMode: preview
+share: true
 type: Carte
 univers: Bibliothèque Infinie
-description: Iframe de la carte de la ville, sans les descriptions.
 tags:
   - center
   - RP_Bibliothèque-Infinie_Carte
