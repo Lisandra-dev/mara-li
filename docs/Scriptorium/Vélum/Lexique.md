@@ -1,16 +1,17 @@
 ---
 category: Scriptorium/Vélum
-share: true
+description: Lexique du RP, pas dans l'ordre alphabétique
+dg-path: Scriptorium/Vélum/Lexique.md
+dg-publish: true
 publish: false
+share: true
+tag: RP/Bibliothèque-Infinie/Liste/Lexique
 type: Lexique
 univers: Bibliothèque Infinie
-description: Lexique du RP, pas dans l'ordre alphabétique
-tags: 
-  - RP
-  - Bibliothèque-Infinie
-  - Liste
-  - Lexique
+tags:
+  - RP_Bibliothèque-Infinie_Liste_Lexique
 ---
+
 
 - **<u>Clairvoyant</u>**: Humain étant capable de percevoir le monde de l'Invisible, et pouvant posséder - ou non - des capacités surnaturelles ou d'arts magiques.
   _Exemple_ : Sorcier·ère, Mage, Médium, Élémentaliste...
