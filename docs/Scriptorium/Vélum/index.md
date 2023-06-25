@@ -24,7 +24,7 @@ Certains humains sont capables de les percevoir et vivre entre les deux mondes :
 
 Les Évoqués ne sont qu'à moitié invisible, possédant des caractéristiques anormales dépassant le concept d'Être Humain.
 
-Et les chimères... Les chimères ne vivent pas avec les humains. Ils sont imperméables à leur réalité. Un humain ne peut pas concevoir son existence sans en devenir fou... Ou sans devenir un Clairvoyant.
+Et les chimères… Les chimères ne vivent pas avec les humains. Ils sont imperméables à leur réalité. Un humain ne peut pas concevoir son existence sans en devenir fou… Ou sans devenir un Clairvoyant.
 
 Les lois de la réalité ont été créées par les Hommes pour comprendre le monde qui l'entoure, car incapable d'imaginer d'autres explications.
 
