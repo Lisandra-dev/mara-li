@@ -1,9 +1,12 @@
 ---
-name: Vélum
 category: Scriptorium/Vélum
+description: "Contexte générale de Vélum, un urban fantaisie humoristique qui se
+  déroule en France en 2030. "
+dg-path: Scriptorium/Vélum/Vélum.md
+dg-publish: true
+name: Vélum
 share: true
 type: Contexte
-description: Contexte générale du RP
 tags:
   - RP_Bibliothèque-Infinie_Description_Contexte
 ---
@@ -27,7 +30,7 @@ Les lois de la réalité ont été créées par les Hommes pour comprendre le mo
 
 ---
 
-Aralicia, île volcanique située sur le point Nemo de l'hémisphère sud, et n'apparaissant sur aucune carte, est la capitale de ce monde. Dirigée par une famille Royale et un conseil démocratique depuis presque mille ans, elle est un lieu de réunion et repos pour les Invisibles, et ne se mêle pas de la vie Visible. Les Araliciens se sont retirés de la vie Humaine, mais la politique est changeante, même pour des espèces millénaires et immortelles.
+Aralicia, île volcanique située sur le point Nemo de l'hémisphère sud, et n'apparaissant sur aucune carte, est la capitale de ce monde. Dirigée par une famille Royale et un conseil démocratique depuis presque cinq cent ans, elle est un lieu de réunion et repos pour les Invisibles, et ne se mêle pas de la vie Visible. Les Araliciens se sont retirés de la vie Humaine, mais la politique est changeante, même pour des espèces millénaires et immortelles.
 
 ---
 
@@ -38,9 +41,3 @@ C'est pour sa proximité avec les deux mondes que l'Écho, une organisation secr
 Mais, face à eux, en plus des Chimères incontrôlables, de Clairvoyants maléfiques ou d'humains devenus fous, se trouve les Révélateurs. Bien qu'ayant des horizons et des objectifs différents, tous ont pour but de lever l'Ether et révéler au monde l'existence de l'invisible.
 
 ---
-
-Et puis. Il y a les Rêveurs. Un joker. Des jokers.
-
-Leur sélection est inconnue, mais tous ont accès à un lieu étrange entre rêve et réalité : La Bibliothèque infinie, habitée par une étrange Déité Gardienne, et dont on raconte qu'elle regroupe l'ensemble des écrits que les Consciences ont écrits, écrivent et écriront.
-
-Dans ce lieu, les Rêveurs peuvent se retrouver, en sécurité, en faisant fit des lois d'espaces et de temps de la Réalité.
