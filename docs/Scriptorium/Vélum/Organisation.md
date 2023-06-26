@@ -25,6 +25,11 @@ Certains veulent voir l'écho comme une espèce de police du paranormale, mais l
 
 L'Echo n'a pas réellement de chef identifié, et chaque cellule est dirigée différemment. Généralement, les cellules communiques rarement entre elle, bien qu'il y ait des réunions lorsque des événement exceptionnels et menaçant l'équilibre visible - invisibles, apparaissent.
 
+L'Echo n'enquête pas pour les affaires de troubles à l'ordre à l'ordre public et ne substitue pas à la police. Ils agissent quand ils le souhaitent et peuvent prendre des contrats, qui peuvent être :
+- Assassinat 
+- Enquête privée
+Ils peuvent aussi agir s'ils estiment qu'il y a un danger pour les invisibles (ou les embrumés). Ils font fit des lois et ont tendance à être quelque peu explosif.
+
 %%tag: #Echo %%
 
 # Les Révélateurs
