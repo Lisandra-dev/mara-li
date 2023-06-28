@@ -19,7 +19,7 @@ Univers: ETERNITY
 ➤ **Prénom** : Alwyn `[Al-ouïne]`
 ➤ **Nom** : Kallendris
 ➤ *Alias* : *Pathfinder*
-➤ **Âge** : 33 ans (N'a pas vieilli)
+➤ **Âge** : 33 ans (Apparence) — 40 ans (Réel)
 ➤ *Anniversaire* : 04/04
 
 ➤ **Affiliation** : Civil
@@ -61,11 +61,12 @@ Non, tous les jours c'était exagérée.
 Son esprit divaguait souvent. Elle pensait à cette planète, dévorée par des créatures du néant. Marcher sous le Soleil Noir et y survivre était une expérience.
 
 Elle secoua la tête.
-Elle se rappelait distinctement l'homme glisser le cristal dans l'accélérateur de particule.
+Elle se rappelait distinctement voir **Papa** glisser le cristal dans l'accélérateur de particule. Après tout, il voulait ses recherches…
+
 Elle se rappelait d'avoir sourit.
 Parce qu'elle avait perdu.
 
-Qu'est ce qu'elle aurait pû bien faire ? Elle avait accueillit l'explosion en haussant les épaules : « C'est comme ça ? ». Sauf qu'elle n'était pas morte. Son pouvoir, et l'accélérateur avait interagit ensemble et l'avait envoyé… Ailleurs.
+Qu'est ce qu'elle aurait pu bien faire ? Elle avait accueillit l'explosion en haussant les épaules : « C'est comme ça ? ». Sauf qu'elle n'était pas morte. Son pouvoir, et l'accélérateur avait interagit ensemble et l'avait envoyé… Ailleurs.
 
 Un futur, non, un espace-temps différent. Un endroit sans Aederite, mais où l'humanité avait quitté depuis quelque siècle le berceau qu'était la terre pour explorer l'espace. Et quel espace ! Occupée par de nombreuses espèces « aliens », avec une humanité minoritaire. Cela ne dérange pas Alwyn.
 
@@ -144,9 +145,9 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 
 **[Bouclier électromagnétique]**
 ==[Passif]==
-*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `6d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison) ainsi que les malus (étourdissement, gel), sauf la paralysie.*
+*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `6d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison) ainsi que les malus (étourdissement, gel).*
 - Le bouclier ne se superpose pas
-- Tant que le bouclier est actif, Alwyn possède une résistance naturelle aux dégâts électriques : les dégâts sont donc diminués de `2d3` PV sur les dégâts totaux, et elle ne peut pas être paralysée.
+- Tant que le bouclier est actif, Alwyn possède une résistance naturelle aux dégâts électriques : les dégâts sont donc diminués de `2d3` PV sur les dégâts totaux.
 
 **[Déconstruction]**
 ==[Actif, 4 MANA]==
@@ -157,7 +158,10 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 - Ne fonctionne pas sur le vivant
 - La taille de l'objet ne peut pas dépasser celui de sa main (impossible de détruire un mur complet, seule la partie touchée par sa main sera brisée)
 - Ne fonctionne pas sur les objets non-conducteurs
- - Action gratuite
+- Action gratuite
+	- *__Activation__* : Puissance
+	- *__Lancer__* : Perception (si nécessaire)
+	- **_Opposition_** : *Défense*
 
 **[Onde de choc]**
 ==[Actif, 8 MANA]==
@@ -165,5 +169,7 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 - Impossible si Alwyn n'a plus de bouclier
 - Alwyn perd le bouclier (qui réapparaîtra trois tours plus tard)
 - Occasionne `Etourdissement` pendant `1d3` tours.
+- **_Activation_** : Puissance
+- *___Opposition__* : Défense
 
 [^1]: Personnage d'Adrore
