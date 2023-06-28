@@ -145,14 +145,14 @@ Alwyn est une éther capable de contrôler les forces électromagnétiques. Cela
 
 **[Bouclier électromagnétique]**
 ==[Passif]==
-*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `6d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison) ainsi que les malus (étourdissement, gel).*
-- Le bouclier ne se superpose pas
+*Alwyn génère naturellement tous les trois tours un bouclier électromagnétique qui protège de `6d2` PV, mais laisse passer les dégâts sur la durée (Saignement, poison, etc…) ainsi que les malus (étourdissement, gel, etc…).*
+- Les boucliers ne se superposen pas
 - Tant que le bouclier est actif, Alwyn possède une résistance naturelle aux dégâts électriques : les dégâts sont donc diminués de `2d3` PV sur les dégâts totaux.
 
 **[Déconstruction]**
 ==[Actif, 4 MANA]==
 *En déstructurant les interactions élémentaires des atomes composant un objet, Alwyn le fait exploser.*
-- **Dégât** : `3d5` 
+- **Dégât** : `3d5`
 - Inflige **Brûlure**
 - L'objet peut nécessiter d'être lancé (`[Perception]`)
 - Ne fonctionne pas sur le vivant
