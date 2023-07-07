@@ -1,8 +1,8 @@
 ---
+category: Scriptorium/Vélum
 date: 2023-07-01
 icon: remixicons/SunFoggyLine
 share: true
-category: Scriptorium/Vélum
 ---
 _L'action se déroule en 2030, la technologie est légèrement plus avancée, et les objets techno-magiques sont courants dans le monde éthéré_
 
