@@ -35,7 +35,7 @@ Au sein de la police même, les éthérés seront généralement vus comme des c
 La seule exception est dans l'armée : les pays n'ont pas le droit d'engager des éthérés pour combattre, car les conséquences pourraient être terribles. Cela dit, ce n'est pas parce que c'est interdit que cela n'a pas été faits : nombreuses sont les expériences sur, pour et par les éthérés. À cause de cela, l'Echo était très actif durant la Seconde Guerre mondiale.
 Notons que seul Aralicia a, officiellement, une armée magique (bien qu'elle soit évidemment secrète pour les embrumés).
 
-En outre, tous les pays ont une section — gardée secrète — composés d'éthérés : la confiance n'exclue pas le contrôle. On peut les considérer comme des sections d'espionnage et de contre-espionnage. 
+En outre, tous les pays ont une section — gardée secrète — composés d'éthérés : la confiance n'exclue pas le contrôle. On peut les considérer comme des sections d'espionnage et de contre-espionnage.
 
 # Technologie
 
