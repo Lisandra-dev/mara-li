@@ -21,7 +21,7 @@ La statistique à rechercher peut être écrite en abrégée ou en entière. Les
 
 ## Caractère spéciaux
 
-- `&` : Indique votre personnage (si vous avez un personnage secondaire !)
+- `&` : Indique l'alias de votre personnage. Utilisable uniquement si vous avez un DC ou des PNJ avec une fiche. Équivalent à `alias` dans la commande slash.
 - `#` : Ajoute un commentaire
 - `>` ou `<` : Change le seuil de réussite (voir [[./index#Jets neutres|Gameplay > Jets neutres]]). Vous pouvez indiquer une valeur absolue (comme `10`) pour fixer une réussite manuelle.
 - `+` : Ajoute un bonus
@@ -41,7 +41,7 @@ Le caractère `#` permet d'ajouter un commentaire à la commande. Il doit être 
 Fonctionne comme la commande précédente, à la différence qu'il n'est pas possible d'indiquer un seuil. Cela est remplacé par "CC", pour indiquer un coup-critique, qui doublera les dégâts.
 
 De fait, les caractères spéciaux utilisables sont les suivants :
-- `&` : Indique votre personnage secondaire
+- `&` : Indique votre personnage secondaire/PNJ (cf `alias`)
 - `#` : Ajoute un commentaire
 - `+` : Ajoute un bonus
 - `-` : Ajoute un malus
@@ -50,10 +50,12 @@ De fait, les caractères spéciaux utilisables sont les suivants :
 # Autres commandes :
 
 - __Voir ses statistiques__ : Utiliser les slash commandes de [Vélum](https://github.com/Lisandra-dev/Velum-bot) avec la commande `/get`. 
-- Ouvrir un ticket : `!open (raison optionnelle) `
+	- N'utiliser `alias` que si vous avez besoin de voir les stats d'un personnage secondaire ou d'un PNJ.
+- Ouvrir un ticket : `/ticket open ` (avec [Vélum](https://github.com/Lisandra-dev/Velum-bot))
 - Afficher la météo : `!meteo`
 - Indiquer son arrivée dans un endroit : `!arrive (nom du perso)`
 - Indiquer son départ : `!depart (nom du perso)`
+- Calculer des bonus : `/stat` avec @[Vélum](https://github.com/Lisandra-dev/Velum-bot)
 
 ## Note à propos de l'affichage
 
