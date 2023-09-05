@@ -1,5 +1,5 @@
 ---
-description: 'Quelques screenshots du personnage "Kara Grimalkin". Notes : La plupart des vêtements et des textures sont moddées.'
+description: Quelques screenshots du personnage Kara Grimalkin. Notes: La plupart des vêtements et des textures sont moddées.
 image: Kara-Civil-Realist.png
 name: Kara_ref_img
 share: ✅

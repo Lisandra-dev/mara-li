@@ -13,3 +13,6 @@ example.html
 Pipfile
 Pipfile.lock
 docs/assets/js/dev.js
+site/
+*_mkdocs_build.log
+*_mkdocs_debug.zip
