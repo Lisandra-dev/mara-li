@@ -1,12 +1,12 @@
 ---
+category: outils/tutoriel
+name: ZoteroPandocObsidianTuto
+share: true
 tags:
   - Obsidian
   - Pandoc
   - Fac
   - Tutoriel
-share: true
-category: outils/tutoriel
-name: ZoteroPandocObsidianTuto
 title: Pandoc, Obsidian, report & Zotero
 ---
 
@@ -105,7 +105,7 @@ fignos-plus-name: figure
 
 # L'écriture
 Maintenant, vous pouvez utiliser n'importe quel logiciel pour ouvrir des fichiers markdown pour rédiger votre mémoire.
-Personnellement, j'utilise [Obsidian](https://obsidian.md/)avec [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)et [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector)
+Personnellement, j'utilise [Obsidian](https://obsidian.md/)avec [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) et [Zotero Desktop Connector](https://github.com/mgmeyers/obsidian-zotero-desktop-connector)
 
 Pour :
 - Citer un article : Copier/coller la clé pandoc tel que : `[@auteurNomannée]` comme `[@chenAgeassociatedSARSCoV2Breakthrough]` (astuce : chercher ses clés dans google vous donnera l'article aussi 😊)
