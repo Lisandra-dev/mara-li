@@ -7,6 +7,7 @@ tags:
 share: true
 category: outils/tutoriel
 name: ZoteroPandocObsidianTuto
+title: Pandoc, Obsidian, report & Zotero
 ---
 
 
@@ -115,9 +116,10 @@ Pour :
 		|:--------|---|  
 		|Truc|Machin|  
 		Table: Demonstration d'une table {#tbl:id1}  
+	
 	```
-	- Ensuite, pour citer un tableau : "`+@tbl:id1` est un simple tableau."
-	Notons que vous pouvez citer des tableaux dans différents fichiers, avec l'aide de l'id qui doit être unique.
+
+	- Ensuite, pour citer un tableau : "`+@tbl:id1` est un simple tableau."	Notons que vous pouvez citer des tableaux dans différents fichiers, avec l'aide de l'id qui doit être unique.
 - Pour les images :
 	- `![Caption description](image.png){#fig:img-1}`
 	- Et pour citer : `+@fig:img-1`
