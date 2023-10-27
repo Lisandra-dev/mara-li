@@ -9,7 +9,7 @@ tags:
   - MOC
 ---
 
-[[Projects/Eldale Creek/index.md]]
+[[../Projects/Eldale Creek/index]]
 
 %% #MOC %%
 
