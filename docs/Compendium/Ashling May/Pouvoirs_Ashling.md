@@ -1,6 +1,6 @@
 ---
 folder: Compendium
-date: 12-06-2021
+date: 2021-06-12
 category: Compendium/Ashling May
 share: true
 name: Pouvoirs_Ashling

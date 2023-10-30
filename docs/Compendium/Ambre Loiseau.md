@@ -1,7 +1,6 @@
 ---
-date: 08-09-2019
+date: 2019-08-09
 share: true
-update: false
 type: OC
 doc: iframe
 univers: ❌
@@ -33,7 +32,7 @@ $~$
 
 <h1 align="center">CONTROLE DE LA BIOMASSE – VIRUS ZOMBIE</h1>
 
-%% [[Biomasse]] %%  
+%% [[Biomasse]] %%
 Décrit comme un zombie et infectée par un virus unique, elle est capable de se modifier physiquement. Elle peut créer des excroissances de chair ou d’os, modifier sa peau pour être plus solide ou simplement pour frapper plus fort. Elle peut se régénérer à l’infini, mais il lui faut un laps de temps plus ou moins long en fonction de ses blessures. De plus, elle a des réflexes qui sont énormément améliorés.
 
 ## Le lazarus

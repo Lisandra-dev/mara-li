@@ -128,28 +128,9 @@ plugins:
       templates_dir: ""
       callouts:
         enabled: false
-  - pub-debugger:
-      console_log:
-        show_code_link: false
-        filter_logger_names:
-#          - mkdocs.plugins.publisher.obsidian.md_links
-          - mkdocs.structure.pages
-          - mkdocs.plugins.publisher.social.plugin
-          - mkdocs.plugine.publisher.minifier.base
-          - mkdocs.structure.files
-          - mkdocs.plugins
-          - mkdocs.commands.build
-          - mkdocs_glightbox.plugin
-      file_log:
-        filter_logger_names:
-          #          - mkdocs.plugins.publisher.obsidian.md_links
-          - mkdocs.structure.pages
-          - mkdocs.plugins.publisher.social.plugin
-          - mkdocs.plugine.publisher.minifier.base
-          - mkdocs.structure.files
-          - mkdocs.plugins
-          - mkdocs.commands.build
-          - mkdocs_glightbox.plugin
+  - pub-blog
+
+
 hooks:
   - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py

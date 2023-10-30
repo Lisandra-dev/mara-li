@@ -3,14 +3,14 @@ type: Informations, Idées
 univers: Resident Evil
 obsidianUIMode: preview
 share: true
-date: 26/10/2021
+date: 2021-10-26
 description: Info sur le mini rp Resident Evil
 category: Scriptorium/Zombie Project
 name: Zombie Project
 ---
 
 <u>Lieu</u> : Windport — Côte West des USA
-<u>Météo</u> : Un typhon est en cours 
+<u>Météo</u> : Un typhon est en cours
 <u>Timeline</u> : Une semaine après la dispersion initiale du virus.
 <u>Cause</u> : Inconnue
 

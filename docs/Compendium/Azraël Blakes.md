@@ -1,6 +1,6 @@
 ---
 folder: Compendium
-date: 29-06-2019
+date: 2019-06-29
 share: true
 category: Compendium
 type: OC
@@ -71,9 +71,9 @@ Notons que bien qu'elle ait triomphé face à Pestilence, son corps a finit par 
 
 Faits intéressants, elle se trouvait à Londres lors des meurtres en série de Jack L'Eventreur, où elle découvre avec stupeur que les âmes de ses victimes ne partaient pas non plus. Pire, elle devenait de véritable monstre, et elle n'a pas pu les interroger pour découvrir qui était le tueur.
 
-Elle travailla avec Scotland Yard pour essayer de découvrir, sans succès, Jack. C'est un de ses évènements qui l'ont conduit à s'intéresser aux meurtres en série, et les fantômes en découlant. 
+Elle travailla avec Scotland Yard pour essayer de découvrir, sans succès, Jack. C'est un de ses évènements qui l'ont conduit à s'intéresser aux meurtres en série, et les fantômes en découlant.
 
-Aujourd'hui, Azraël travaille en tant que détective privée, et aide parfois la police Invisible de Nibelhiem. Cela dit, elle préfère travailler en solitaire, et n'aime pas demander de l'aide. 
+Aujourd'hui, Azraël travaille en tant que détective privée, et aide parfois la police Invisible de Nibelhiem. Cela dit, elle préfère travailler en solitaire, et n'aime pas demander de l'aide.
 
 ---
 
