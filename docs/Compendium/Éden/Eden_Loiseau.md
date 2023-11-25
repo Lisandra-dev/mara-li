@@ -6,14 +6,12 @@ univers: "[[Asylum of Enchantments|Asylum of Enchantments]]"
 type: Fiche
 category:
   - Compendium/Éden
-image: "[[../../assets/img/Éden 28500-1690740429562.png|+rside]]"
+image: "[[Éden 28500-1690740429562|+rside]]"
 title: Éden « 28500 » Loiseau
 name: Eden_Loiseau
 original:
   - "[[20. AREA/Roleplay/Personnages/Éden|Éden]]"
   - "[[20. AREA/Roleplay/Personnages/Ambre Loiseau|Ambre Loiseau]]"
-share_link: https://share.note.sx/rzei7rnw
-share_updated: 2023-11-25T16:21:09+01:00
 cssclasses:
   - wiki-right
   - rside-10
@@ -34,9 +32,9 @@ cssclasses:
 > |**Rôle**| Gardienne de nuit |
 > |**Grade**| Membre du personnel de sécurité|
 > |**Date d'arrivée**|28/05/1832|
-> 
+>
 > ### Profil
-> 
+>
 > |||
 > | --|--|
 > |**Naissance**|Inconnue|
@@ -50,25 +48,25 @@ cssclasses:
 # Physique
 ---
 
-![[../../assets/img/Éden 28500-1690740429562.png|+rside]]
+![[Éden 28500-1690740429562|+rside]]
 
 Éden est un petit brin de femme assez marquée par la vie et les expériences qu’elle a vécu au sein de l’institut. Mesurant 1m60 et assez mince, elle a toujours ce drôle de regard, souvent sombre, comme si elle s’ennuyait.
 Surnommée la « zombie » à cause de ses cernes, elle possède des yeux rouges très sombres, une peau excessivement pâle dans laquelle on peut distinguer ses veines noires. Cela ne la défigure pas totalement, car la gardienne de nuit possède tout de même un joli visage en cœur, constellé de tâches de rousseurs, avec un petit nez tout à fait à sa place. Enfin, elle a des cheveux décolorés, naturellement, avec des racines brunes qui deviennent blanches sur les bouts. Généralement, ses cheveux sont coupés mi-long, et elle les attache dans une queue de cheval fouillis.
 
 Bien que pas très grande, elle est bien proportionnée, avec des formes féminines là où il faut.
 
-### Particularité
+## Particularité
 
 Cheveux décoloré naturellement, assez rêche bien qu’elle essaye d’en prendre soin.
 Son sang est visqueux et noirs
 Elle possède une longue cicatrice le long de sa colonne vertébrale
 Son bras gauche possède un fin tatouage avec marqué “28500” d’origine inconnue.
 
-### Voix
+## Voix
 
 Conséquence de ses expérimentations, elle a une voix assez grave pour une femme, un peu cassé.
 
-### Style vestimentaire
+## Style vestimentaire
 
 Éden, pour une femme de 1830, possède un style vestimentaire que l’on peut considéré comme étrange. Elle apprécie les bottes de cuir que l’on retrouve facilement dans l’armée, mais laisse la majorité de sa peau libre, ce qui n’est absolument pas la mode à l’époque.
 
@@ -77,7 +75,7 @@ Elle porte donc généralement des jupes qui ont été coupées largement au-des
 # Profil psychologique
 ---
 
-### Pathologie d'arrivée : ✓ Guérie grâce aux expérimentations
+## Pathologie d'arrivée : ✓ Guérie grâce aux expérimentations
 
 La patiente Éden Loiseau était atteinte d’une apathie, doublé d’un manque de sensation lié à la douleur, toucher, ainsi que les différences de températures. Elle souffre d’une amnésie atteignant sa mémoire lointaine et ne se rappelle que quelques détails quant à sa vie avant d’arriver à l’institut.
 
@@ -85,7 +83,7 @@ Des recherches faites suites à son arrivée la lie à une riche famille frança
 
 Bien que considérée comme guérie grâce aux expérimentations, Éden continue de ne pas sentir les différences de températures et s’en dit “non dérangé”.
 
-### Caractère général
+## Caractère général
 
 Éden est dangereuse et doit être considérée comme une arme humaine. Son absence de capacité à ressentir les différences de températures et une partie de la douleur font qu’elle n’hésite pas à se blesser lorsqu’elle se défend ou combat, ce qui est aggravé par son don. 
 
@@ -93,7 +91,7 @@ Elle ne vit que pour l’action, le danger, et l’adrénaline qu’elle peut y 
 
 Cependant, bien que pouvant se montrer particulièrement violente, Éden est une personne agréable à vivre, très respectueuse des ordres. Tant qu’elle est payée, et surtout nourrie, elle ne fera pas la fine bouche sur les tâches à faire. Par contre, il faut la contrôler et la surveiller régulièrement de façon à ce qu’elle n’en fasse pas trop. De plus, il faut aussi lui permettre de se défouler.
 
-### Aime
+## Aime
 
 - Le **combat**, la **baston**, l’**adrénaline**, le sang, et être blessée en règle générale. Après être restée trop longtemps apathique, c’est ce qui l’excite le plus.
 - La **viande**, toute source de biomasse, mais particulièrement la viande. Certes, elle est obligée d’en manger pour vivre, mais elle apprécie la texture et le goût. Probablement parce que cela lui fait du bien.
