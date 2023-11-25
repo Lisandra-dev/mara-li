@@ -9,7 +9,9 @@ category:
 image: "[[../../assets/img/Éden 28500-1690740429562.png|+rside]]"
 title: Éden « 28500 » Loiseau
 name: Eden_Loiseau
-original: "[[20. AREA/Roleplay/Personnages/Éden|Éden]]"
+original:
+  - "[[20. AREA/Roleplay/Personnages/Éden|Éden]]"
+  - "[[20. AREA/Roleplay/Personnages/Ambre Loiseau|Ambre Loiseau]]"
 share_link: https://share.note.sx/rzei7rnw
 share_updated: 2023-11-25T16:21:09+01:00
 ---
@@ -17,7 +19,7 @@ share_updated: 2023-11-25T16:21:09+01:00
 
 <h5 style="color: grey;text-align: right;"> Fiche personnel de <span style="border-radius: 5px; background-color: lightgrey;">Mara Li</span></h5>
 
-> [!infobox|tbl-cln]
+> [!wiki|tbl-cln]
 > # Éden Loiseau
 > ![[../../assets/img/Éden portrait.png|Éden portrait.png]]
 >
@@ -28,7 +30,9 @@ share_updated: 2023-11-25T16:21:09+01:00
 > |**Rôle**| Gardienne de nuit |
 > |**Grade**| Membre du personnel de sécurité|
 > |**Date d'arrivée**|28/05/1832|
+> 
 > ### Profil
+> 
 > |||
 > | --|--|
 > |**Naissance**|Inconnue|
