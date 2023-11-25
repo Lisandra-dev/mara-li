@@ -6,7 +6,7 @@ univers: "[[Asylum of Enchantments]]"
 type: Fiche
 category:
   - Compendium/Éden
-image: "[[Éden 28500-1690740429562.png]]"
+image: Éden 28500-1690740429562.png
 title: Éden « 28500 » Loiseau
 name: Eden_Loiseau
 original:
