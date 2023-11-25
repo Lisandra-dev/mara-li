@@ -21,7 +21,7 @@ cssclasses:
 ---
 
 
-<h5 style="color: grey;text-align: right;"> Fiche personnel de <span style="border-radius: 5px; background-color: lightgrey;">Mara Li</span></h5>
+<h5 style="color: grey;text-align: right;"> Fiche personnelle de <span style="border-radius: 5px; background-color: #4b4b4b91;padding:0 5px; color: var(--md-default-fg-color--light);">Mara Li</span></h5>
 
 > [!wiki|tbl-cln]
 > # Éden Loiseau
