@@ -2,7 +2,7 @@
 date: 2023-11-23
 share: true
 description: « Morte et vivante à la fois. La douleur et l’action sont le sens de ma vie. »
-univers: "[[Asylum of Enchantments|Asylum of Enchantments]]"
+univers: "[[Asylum of Enchantments]]"
 type: Fiche
 category:
   - Compendium/Éden
