@@ -43,7 +43,7 @@ share_updated: 2023-11-25T16:21:09+01:00
 > |**Peau** | Blanche, très pâle |
 > |**Traits notables**| <li>Un tatouage "28500" sur le bras, d'origine inconnue</li><li>Une cicatrice le long de la colonne vertébrale <em>(conséquence d'expérimentation)</em></li><li>Sang noir, visqueux <em>(Conséquence de son don)</em></li>|
 
-<h1 style="border-bottom:1px solid #665751;width:70%;left:-15px;position:relative;">Physique</h1>
+<h1 style="border-bottom:1px solid var(--md-default-fg-color--light);width:70%;left:-15px;position:relative;">Physique</h1>
 
 ![[../../assets/img/Éden 28500-1690740429562.png|+rside]]
 
@@ -69,7 +69,7 @@ Conséquence de ses expérimentations, elle a une voix assez grave pour une femm
 
 Elle porte donc généralement des jupes qui ont été coupées largement au-dessus du genou, des hauts noirs assez fins, et des vestes courtes qui ont généralement été des vestes longues que l’on a modifié.
 
-<h1 style="border-bottom:1px solid #665751;width:70%;position:relative;left:-15px">Profil psychologique</h1>
+<h1 style="border-bottom:1px solid var(--md-default-fg-color--light);width:70%;position:relative;left:-15px">Profil psychologique</h1>
 
 ### Pathologie d'arrivée : ✓ Guérie grâce aux expérimentations
 
@@ -99,7 +99,7 @@ Cependant, bien que pouvant se montrer particulièrement violente, Éden est une
 - Réfléchir, tout ce qui est stratégie.… Éden est trop sanguine et préfère foncer dans le tas.
 - Les odeurs chimiques trop fortes, qui gênent ses sens et peuvent la désorienter.
 
-<h1 style="border-bottom:1px solid #665751;width:70%;position:relative;left:-15px">Biographie</h1>
+<h1 style="border-bottom:1px solid var(--md-default-fg-color--light);width:70%;position:relative;left:-15px">Biographie</h1>
 
 On ne sait pas grand chose sur Éden avant son arrivée à l'institut. Trouvée par la police le long d’une route, vêtue d’un vêtement d’hôpital blanchâtre couvert de sang et de poussière, la jeune femme est incapable de répondre à leur question et surtout, ne possédait sur elle aucun moyen de l’identifié. Simplement un nom, cet étrange numéro et c’est tout. Apathique, elle vagabonde d'hôpital en hôpital jusqu’à être rapatriée par l’institut.
 
@@ -120,7 +120,7 @@ Et furent mangé.
 
 Mais si elle était correctement nourrie, elle se montrait parfaitement normale, quoi qu’un peu agressive. Puisque capable de voir et sentir dans le noir, elle demanda à devenir gardienne de nuit, surtout par envie de se foutre sur la gueule pour de bonne raison.
 
-<h1 style="border-bottom:1px solid #665751;width:70%;position:relative;left:-15px">Don : <em>Lazarus Effect</em></h1>
+<h1 style="border-bottom:1px solid var(--md-default-fg-color--light);width:70%;position:relative;left:-15px">Don : <em>Lazarus Effect</em></h1>
 
 Le don d’Éden est lié aux sortilèges de nécromancie et la bactérie que l’on a injectée dans sa colonne vertébrale. Elle est considérée, à cause de cela, comme une zombie car il se trouve qu’il est impossible de la tuer totalement : tant qu’elle possède de la biomasse, son corps se régénère. De plus, elle est capable de faire muter son corps de manière temporaire pour : 
 
@@ -153,6 +153,6 @@ En outre, ses sens sont extraordinairement améliorés et elle est capable d’e
 - Sensible à la noyade
 - **A besoin, quasiment en permanence, d’un apport nutritif très précis** : Éden ne peut manger que les aliments riches en protéines ou glucose, et son corps refuse entièrement les fibres, qui sont rejetées tels quel.
 
-<h1 style="border-bottom:1px solid #665751;width:70%;position:relative;left:-15px">Trivia</h1>
+<h1 style="border-bottom:1px solid var(--md-default-fg-color--light);width:70%;position:relative;left:-15px">Trivia</h1>
 
 - **Thème** : [Zombie — The Pretty Reckless](https://www.youtube.com/watch?v=Pt-8LZ6zAZM)
