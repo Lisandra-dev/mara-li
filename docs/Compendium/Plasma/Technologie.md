@@ -1,8 +1,8 @@
 ---
-category: Compendium/Plasma
+category:
+  - Compendium/Plasma
 date: 2023-02-08
 description: "La technologie utilisée dans mon univers nommé PLASMA. Très inspirée de divers livres de science-fiction tel que « Carbone Modifié » "
-dg-path: Compendium/Plasma/Technologie.md
 name: Technologie
 share: true
 type: Contexte
@@ -14,6 +14,8 @@ type: Contexte
 Généralement, ce sont de simples triangles métalliques que l’on reconnaît aisément par leurs couleurs. Il en existe de tout type, mais tous ont le même but : modifier les capacités de son porteur. Facile à poser, moins à retirer, ils se basent sur une compatibilité génétique, dont les plus hauts sont généralement artificiels. Ils se placent généralement sur des muscles ou des os.
 
 Ils délivrent des drogues et neurotransmetteurs augmentant la capacité de leur porteur, mais les rendant aussi accros. De plus, ces substances empêchent les dépressions « post-bionotropique » généralement affiliées aux bionotropiques médicaux. Certains implants permettent un rajeunissement permanent, et couplé aux implants mémoriels, ont donné la classe des immortels.
+Les produits délivrés sont transformés à partir des différentes hormones naturelles du corps humains, et les implants sont alimentés par l'électricité produit naturellement par le corps humain.
+Les anciens implants luisent légèrement d'une lueur lorsqu'ils sont activés.
 
 Certains implants se présentent différemment : ce sont les générateurs de boucliers, très rare et difficile d’accès, ils permettent à leur détenteur d’activer un bouclier impénétrable pour les rayons des blasters. Ces boucliers ne sont pas imperméables aux armes « physiques » comme les épées, ou les balles.
 ![[../../assets/img/Plasma-Implant-Bouclier-1-1-1-1.png|center]]
@@ -38,6 +40,7 @@ Généralement, les personnes ayant des implants de ce type possèdent des impla
 Quand une personne ayant un implant mémoriel meurt, elle est généralement clonée avec un double d’elle-même (sauf demande de modification génétique), ou envoyer dans un corps de cyborg, mais cela est réservé à l’armée en temps de guerre.
 
 ![[../../assets/img/Implant-Mémoriel-1-1-1-1.png|center]]
+
 # Vêtements
 
 Il existe deux avancées majeures dans les protections intégrées dans les vêtements. Tout d’abord, il existe la soie de l’araignée Vervenae, modifiée génétiquement, qui donne des tissus ultrarésistants à environ n’importe quoi, tout en restant très souple et légère. Cependant, il ne protège pas contre les tirs de blaster.
@@ -63,5 +66,5 @@ Lorsque les diverses modifications corporelles sont arrivées, il a fallu créer
 - Les humains n’ont aucune modification corporelle majeure, et ne portent pas d’implant mémoriel couplé à des implants de rajeunissement. C’est l’ensemble général de la galaxie.
 - Les immortels sont des humains possédant des implants mémoriels et de rajeunissement. Après une baisse, de nombreuses personnes ont fait part de leur désir de devenir immortels et leur nombre est en constante évolution : on en dénombrait plus d’un million.
 - Les Modifiés sont des embryons génétiquement programmés pour leur travail, voire pour le plaisir des parents. Généralement, ils sont une commande d’un état ou d’un gouvernement, et les généticiens attendent de tomber sur un couple marié qui donnerait les meilleurs taux, avant de modifier pour créer un être encore plus supérieur. Ils ne se mélangent pas aux humains (en tout cas, on énonce peu de mariages humain et Modifié). Peu nombreux, ils sont souvent très beaux, mais trop parfaits : beaucoup les appellent « poupée de plastique ». La plupart sont des soldats, et la plus grande population de modifiée est dans le Protectorat. Jamais les Modifiés ne naissent dans des familles pauvres ou dans des mariages non heureux, pour éviter d’avoir un Modifié devenu mercenaire (par exemple).
-- Les Cyborgs sont des soldats dont on n’a pas encore recréé le corps après sa mort. Généralement, ils sont de la chair à canon pour des missions suicides et la plupart en deviennent fous. Parfois, des civils choisissent de devenir un cyborg, mais seuls eux connaissent la raison. 
-- Les Idenshi sont, à priori, une rumeur. Créé par l’Empire des Yokomura il y a une trentaine d’année, il existe peu de preuve de leurs existences. A priori, contrairement aux Modifiés, les Idenshi ont des modifications post-naissance à l’aide de sérum mutagène et d’un entrainement en réalité virtuel. Cependant, ils deviennent très instables et la plupart sont décédés de manières plus ou moins violente. Les rumeurs racontent qu’il en existe cependant encore deux ou trois dans la galaxie. Ce sont des tueurs surentrainé mais aussi des génies. 
+- Les Cyborgs sont des soldats dont on n’a pas encore recréé le corps après sa mort. Généralement, ils sont de la chair à canon pour des missions suicides et la plupart en deviennent fous. Parfois, des civils choisissent de devenir un cyborg, mais seuls eux connaissent la raison.
+- Les Idenshi sont, à priori, une rumeur. Créé par l’Empire des Yokomura il y a une trentaine d’année, il existe peu de preuve de leurs existences. A priori, contrairement aux Modifiés, les Idenshi ont des modifications post-naissance à l’aide de sérum mutagène et d’un entrainement en réalité virtuel. Cependant, ils deviennent très instables et la plupart sont décédés de manières plus ou moins violente. Les rumeurs racontent qu’il en existe cependant encore deux ou trois dans la galaxie. Ce sont des tueurs surentrainé mais aussi des génies.
