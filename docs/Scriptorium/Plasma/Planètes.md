@@ -8,7 +8,6 @@ type:
   - Contexte
 ---
 
-
 # Protectorat de Lekhyon
 
 Il s’agit, avec l’Empire des Yokomura, de l’ensemble de planètes le plus étendu et le plus libre : c’est une des seules républiques humaines.
