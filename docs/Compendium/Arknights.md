@@ -11,9 +11,10 @@ title: Valentina Ambrose
 original:
   - "[[Lucrezia Valentina|Lucrezia Valentina]]"
 display: Valentina Ambrose
+image: Lucrezia - AK.png
 ---
 
-![[../assets/img/Lucrezia - AK.png|Lucrezia - AK.png]]
+![[Lucrezia - AK.png]]
 
 **[NOM ET PRÉNOM]** : Ambrose Valentina
 
@@ -45,7 +46,7 @@ Elle ne questionne pas ses employeurs, ni leurs choix. Quand elle est en mission
 Avec ses ombres, elle cherche à éviter la foule et préfère rester seule. Elle déteste les énigmes et les jeux d'argents.  On ne lui connaît pas de traumatisme particulier, mais elle est une assassin depuis qu'elle est rentrée dans "L'Ordre" à ses quatorze ans.
 Difficile de savoir pourquoi elle fait se métier, ce qu'elle fera après ou comment elle voit son avenir. En tout cas, d'une certaines manières, sa relation avec ses employeurs repose sur l'argent, mais pas que. 
 
-**[DESCRIPTION PHYSIQUE] **: 
+**[DESCRIPTION PHYSIQUE]**: 
 > [!wiki] 
 > ![[../assets/img/Pasted image 20231226134811.png|Pasted image 20231226134811.png]]
 > ## Apparence
