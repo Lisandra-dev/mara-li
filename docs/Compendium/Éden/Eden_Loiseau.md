@@ -6,12 +6,12 @@ univers: "[[Asylum of Enchantments]]"
 type: Fiche
 category:
   - Compendium/Éden
-image: Éden portrait.png
+image: eden_portrait.png
 title: Éden « 28500 » Loiseau
 name: Eden_Loiseau
 original:
-  - "[[20. AREA/Roleplay/Personnages/Éden|Éden]]"
-  - "[[20. AREA/Roleplay/Personnages/Ambre Loiseau|Ambre Loiseau]]"
+  - "[[Éden|Éden]]"
+  - "[[Ambre Loiseau|Ambre Loiseau]]"
 cssclasses:
   - wiki-right
   - rside-10
@@ -19,11 +19,13 @@ cssclasses:
 ---
 
 
+
+
 <h5 style="color: grey;text-align: right;"> Fiche personnelle de <span style="border-radius: 5px; background-color: #4b4b4b91;padding:0 5px; color: var(--md-default-fg-color--light);">Mara Li</span></h5>
 
 > [!wiki|tbl-cln]
 > # Éden Loiseau
-> ![[Éden portrait.png]]
+> ![[eden_portrait.png]]
 >
 > |  |  |
 > | ---- | ---- |
@@ -48,7 +50,7 @@ cssclasses:
 # Physique
 ---
 
-![[../../assets/img/Éden 28500-1690740429562.png|+rside]]
+![[../../assets/img/Eden-full.png|+rside]]
 
 Éden est un petit brin de femme assez marquée par la vie et les expériences qu’elle a vécu au sein de l’institut. Mesurant 1m60 et assez mince, elle a toujours ce drôle de regard, souvent sombre, comme si elle s’ennuyait.
 Surnommée la « zombie » à cause de ses cernes, elle possède des yeux rouges très sombres, une peau excessivement pâle dans laquelle on peut distinguer ses veines noires. Cela ne la défigure pas totalement, car la gardienne de nuit possède tout de même un joli visage en cœur, constellé de tâches de rousseurs, avec un petit nez tout à fait à sa place. Enfin, elle a des cheveux décolorés, naturellement, avec des racines brunes qui deviennent blanches sur les bouts. Généralement, ses cheveux sont coupés mi-long, et elle les attache dans une queue de cheval fouillis.
