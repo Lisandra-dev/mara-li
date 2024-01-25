@@ -19,29 +19,29 @@ univers: Références
 
 
 > [!grid] Medhas
-> ![[../../assets/img/Grimm_Nemo.jpg|Grimm_Nemo.jpg]] ![[../../assets/img/Mnémosyne robe - Farraige.jpeg|Mnémosyne robe - Farraige.jpeg]]
-> ![[../../assets/img/Némo & Grimmerald.png|Némo & Grimmerald.png]] ![[../../assets/img/Nemo_funny_medhas.jpeg|Nemo_funny_medhas.jpeg]] ![[../../assets/img/Nemo_Grimm.jpeg|Nemo_Grimm.jpeg]]
-> ![[../../assets/img/Nemo_Medhas.png|Nemo_Medhas.png]] ![[../../assets/img/Nemo_robe_medhas.png|Nemo_robe_medhas.png]]
-> ![[../../assets/img/Nemo-Meme-Grimm.jpeg|Nemo-Meme-Grimm.jpeg]]
+> ![[Grimm_Nemo.jpg|Grimm_Nemo.jpg]] ![[Illustration-1701067202831.jpeg|Illustration-1701067202831.jpeg]]
+> ![[../../assets/img/Illustration-1701068321097.png|Illustration-1701068321097.png]] ![[../../assets/img/Illustration-1701068321713.jpeg|Illustration-1701068321713.jpeg]] ![[../../assets/img/Illustration-1701068322156.jpeg|Illustration-1701068322156.jpeg]]
+> ![[../../assets/img/Illustration-1701068322540.png|Illustration-1701068322540.png]] ![[../../assets/img/Illustration-1701068322881.png|Illustration-1701068322881.png]]
+> ![[../../assets/img/Illustration-1701068322877.jpeg|Illustration-1701068322877.jpeg]]
 
 > [!GRID] Phil
-> ![[../../assets/img/Némo — Dolce 1.jpeg|Némo — Dolce 1.jpeg]] ![[../../assets/img/Némo guirlande Dolce.jpeg|Némo guirlande Dolce.jpeg]] ![[../../assets/img/Némo portrait Dolce.png|Némo portrait Dolce.png]]
-> ![[../../assets/img/Némo half dolce.jpeg|Némo half dolce.jpeg]] ![[../../assets/img/Panneau_némo.jpeg|Panneau_némo.jpeg]] ![[../../assets/img/Mnémosyne_portrait.jpg|Mnémosyne_portrait.jpg]]
-> ![[../../assets/img/Némo_chibi_emoji.jpeg|Némo_chibi_emoji.jpeg]]
+> ![[../../assets/img/Illustration-1701068323349.jpeg|Illustration-1701068323349.jpeg]] ![[../../assets/img/Illustration-1701068323445.jpeg|Illustration-1701068323445.jpeg]] ![[../../assets/img/Illustration-1701068323550.png|Illustration-1701068323550.png]]
+> ![[../../assets/img/Illustration-1701068323665.jpeg|Illustration-1701068323665.jpeg]] ![[../../assets/img/Illustration-1701068323911.jpeg|Illustration-1701068323911.jpeg]] ![[../../assets/img/Illustration-1701068324041.jpg|Illustration-1701068324041.jpg]]
+> ![[../../assets/img/Illustration-1701068324265.jpeg|Illustration-1701068324265.jpeg]]
 
 > [!GRID] Autres
-> ![[../../assets/img/Fanart Gabrioche.jpeg|Fanart Gabrioche.jpeg]]
-> ![[../../assets/img/Chaa_Nemo_Rodon.jpeg|Chaa_Nemo_Rodon.jpeg]]
-> ![[../../assets/img/Perseith_Némo_switch_outfit.png|Perseith_Némo_switch_outfit.png]]
+> ![[../../assets/img/Illustration-1701067208515.jpeg|Illustration-1701067208515.jpeg]]
+> ![[../../assets/img/Illustration-1701067208654.jpeg|Illustration-1701067208654.jpeg]]
+> ![[../../assets/img/Illustration-1701067208718.png|Illustration-1701067208718.png]]
 
 
 > [!GRID] Commission
-> ![[../../assets/img/Mnémosyne_twitter.jpeg|Mnémosyne_twitter.jpeg]] ![[../../assets/img/Mnémosyne Fullbody.jpeg|Mnémosyne Fullbody.jpeg]]
+> ![[../../assets/img/Illustration-1701068324478.jpeg|Illustration-1701068324478.jpeg]] ![[../../assets/img/Illustration-1701068324587.jpeg|Illustration-1701068324587.jpeg]]
 >
-> ![[../../assets/img/Rosa_Garcia_2.png|Rosa_Garcia_2.png]]
-> ![[../../assets/img/Nemo by Mogeckko.jpeg|Nemo by Mogeckko.jpeg]] ![[../../assets/img/Némo_lillyth.jpg|Némo_lillyth.jpg]]
-> ![[../../assets/img/Perseith - Némo.png|Perseith - Némo.png]]
-> ![[../../assets/img/Perseith_portrait.png|Perseith_portrait.png]]
+> ![[../../assets/img/Illustration-1701068324712.png|Illustration-1701068324712.png]]
+> ![[../../assets/img/Illustration-1701068324788.jpeg|Illustration-1701068324788.jpeg]] ![[Némo_lillyth.jpg|Némo_lillyth.jpg]]
+> ![[../../assets/img/Illustration-1701068324913.png|Illustration-1701068324913.png]]
+> ![[../../assets/img/Illustration-1701068325095.png|Illustration-1701068325095.png]]
 >
-> ![[../../assets/img/Némo_Commission_BG+name.jpg|Némo_Commission_BG+name.jpg]]
-> ![[../../assets/img/avatar.jpg|avatar.jpg]]
+> ![[../../assets/img/Illustration-1701068325219.jpg|Illustration-1701068325219.jpg]]
+> ![[../../assets/img/Illustration-1701068325515.jpg|Illustration-1701068325515.jpg]]
