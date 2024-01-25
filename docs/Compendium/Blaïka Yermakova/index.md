@@ -3,8 +3,6 @@ category: Compendium/Blaïka Yermakova
 dataview: false
 date: 2019-12-24
 description: Data sur Blaika
-dg-path: Compendium/Blaïka Yermakova/Blaïka Yermakova.md
-dg-publish: true
 image: Blaïka.jpg
 share: true
 tags:
@@ -20,7 +18,7 @@ univers: Chroniques du Grimnoir
 
 <b style="text-align:center;display:block;">"Mère Russie n'existe pas"</b>
 
-![[../../assets/img/Blaïka.jpg|+side]]
+![[Blaïka.jpg|+side]]
 
 **Nom** : Yermakova
 **Prénom** : Blaïka
@@ -74,7 +72,7 @@ Quatre ans plus tard, sa haine du Grimnoir et surtout d’Abigael ne disparait p
 - Vitalité
 
 # Descriptions
-![[../../assets/img/Blaika Yermakova-Choupa.png|+side]]
+![[IMG-1701067203551.png|+side]]
 ## Physique
 Blaïka est une grande femme rousse aux cheveux longs, bien qu’elle les attache souvent en queue de cheval ou en natte. Elle a une cicatrice qui barre son oeil droit et sa joue, et ses mains sont abimés par les entraînement et sa vie dans les steppes russes. Elle est très musclée et est du genre à faire peur.  Elle a des yeux bleus très clairs et de légères tâches de rousseurs sur la majorité de son corps, qui est lui aussi recouvert de cicatrices. Elle a un petit nez et un visage plutôt harmonieux. Mais ces cicatrices la rendent plus imposante qu’elle ne l’est réellement. En règle générale, c’est une jolie femme qu’il ne faut pas vraiment embêter.
 
@@ -89,3 +87,5 @@ En dehors de l’armée, elle peut se montrer très sympathique, proche de ses s
 - Elle tient bien l’alcool.
 - Pour une russe, elle n’aime étrangement pas la vodka et préfère la bière. 
 - [Image source](http://fav.me/da32hn6)
+
+![[IMG-1693243967219.png|+side]]
