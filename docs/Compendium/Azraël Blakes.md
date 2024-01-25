@@ -1,17 +1,21 @@
 ---
-folder: Compendium
-date: 29-06-2019
-share: true
 category: Compendium
-type: OC
-name: Azraël Blakes
-univers: Bibliothèque Infinie
-doc: MD
 cover: https://i.imgur.com/9mRMewR.png
+date: 2019-06-29
+dg-path: Compendium/Azraël Blakes.md
+dg-publish: true
+doc: MD
+folder: Compendium
+name: Azraël Blakes
+share: true
+type: OC
+univers: Bibliothèque Infinie
+cssclass: cards
 tags:
   - OC
   - RP_Bibliothèque-Infinie
 ---
+
 
 
 ---
@@ -28,7 +32,7 @@ Quelques capacités inhérentes à son "espèce" :
 - Elle n'apprécie pas les objets sacrés en règle général.
 
 **Genre** : F.
-**Affiliation(s)/Métier(s)** : Enquetrice — Exorciste de fantôme — Faucheuse (à temps pareil)
+**Affiliation(s)/Métier(s)** : Enquêtrice — Exorciste de fantôme — Faucheuse (à temps pareil)
 
 **Magie** : Azraël est littéralement l'ange de la mort, elle est capable de voir les âmes et parler aux fantômes mais aussi utiliser les ombres pour se déplacer, créer des objets ou se battre. Ces ombres ont quelques limitations :
 
@@ -87,7 +91,7 @@ Elle essaie aussi d'aider les gens à faire leurs deuils, mais elle considère q
 Elle a du mal à s'attacher aux autres, puisqu'elle sait qu'ils vont mourir et disparaître un jour, mais pas elle. Du coup, elle paraîtra avoir un tempérament mélancolique et solitaire, lorsqu'on apprend à la connaître.
 
 **Apparence** :
-![[../assets/img/752036651a8433ba637c2b66d4502b38.png|+side]]
+![[752036651a8433ba637c2b66d4502b38-1.png|+side]]
 Azraël possède, dans sa forme "normale", des cheveux noirs coupés courts dans un carré plongeant, entourant un visage doux. Elle possède un petit nez retroussée, et de grands yeux dorés, en amandes. Généralement, elle est vêtue d'une longue cape (la veste, pas une cape de super-héros !), avec un petit béret, lequel est entouré d'une sorte d'auréole composée de losange noirs. Les deux sont noirs, d'ailleurs. En dessous, des vêtements pratiques, tel qu'un pantalon ou une jupe et des collants…
 
 Sa forme divine voit l'agrandissement de son auréole, l'apparition d'aile noire translucide, et d'autre losange l'encadrant.
