@@ -8,24 +8,25 @@ title: Illustration
 type: Illustration
 ---
 
+
 # 2017
 
 >[!GRID]
->![[../../assets/img/Ref 2017.png|Ref 2017.png]]![[../../assets/img/Ashling hermite.png|Ashling hermite.png]]
+>![[../../assets/img/ref.png|ref]]![[../../assets/img/hermite.png|hermite.png]]
 >
->![[../../assets/img/Clothes ref.png|Clothes ref.png]]
+>![[../../assets/img/clothes.png|clothes.png]]
 
 ---
 # 2018
-![[../../assets/img/Emotion.png|Emotion.png]]
+![[../../assets/img/emotions.png|emotions.png]]
 
 ---
 # 2019:
-![[../../assets/img/Ref.png|Ref.png]]
+![[../../assets/img/ref.png|ref]]
 
 # 2020
 >[!GRID]
-> ![[../../assets/img/Unlimited Breaks Point.png|Unlimited Breaks Point.png]] ![[../../assets/img/Ashling_project_nucleus_.png|Ashling_project_nucleus_.png]]
+> ![[../../assets/img/project nucleus.png|project nucleus.png]]] ![[../../assets/img/Unlimited blades Works.png|Unlimited blades Works.png]]
 
 ---
 # 2021
@@ -33,10 +34,11 @@ type: Illustration
 
 ---
 # Autres
->[!GRID]
->![[../../assets/img/ref1.png|+grid]] ![[../../assets/img/ref2.png|+grid]]
+> [!GRID]
+> ![[../../assets/img/futaba 2.png|+grid]] ![[../../assets/img/futaba 2.png|+grid]]
 >
->![[../../assets/img/ref4.png|+grid]] ![[../../assets/img/ref3.png|+grid]]
+> ![[../../assets/img/Futaba 1.png|+grid]] ![[../../assets/img/SOLAUI-1-1.png|SOLAUI-1-1.png]] ![[../../assets/img/ref chambre.png|ref chambre.png]] 
+> ![[../../assets/img/ASH-LYNMAMECHI-1-1.png|ASH-LYNMAMECHI-1-1.png]] ![[../../assets/img/don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg|don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg]]
 
 
 ---
@@ -44,4 +46,5 @@ type: Illustration
 # Commission
 
 > [!GRID]
-> ![[../../assets/img/Commission Feilyn.png|Commission Feilyn.png]] ![[../../assets/img/Solow_Ashling.png|Solow_Ashling.png]]
+> ![[../../assets/img/Commission Feilyn.png|Commission Feilyn.png]] ![[../../assets/img/solow.png|solow.png]] ![[../../assets/img/Mimeowendormi.png|Mimeowendormi.png]]
+
