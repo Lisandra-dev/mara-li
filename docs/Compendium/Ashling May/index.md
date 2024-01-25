@@ -1,17 +1,21 @@
 ---
-date: 12-06-2020
-share: true
-name: Ashling May
-title: Ashling May
 alias: Ashling, Ash, index
-description: "Ashling May, mon premier et meilleur des OC. Une étudiante douée d'un talent certains en informatique, fan de jeux vidéos et doté d'un énorme égo. Lâche et égoïste, ainsi que très vénale."
-type: OC
 category: Compendium/Ashling May
-doc: Personnalisé
-image: Commission Feilyn.png
 cover: https://www.mara-li.fr/assets/img/Commission%20Feilyn.png
+date: 2020-06-12
+description: Ashling May, mon premier et meilleur des OC. Une étudiante douée d'untalent certains en informatique, fan de jeux vidéos et doté d'un énorme égo. Lâche et égoïste, ainsi que très vénale.
+dg-path: Compendium/Ashling May/Ashling May.md
+dg-publish: true
+doc: Personnalisé
 genre: PJ
+image: Commission Feilyn.png
+name: Ashling May
+share: true
+title: Ashling May
+type: OC
 ---
+
+
 $~$
 
 
@@ -124,12 +128,10 @@ Ashling est une personne plutôt lâche, qui n'aime pas prendre des risques inut
 - Elle élève une grenouille. Oui.
 
 # Pouvoirs
-%% [[Invocation d'armes|Invocation d'armes]], [[Sortilège|Sortilège]] %%
+%% [[20. AREA/Concept/Idées/Pouvoirs/Invocation d'armes|20. AREA/Concept/Idées/Pouvoirs/Invocation d'armes]], [[20. AREA/Concept/Idées/Pouvoirs/Sortilège|20. AREA/Concept/Idées/Pouvoirs/Sortilège]] %%
 
-![[./Pouvoirs_Ashling#Technopathe|Archives/20. Compendium/22. Personnages/Ashling May/Pouvoirs > Technopathe]]
+![[./Pouvoirs_Ashling#Technopathe|20. AREA/Concepts/Personnages/Ashling May/Pouvoirs > Technopathe]]
 
 ---
 ![[./Illustration_Ashling|Références]]
-
-
 
