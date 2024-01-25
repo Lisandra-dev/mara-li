@@ -1,13 +1,11 @@
 ---
 category: Compendium/Hayleen May
-cover: https://www.mara-li.fr/assets/img/Hayleen_portrait.png
 date: 2020-05-18
 description: Références pour Hayleen May
 dg-path: Compendium/Hayleen May/Hayleen May.md
 dg-publish: true
 image: Hayleen_portrait.png
 name: Hayleen May
-obsidianUIMode: preview
 share: true
 type: OC
 tags:
@@ -17,7 +15,7 @@ tags:
 
 ![[./Illustration|Illustration]]
 > [!note] Identité
-> ![[../../assets/img/Hayleen_portrait.png|+side]]
+> ![[Hayleen_portrait.png|+side]]
 > **Prénom et nom :** Hayleen May
 > *Alias :* Grimalkin
 > **Genre :** F.
@@ -26,7 +24,7 @@ tags:
 > **Race :** Sorcière démone
 
 > [!info] Pouvoir
-> Hayleen est une sorcière démone : elle est capable d’[[Invocation d'armes|invoquer]], via des incantations, plusieurs objets différents, qu’elle peut [[Sortilège|ensuite enchanter et renforcer]].
+> Hayleen est une sorcière démone : elle est capable d’[[20. AREA/Concept/Idées/Pouvoirs/Invocation d'armes|invoquer]], via des incantations, plusieurs objets différents, qu’elle peut [[20. AREA/Concept/Idées/Pouvoirs/Sortilège|ensuite enchanter et renforcer]].
 > Son corps est naturellement plus agile, rapide, et solide qu’une personne “lambda”, notamment via l’utilisation de “circuit magique”, tatouages légèrement transparents qui parcourent l’ensemble de son corps, et qui deviennent rouges lorsqu’elle déploie sa magie.
 > En outre, en plus de pouvoir invoquer des objets, elle peut incanter pour renforcer des objets non-invoqués, mais aussi ses alliés et ami, ainsi qu’elle-même.
 >
@@ -111,8 +109,8 @@ tags:
 > - Un autre Katana, plus simple (car elle se bat à l’arme double), à la lame rouge.
 
 > [!tldr] Relations
-> - [[Salem|Salem]] : Père adoptif
-> - [[Alazée|Alazée]]
+> - [[20. AREA/Concept/Idées/Écho/Salem|20. AREA/Concept/Idées/Écho/Salem]] : Père adoptif
+> - [[20. AREA/Concept/Idées/Écho/Alazée|20. AREA/Concept/Idées/Écho/Alazée]]
 > - [[../Mnémosyne/index|Mnémosyne]]
 > - **Vrai père** : Un descendant de Gilgamesh — Babylone
 > - **Mère** : ???
