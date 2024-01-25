@@ -1,20 +1,19 @@
-
 ---
-share: true
-dg-publish: true
 category: Compendium/Éden
-dg-permalink: Compendium/Éden
+cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
+cssclass: cards, cards-cols-5, cards-naturel
+genre: PJ
+name: Éden
+share: true
 type: OC
 univers: Zombie Project
-name: Éden
-cover: https://www.mara-li.fr/assets/img/IMG_1314.jpg
-genre: PJ
-cssclass: cards, cards-cols-5, cards-naturel
 ---
+
+
 
 
 %% Inspirée de [[../Ambre Loiseau|Ambre Loiseau]] %%
-![[../../assets/img/Éden.png|+side]]
+![[Éden 28500-1690707934679.png|Éden 28500-1690707934679.png]]
 # ─────༺ Présentation ༻─────
 **Nom** : Éden
 **Âge** : Apparence fin de vingtaine
@@ -25,7 +24,7 @@ cssclass: cards, cards-cols-5, cards-naturel
 
 # ──────༺ Capacités ༻──────
 
-**Pouvoirs** : [[Biomasse]]
+**Pouvoirs** : [[20. AREA/Concept/Idées/Pouvoirs/Biomasse|20. AREA/Concept/Idées/Pouvoirs/Biomasse]]
  Elle peut créer des excroissances de chair ou d’os, modifier sa peau pour être plus solide ou simplement pour frapper plus fort. Elle peut se régénérer à l’infini, mais il lui faut un laps de temps plus ou moins long en fonction de ses blessures. De plus, elle a des réflexes sont énormément améliorés.
 
 *Avantages* :
@@ -76,4 +75,3 @@ Les documents retrouvés parlent d'un sujet d'expérience calme, sympathique, av
 Son nom vient du fait qu'elle est l'unique réussite connue du virus, et était considérée comme l'élévation de l'humanité ; un but à atteindre, d'où l'Eden.
 
 Elle est classée sous le numéro de 28 500 dans les documents retrouvés sur le site avant sa destruction.
-
