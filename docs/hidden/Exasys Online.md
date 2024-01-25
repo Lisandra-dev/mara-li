@@ -1,8 +1,9 @@
 ---
-description: "Exasys Online est un MMORPG créée depuis maintenant cinq ans, par la Team Exa, et publié par une boite du même nom. Le jeu est resté presque pendant deux ans en alpha, gratuite, et les débuts ont ét..."
 date: 2023-03-24
+description: Exasys Online est un MMORPG créée depuis maintenant cinq ans, par la Team Exa, et publié par une boite du même nom. Le jeu est resté presque pendant deux ans en alpha, gratuite, et les débuts ont ét...
 share: true
 ---
+
 
 Exasys Online est un MMORPG créée depuis maintenant cinq ans, par la Team Exa, et publié par une boite du même nom. Le jeu est resté presque pendant deux ans en "alpha", gratuite, et les débuts ont été mal reçu et très critiqué. Heureusement, par une fanbase active et par le fait que les développeurs étaient très accessibles, le jeu s'est très rapidement amélioré et connait désormais le succès tel qu'on le connait, en étant un des MMO les plus divertissants et complets du marché.
 
