@@ -1,14 +1,16 @@
 ---
-date: 08-09-2019
-share: true
-update: false
-type: OC
-doc: iframe
-univers: ❌
 category: Compendium
-description: Fiche de Ambre Loiseau
 cover: https://i.imgur.com/9ac8aiR.png
 cssclass: cards
+date: 2019-09-08
+description: Fiche de Ambre Loiseau
+dg-path: Compendium/Ambre Loiseau.md
+dg-publish: true
+doc: iframe
+share: true
+type: OC
+univers: ❌
+update: false
 tags:
   - OC
   - ❌
@@ -18,9 +20,10 @@ tags:
 ---
 
 
+
 ---
 $~$
- ![[../assets/img/Ambre_PP.jpeg|+side]]
+ ![[Ambre_PP.jpeg|+side]]
 <h1 align="center"> ◄ G E N E R A L ►</h1>
 
 **► Nom :** Loiseau
@@ -33,7 +36,7 @@ $~$
 
 <h1 align="center">CONTROLE DE LA BIOMASSE – VIRUS ZOMBIE</h1>
 
-%% [[Biomasse]] %%  
+%% [[20. AREA/Concept/Idées/Pouvoirs/Biomasse|20. AREA/Concept/Idées/Pouvoirs/Biomasse]] [[20. AREA/Concept/Idées/Pouvoirs/Zombie|20. AREA/Concept/Idées/Pouvoirs/Zombie]]%%  
 Décrit comme un zombie et infectée par un virus unique, elle est capable de se modifier physiquement. Elle peut créer des excroissances de chair ou d’os, modifier sa peau pour être plus solide ou simplement pour frapper plus fort. Elle peut se régénérer à l’infini, mais il lui faut un laps de temps plus ou moins long en fonction de ses blessures. De plus, elle a des réflexes qui sont énormément améliorés.
 
 ## Le lazarus
@@ -112,7 +115,7 @@ Une montre connectée à sa peau qui analyse en permanence ses calories. Elle lu
 → Elle joue dans une série d’invasion zombie, elle sert en outre de consultante à la série.
 → Son plat de base est les pâtes bolognaises. Elle est devenue très imaginative pour se faire des plats avec juste de la viande crue et des féculents.
 → Elle a un tatouage sur l’épaule, en forme de double hélice de l’ADN. Elle a aussi un pentacle sur l’omoplate.
-![[../assets/img/018a0f8d69380a0a45810392e008187f.png|+pins]]
+![[018a0f8d69380a0a45810392e008187f.png|+pins]]
 
 ## Goûts
 
